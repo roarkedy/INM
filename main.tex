@@ -1,0 +1,52 @@
+
+% Dies ist die Datei, in der alle Fäden der Arbeit zusammenlaufen.
+%
+\documentclass[a4paper, 12pt]{scrreprt}
+
+\usepackage[utf8]{inputenc}
+\usepackage[english,ngerman]{babel}
+\usepackage[autostyle,german=guillemets]{csquotes}
+\usepackage{hyphenation}
+\usepackage{parskip}
+\usepackage{scrpage2}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{todonotes}
+\usepackage[nottoc]{tocbibind}
+\usepackage{listings}
+\usepackage{caption}
+\usepackage{courier}
+\usepackage{chngcntr}
+\usepackage{hyperref}
+\hypersetup{
+	colorlinks,
+	citecolor=black,
+	filecolor=black,
+	linkcolor=black,
+	urlcolor=black
+}
+\usepackage[
+backend=biber, 
+style=alphabetic,
+isbn=false,
+url=false,
+doi=false
+]{biblatex}
+\addbibresource{verzeichnisse/library/zoterolib.bib}
+
+%\setuptoc{toc}{numbered}
+\begin{document}
+	% config for table of contents
+	\setcounter{tocdepth}{3}
+	% ongoing enumeration of footnotes
+	\counterwithout{footnote}{chapter}
+	\input{deckblatt}
+	%	\input{todos}
+   %	\input{abstract}
+	%\input{eidesstattliche_erklaerung}
+	%\input{danksagung}
+	\tableofcontents
+	\input{textteil/textteil}
+	\input{verzeichnisse/verzeichnisse}
+	\appendix
+\end{document}
