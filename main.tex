@@ -4,9 +4,10 @@
 \documentclass[a4paper, 12pt]{scrreprt}
 
 \usepackage[utf8]{inputenc}
+%\usepackage[applemac]{inputenc}
 \usepackage[english,ngerman]{babel}
 \usepackage[autostyle,german=guillemets]{csquotes}
-\usepackage{hyphenation}
+%\usepackage{hyphenation}
 \usepackage{parskip}
 \usepackage{scrpage2}
 \usepackage{graphicx}
@@ -26,13 +27,13 @@
 	urlcolor=black
 }
 \usepackage[
-backend=biber, 
+backend=biber,
 style=alphabetic,
 isbn=false,
 url=false,
 doi=false
 ]{biblatex}
-\addbibresource{verzeichnisse/library/zoterolib.bib}
+\addbibresource{struktur/literatur/literatur.bib}
 
 %\setuptoc{toc}{numbered}
 \begin{document}
@@ -40,13 +41,15 @@ doi=false
 	\setcounter{tocdepth}{3}
 	% ongoing enumeration of footnotes
 	\counterwithout{footnote}{chapter}
-	\input{deckblatt}
+	\input{struktur/deckblatt}
 	%	\input{todos}
-   %	\input{abstract}
+    \input{struktur/abstract.tex}
 	%\input{eidesstattliche_erklaerung}
 	%\input{danksagung}
 	\tableofcontents
-	\input{textteil/textteil}
-	\input{verzeichnisse/verzeichnisse}
+	\input{kapitel/einleitung}
+	\input{kapitel/index}
+	\input{kapitel/zusammenfassung}
+	\input{struktur/verzeichnisse}
 	\appendix
 \end{document}

@@ -1,0 +1,45 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {ngerman}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Abstract}{2}{section*.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Einleitung}{4}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Grundlegende Aufgaben und Organisation des INM und Besonderheiten von Hochschulen}{6}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Trends des INM an Hochschulen}{7}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Best-practice-Beispiel von INM an Hochschulen}{8}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Ist-Situation der Hochschule Emden/Leer hinsichtlich wichtiger Dimensionen}{9}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}M\IeC {\"o}gliche Soll-Situation im Hinblick auf die heutigen und zuk\IeC {\"u}nftigen Aufgaben}{10}{chapter.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}Konzept zur Erreichung der Soll-Situation und Umsetzungsplanung}{11}{chapter.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.1}Allgemeines}{11}{section.7.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.2}Einf\IeC {\"u}hrung des Informationsmanagements als Projekt}{11}{section.7.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.2.1}Projektmanagement}{11}{subsection.7.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.2.2}Change-Management}{11}{subsection.7.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.3}Besonderheiten der organisatorischen Umsetzung}{11}{section.7.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.4}Besonderheiten der technischen Umsetzung}{11}{section.7.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {8}Kosten- und Zeitplanung}{12}{chapter.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.1}Kosten}{12}{section.8.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.2}Zeit}{12}{section.8.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {9}Zusammenfassung}{13}{chapter.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Literatur- und Quellenverzeichnis}{14}{chapter*.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Tabellenverzeichnis}{15}{chapter*.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Abbildungsverzeichnis}{16}{chapter*.7}

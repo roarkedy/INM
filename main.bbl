@@ -1,0 +1,73 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.4 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{}{}
+    \entry{krcmar_einfuhrung_2015}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=97558c30684fb70538b0efcd39836dfd}{Krcmar}{K\bibinitperiod}{Helmut}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=97558c30684fb70538b0efcd39836dfd}{Krcmar}{K\bibinitperiod}{Helmut}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Gabler}%
+      }
+      \strng{namehash}{97558c30684fb70538b0efcd39836dfd}
+      \strng{fullhash}{97558c30684fb70538b0efcd39836dfd}
+      \field{labelalpha}{Krc15}
+      \field{sortinit}{K}
+      \field{sortinithash}{33bf4c961fa093ee6a297ccbd88eacc0}
+      \field{labeltitle}{Einführung in das Informationsmanagement}
+      \field{isbn}{9783662443286 3662443287 9783662443293 3662443295}
+      \field{title}{Einführung in das Informationsmanagement}
+      \field{year}{2015}
+    \endentry
+  \endsortlist
+  \sortlist{anyt}{anyt}
+    \entry{krcmar_einfuhrung_2015}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=97558c30684fb70538b0efcd39836dfd}{Krcmar}{K\bibinitperiod}{Helmut}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=97558c30684fb70538b0efcd39836dfd}{Krcmar}{K\bibinitperiod}{Helmut}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Gabler}%
+      }
+      \strng{namehash}{97558c30684fb70538b0efcd39836dfd}
+      \strng{fullhash}{97558c30684fb70538b0efcd39836dfd}
+      \field{labelalpha}{Krc15}
+      \field{sortinit}{K}
+      \field{sortinithash}{33bf4c961fa093ee6a297ccbd88eacc0}
+      \field{labeltitle}{Einführung in das Informationsmanagement}
+      \field{isbn}{9783662443286 3662443287 9783662443293 3662443295}
+      \field{title}{Einführung in das Informationsmanagement}
+      \field{year}{2015}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
