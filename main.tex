@@ -19,6 +19,8 @@
 \usepackage{courier}
 \usepackage{chngcntr}
 \usepackage{hyperref}
+%\setcounter{tocdepth}{4}
+
 \hypersetup{
 	colorlinks,
 	citecolor=black,
@@ -38,14 +40,10 @@ doi=false
 %\setuptoc{toc}{numbered}
 \begin{document}
 	% config for table of contents
-	\setcounter{tocdepth}{3}
 	% ongoing enumeration of footnotes
 	\counterwithout{footnote}{chapter}
 	\input{struktur/deckblatt}
-	%	\input{todos}
     \input{struktur/abstract.tex}
-	%\input{eidesstattliche_erklaerung}
-	%\input{danksagung}
 	\tableofcontents
 	\input{kapitel/einleitung}
 	\input{kapitel/index}
