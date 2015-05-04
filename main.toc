@@ -4,7 +4,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{Abstract}{2}{section*.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {1}Einleitung}{4}{chapter.1}
+\contentsline {chapter}{\numberline {1}Einleitung}{5}{chapter.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {2}Grundlegende Aufgaben und Organisation des INM und Besonderheiten von Hochschulen}{6}{chapter.2}
 \defcounter {refsection}{0}\relax 
@@ -16,27 +16,19 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {6}M\IeC {\"o}gliche Soll-Situation im Hinblick auf die heutigen und zuk\IeC {\"u}nftigen Aufgaben}{10}{chapter.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}Konzept zur Erreichung der Soll-Situation und Umsetzungsplanung}{11}{chapter.7}
+\contentsline {chapter}{\numberline {7}\IeC {\"U}berf\IeC {\"u}hrung des Ist-Zustandes in den Soll-Zustand}{11}{chapter.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.1}Allgemeines}{11}{section.7.1}
+\contentsline {section}{\numberline {7.1}Projekt-Management}{11}{section.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.2}Einf\IeC {\"u}hrung des Informationsmanagements als Projekt}{11}{section.7.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.2.1}Projektmanagement}{11}{subsection.7.2.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Iteratives Vorgehen}{11}{section*.5}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Stakeholder miteinbeziehen}{11}{section*.6}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.2.2}Change-Management}{11}{subsection.7.2.2}
+\contentsline {section}{\numberline {7.2}Change-Management}{11}{section.7.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {7.3}Besonderheiten der organisatorischen Umsetzung}{11}{section.7.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {7.3.1}Autonomie der Professoren}{11}{subsection.7.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Compliance herbeif\IeC {\"u}hren}{11}{section*.7}
+\contentsline {subsubsection}{Compliance herbeif\IeC {\"u}hren}{11}{section*.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Widerst\IeC {\"a}nde brechen}{11}{section*.8}
+\contentsline {subsubsection}{Widerst\IeC {\"a}nde brechen}{11}{section*.6}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {7.4}Besonderheiten der technischen Umsetzung}{11}{section.7.4}
 \defcounter {refsection}{0}\relax 
@@ -48,8 +40,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {9}Zusammenfassung}{13}{chapter.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Literatur- und Quellenverzeichnis}{14}{chapter*.9}
+\contentsline {chapter}{Literatur- und Quellenverzeichnis}{14}{chapter*.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Tabellenverzeichnis}{15}{chapter*.10}
+\contentsline {chapter}{Tabellenverzeichnis}{15}{chapter*.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Abbildungsverzeichnis}{16}{chapter*.11}
+\contentsline {chapter}{Abbildungsverzeichnis}{16}{chapter*.9}
