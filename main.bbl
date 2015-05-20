@@ -19,53 +19,97 @@
 
 \refsection{0}
   \sortlist{}{}
-    \entry{krcmar_einfuhrung_2015}{book}{}
+    \entry{bode_informationsmanagement_2010}{book}{}
       \name{labelname}{1}{}{%
-        {{hash=97558c30684fb70538b0efcd39836dfd}{Krcmar}{K\bibinitperiod}{Helmut}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bf949d2e4407c9d301205832a8be6ee5}{Bode}{B\bibinitperiod}{Arndt}{A\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{hash=97558c30684fb70538b0efcd39836dfd}{Krcmar}{K\bibinitperiod}{Helmut}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bf949d2e4407c9d301205832a8be6ee5}{Bode}{B\bibinitperiod}{Arndt}{A\bibinitperiod}{}{}{}{}}%
       }
       \list{location}{1}{%
-        {Berlin, Heidelberg}%
+        {Berlin [u.a.]}%
       }
       \list{publisher}{1}{%
-        {Springer Gabler}%
+        {Springer}%
       }
-      \strng{namehash}{97558c30684fb70538b0efcd39836dfd}
-      \strng{fullhash}{97558c30684fb70538b0efcd39836dfd}
-      \field{labelalpha}{Krc15}
-      \field{sortinit}{K}
-      \field{sortinithash}{33bf4c961fa093ee6a297ccbd88eacc0}
-      \field{labeltitle}{Einführung in das Informationsmanagement}
-      \field{isbn}{9783662443286 3662443287 9783662443293 3662443295}
-      \field{title}{Einführung in das Informationsmanagement}
-      \field{year}{2015}
+      \strng{namehash}{bf949d2e4407c9d301205832a8be6ee5}
+      \strng{fullhash}{bf949d2e4407c9d301205832a8be6ee5}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labeltitle}{Informationsmanagement in Hochschulen}
+      \field{isbn}{9783642047190}
+      \field{title}{Informationsmanagement in Hochschulen}
+      \field{year}{2010}
+    \endentry
+    \entry{vogl_bericht_2013}{book}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=30e4bdd9e84d311a8ffeaf0b056857f9}{Vogl}{V\bibinitperiod}{Raimund\bibnamedelimb et\bibnamedelima al.}{R\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=30e4bdd9e84d311a8ffeaf0b056857f9}{Vogl}{V\bibinitperiod}{Raimund\bibnamedelimb et\bibnamedelima al.}{R\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Münster}%
+      }
+      \list{publisher}{1}{%
+        {{MV} Wissenschaft}%
+      }
+      \strng{namehash}{30e4bdd9e84d311a8ffeaf0b056857f9}
+      \strng{fullhash}{30e4bdd9e84d311a8ffeaf0b056857f9}
+      \field{sortinit}{V}
+      \field{sortinithash}{63562d1af2cd68fb37e2e14e0c6d5c96}
+      \field{labeltitle}{Integriertes Informationsmanagement an der Universität Münster: Abschlussbericht des Projektes MIRO - Münster Information System for Research and Organization}
+      \field{isbn}{9783840500534}
+      \field{title}{Integriertes Informationsmanagement an der Universität Münster: Abschlussbericht des Projektes MIRO - Münster Information System for Research and Organization}
+      \field{year}{2013}
+      \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'vogl_bericht_2013'}
     \endentry
   \endsortlist
-  \sortlist{anyt}{anyt}
-    \entry{krcmar_einfuhrung_2015}{book}{}
+  \sortlist{nty}{nty}
+    \entry{bode_informationsmanagement_2010}{book}{}
       \name{labelname}{1}{}{%
-        {{hash=97558c30684fb70538b0efcd39836dfd}{Krcmar}{K\bibinitperiod}{Helmut}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bf949d2e4407c9d301205832a8be6ee5}{Bode}{B\bibinitperiod}{Arndt}{A\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{hash=97558c30684fb70538b0efcd39836dfd}{Krcmar}{K\bibinitperiod}{Helmut}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bf949d2e4407c9d301205832a8be6ee5}{Bode}{B\bibinitperiod}{Arndt}{A\bibinitperiod}{}{}{}{}}%
       }
       \list{location}{1}{%
-        {Berlin, Heidelberg}%
+        {Berlin [u.a.]}%
       }
       \list{publisher}{1}{%
-        {Springer Gabler}%
+        {Springer}%
       }
-      \strng{namehash}{97558c30684fb70538b0efcd39836dfd}
-      \strng{fullhash}{97558c30684fb70538b0efcd39836dfd}
-      \field{labelalpha}{Krc15}
-      \field{sortinit}{K}
-      \field{sortinithash}{33bf4c961fa093ee6a297ccbd88eacc0}
-      \field{labeltitle}{Einführung in das Informationsmanagement}
-      \field{isbn}{9783662443286 3662443287 9783662443293 3662443295}
-      \field{title}{Einführung in das Informationsmanagement}
-      \field{year}{2015}
+      \strng{namehash}{bf949d2e4407c9d301205832a8be6ee5}
+      \strng{fullhash}{bf949d2e4407c9d301205832a8be6ee5}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labeltitle}{Informationsmanagement in Hochschulen}
+      \field{isbn}{9783642047190}
+      \field{title}{Informationsmanagement in Hochschulen}
+      \field{year}{2010}
+    \endentry
+    \entry{vogl_bericht_2013}{book}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=30e4bdd9e84d311a8ffeaf0b056857f9}{Vogl}{V\bibinitperiod}{Raimund\bibnamedelimb et\bibnamedelima al.}{R\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=30e4bdd9e84d311a8ffeaf0b056857f9}{Vogl}{V\bibinitperiod}{Raimund\bibnamedelimb et\bibnamedelima al.}{R\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Münster}%
+      }
+      \list{publisher}{1}{%
+        {{MV} Wissenschaft}%
+      }
+      \strng{namehash}{30e4bdd9e84d311a8ffeaf0b056857f9}
+      \strng{fullhash}{30e4bdd9e84d311a8ffeaf0b056857f9}
+      \field{sortinit}{V}
+      \field{sortinithash}{63562d1af2cd68fb37e2e14e0c6d5c96}
+      \field{labeltitle}{Integriertes Informationsmanagement an der Universität Münster: Abschlussbericht des Projektes MIRO - Münster Information System for Research and Organization}
+      \field{isbn}{9783840500534}
+      \field{title}{Integriertes Informationsmanagement an der Universität Münster: Abschlussbericht des Projektes MIRO - Münster Information System for Research and Organization}
+      \field{year}{2013}
+      \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'vogl_bericht_2013'}
     \endentry
   \endsortlist
 \endrefsection
