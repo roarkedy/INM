@@ -1,21 +1,22 @@
 [0] Config.pm:320> INFO - This is Biber 1.9
 [0] Config.pm:323> INFO - Logfile is 'main.blg'
-[40] biber-darwin:277> INFO - === Mo Apr  6, 2015, 19:32:17
+[40] biber-darwin:277> INFO - === Wed May 20, 2015, 18:19:37
 [40] Biber.pm:333> INFO - Reading 'main.bcf'
 [97] Utils.pm:144> WARN - Warning: Found biblatex control file version 2.4, expected version 2.6
-[98] Biber.pm:635> INFO - Found 1 citekeys in bib section 0
-[121] Biber.pm:3051> INFO - Processing section 0
-[142] Biber.pm:3189> INFO - Looking for bibtex format file 'struktur/literatur/literatur.bib' for section 0
+[100] Biber.pm:635> INFO - Found 2 citekeys in bib section 0
+[123] Biber.pm:3051> INFO - Processing section 0
+[142] Biber.pm:3189> INFO - Looking for bibtex format file 'literatur.bib' for section 0
 [145] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
-[146] bibtex.pm:864> INFO - Found BibTeX data source 'struktur/literatur/literatur.bib'
-[167] UCollate.pm:66> INFO - Overriding locale '' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[167] UCollate.pm:66> INFO - Overriding locale '' defaults 'variable = shifted' with 'variable = non-ignorable'
-[167] Biber.pm:2928> INFO - Sorting list '' of type 'entry' with scheme '' and locale ''
-[167] Biber.pm:2932> INFO - No sort tailoring available for locale ''
-[181] UCollate.pm:66> INFO - Overriding locale '' defaults 'variable = shifted' with 'variable = non-ignorable'
-[181] UCollate.pm:66> INFO - Overriding locale '' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[181] Biber.pm:2928> INFO - Sorting list 'anyt' of type 'entry' with scheme 'anyt' and locale ''
-[182] Biber.pm:2932> INFO - No sort tailoring available for locale ''
-[184] bbl.pm:517> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[184] bbl.pm:606> INFO - Output to main.bbl
-[185] Biber.pm:106> INFO - WARNINGS: 1
+[145] bibtex.pm:864> INFO - Found BibTeX data source 'literatur.bib'
+[149] Utils.pm:144> WARN - Overwriting field 'year' with year value from field 'date' for entry 'vogl_bericht_2013'
+[176] UCollate.pm:66> INFO - Overriding locale '' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[176] UCollate.pm:66> INFO - Overriding locale '' defaults 'variable = shifted' with 'variable = non-ignorable'
+[176] Biber.pm:2928> INFO - Sorting list '' of type 'entry' with scheme '' and locale ''
+[176] Biber.pm:2932> INFO - No sort tailoring available for locale ''
+[199] UCollate.pm:66> INFO - Overriding locale '' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[199] UCollate.pm:66> INFO - Overriding locale '' defaults 'variable = shifted' with 'variable = non-ignorable'
+[199] Biber.pm:2928> INFO - Sorting list 'nty' of type 'entry' with scheme 'nty' and locale ''
+[199] Biber.pm:2932> INFO - No sort tailoring available for locale ''
+[205] bbl.pm:517> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[206] bbl.pm:606> INFO - Output to main.bbl
+[206] Biber.pm:106> INFO - WARNINGS: 2

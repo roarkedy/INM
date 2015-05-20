@@ -7,7 +7,6 @@
 %\usepackage[applemac]{inputenc}
 \usepackage[english,ngerman]{babel}
 \usepackage[autostyle,german=guillemets]{csquotes}
-%\usepackage{hyphenation}
 \usepackage{parskip}
 \usepackage{scrpage2}
 \usepackage{graphicx}
@@ -16,9 +15,10 @@
 \usepackage[nottoc]{tocbibind}
 \usepackage{listings}
 \usepackage{caption}
-\usepackage{courier}
+%\usepackage{courier}
 \usepackage{chngcntr}
 \usepackage{hyperref}
+\usepackage{url}
 %\setcounter{tocdepth}{4}
 
 \hypersetup{
@@ -30,12 +30,14 @@
 }
 \usepackage[
 backend=biber,
-style=alphabetic,
-isbn=false,
+style=authortitle-icomp,
+isbn=true,
 url=false,
 doi=false
 ]{biblatex}
-\addbibresource{struktur/literatur/literatur.bib}
+\addbibresource{literatur.bib}
+
+\bibliography{literatur}
 
 %\setuptoc{toc}{numbered}
 \begin{document}
@@ -44,6 +46,7 @@ doi=false
 	\counterwithout{footnote}{chapter}
 	\input{struktur/deckblatt}
     \input{struktur/abstract.tex}
+    \input{kapitel/autorenliste}
 	\tableofcontents
 	\input{kapitel/einleitung}
 	\input{kapitel/index}
