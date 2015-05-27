@@ -62,7 +62,6 @@
       \field{isbn}{9783840500534}
       \field{title}{Integriertes Informationsmanagement an der Universität Münster: Abschlussbericht des Projektes MIRO - Münster Information System for Research and Organization}
       \field{year}{2013}
-      \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'vogl_bericht_2013'}
     \endentry
   \endsortlist
   \sortlist{nty}{nty}
@@ -109,7 +108,6 @@
       \field{isbn}{9783840500534}
       \field{title}{Integriertes Informationsmanagement an der Universität Münster: Abschlussbericht des Projektes MIRO - Münster Information System for Research and Organization}
       \field{year}{2013}
-      \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'vogl_bericht_2013'}
     \endentry
   \endsortlist
 \endrefsection

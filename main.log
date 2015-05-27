@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.6.13)  20 MAY 2015 18:55
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.6.13)  20 MAY 2015 19:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1199,20 +1199,7 @@ Package biblatex Warning: File 'main.bbl' is wrong format version - expected 2.
 2.
 
 Package biblatex Info: ... file 'main.bbl' found.
-(./main.bbl
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'vogl_bericht_2013':
-(biblatex)                - Overwriting field 'year' with year value from field
- 'date' for entry 'vogl_bericht_2013'.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'vogl_bericht_2013':
-(biblatex)                - Overwriting field 'year' with year value from field
- 'date' for entry 'vogl_bericht_2013'.
-
-)
+(./main.bbl)
 Package biblatex Info: Reference section=0 on input line 43.
 Package biblatex Info: Reference segment=0 on input line 43.
  (./struktur/deckblatt.tex
@@ -2175,7 +2162,7 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  24615 strings out of 493315
  434376 string characters out of 6137904
- 885174 words of memory out of 5000000
+ 885172 words of memory out of 5000000
  27408 multiletter control sequences out of 15000+600000
  9796 words of font info for 35 fonts, out of 8000000 for 9000
  961 hyphenation exceptions out of 8191
