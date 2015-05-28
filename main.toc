@@ -80,7 +80,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {9}Zusammenfassung}{34}{chapter.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Literatur- und Quellenverzeichnis}{35}{chapter*.7}
+\contentsline {chapter}{\nonumberline Literatur- und Quellenverzeichnis}{35}{chapter*.7}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Tabellenverzeichnis}{36}{chapter*.8}
 \defcounter {refsection}{0}\relax 
