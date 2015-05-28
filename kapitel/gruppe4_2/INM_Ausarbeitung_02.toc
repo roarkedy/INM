@@ -1,0 +1,17 @@
+\select@language {ngerman}
+\contentsline {section}{\numberline {1}Kostenarten}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}\ Kostenarten in Hochschulen}{3}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Kostenarten in der IT}{5}{subsection.1.2}
+\contentsline {section}{\numberline {2}Verfahren f\IeC {\"u}r Kosten- und Zeitsch\IeC {\"a}tzung}{10}{section.2}
+\contentsline {subsection}{\numberline {2.1}Projektmanagement an einer Hochschule}{10}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Kostensch\IeC {\"a}tzung (Total Cost of Ownership)}{10}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Zeitplanung}{12}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Gantt{}-Diagramm}{12}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}Meilensteintrendanalyse}{13}{subsubsection.2.3.2}
+\contentsline {subsection}{\numberline {2.4}Anwendung}{16}{subsection.2.4}
+\contentsline {subsubsection}{\numberline {2.4.1}Dokumentenmanagementsystem Alfresco}{16}{subsubsection.2.4.1}
+\contentsline {subsubsection}{\numberline {2.4.2}Redesign/Relaunch Hochschul{}-Webseite}{19}{subsubsection.2.4.2}
+\contentsline {subsubsection}{\numberline {2.4.3}Facebook Seite}{21}{subsubsection.2.4.3}
+\contentsline {section}{\numberline {3}Ausgew\IeC {\"a}hlte Projekt-Beispiele}{1}{section.3}
+\contentsline {subsection}{\numberline {3.1}Beispiele des integrierten Informationsmanagements}{1}{subsection.3.1}
+\contentsline {section}{\numberline {4}Literaturverzeichnis}{5}{section.4}
