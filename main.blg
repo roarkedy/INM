@@ -1,21 +1,12 @@
-[0] Config.pm:320> INFO - This is Biber 1.9
-[0] Config.pm:323> INFO - Logfile is 'main.blg'
-[40] biber-darwin:277> INFO - === Wed May 20, 2015, 19:04:58
-[40] Biber.pm:333> INFO - Reading 'main.bcf'
-[102] Utils.pm:144> WARN - Warning: Found biblatex control file version 2.4, expected version 2.6
-[105] Biber.pm:635> INFO - Found 2 citekeys in bib section 0
-[131] Biber.pm:3051> INFO - Processing section 0
-[149] Biber.pm:3189> INFO - Looking for bibtex format file 'literatur.bib' for section 0
-[151] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
-[152] bibtex.pm:864> INFO - Found BibTeX data source 'literatur.bib'
-[182] UCollate.pm:66> INFO - Overriding locale '' defaults 'variable = shifted' with 'variable = non-ignorable'
-[182] UCollate.pm:66> INFO - Overriding locale '' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[182] Biber.pm:2928> INFO - Sorting list '' of type 'entry' with scheme '' and locale ''
-[182] Biber.pm:2932> INFO - No sort tailoring available for locale ''
-[204] UCollate.pm:66> INFO - Overriding locale '' defaults 'variable = shifted' with 'variable = non-ignorable'
-[204] UCollate.pm:66> INFO - Overriding locale '' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[204] Biber.pm:2928> INFO - Sorting list 'nty' of type 'entry' with scheme 'nty' and locale ''
-[204] Biber.pm:2932> INFO - No sort tailoring available for locale ''
-[211] bbl.pm:517> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[212] bbl.pm:606> INFO - Output to main.bbl
-[212] Biber.pm:106> INFO - WARNINGS: 1
+[0] Config.pm:318> INFO - This is Biber 1.8
+[0] Config.pm:321> INFO - Logfile is 'main.blg'
+[60] biber-darwin:275> INFO - === Fri May 29, 2015, 17:20:18
+[60] Biber.pm:333> INFO - Reading 'main.bcf'
+[133] Biber.pm:630> INFO - Found 3 citekeys in bib section 0
+[154] Biber.pm:3053> INFO - Processing section 0
+[176] Biber.pm:3190> INFO - Looking for bibtex format file 'struktur/literatur.bib' for section 0
+[177] bibtex.pm:937> INFO - Decoding LaTeX character macros into UTF-8
+[178] bibtex.pm:812> INFO - Found BibTeX data source 'struktur/literatur.bib'
+[182] Biber.pm:3190> INFO - Looking for bibtex format file 'literatur.bib' for section 0
+[675] Utils.pm:185> ERROR - Cannot find 'literatur.bib'!
+[675] Biber.pm:109> INFO - ERRORS: 1
