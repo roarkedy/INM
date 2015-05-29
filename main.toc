@@ -134,28 +134,58 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.4.3}Sicherheitsaspekte}{42}{subsection.5.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.4.3.1}Sicherheitsrichtlinien an der Hochschule Emden / Leer}{42}{subsubsection.5.4.3.1}
+\contentsline {subsubsection}{\numberline {5.4.3.1}Sicherheitsrichtlinien an der Hochschule Emden / Leer}{43}{subsubsection.5.4.3.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {5.4.3.2}Einsatz von ITIL}{43}{subsubsection.5.4.3.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {5.4.3.3}Umsetzung von ISO/IEC 27001}{43}{subsubsection.5.4.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.4.3.4}Single Sign-On}{43}{subsubsection.5.4.3.4}
+\contentsline {subsubsection}{\numberline {5.4.3.4}Single Sign-On}{44}{subsubsection.5.4.3.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {5.4.3.5}Fazit Sicherheitsrichtlinien}{44}{subsubsection.5.4.3.5}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.5}Repr\IeC {\"a}sentation von Informationen}{44}{section.5.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.6}Kooperations-Situation mit anderen Hochschulen}{44}{section.5.6}
+\contentsline {subsection}{\numberline {5.5.1}Erscheinungsbild nach au\IeC {\ss }en}{44}{subsection.5.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}M\IeC {\"o}gliche Soll-Situation im Hinblick auf die heutigen und zuk\IeC {\"u}nftigen Aufgaben}{45}{chapter.6}
+\contentsline {subsection}{\numberline {5.5.2}Studentengewinnung}{44}{subsection.5.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}\IeC {\"U}berf\IeC {\"u}hrung des Ist-Zustandes in den Soll-Zustand}{46}{chapter.7}
+\contentsline {subsection}{\numberline {5.5.3}Corporate Identity}{44}{subsection.5.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.1}Zeit und Geld}{46}{section.7.1}
+\contentsline {subsection}{\numberline {5.5.4}Handling von Bewerberdaten}{45}{subsection.5.5.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}Zusammenfassung}{47}{chapter.8}
+\contentsline {section}{\numberline {5.6}Kooperations-Situation mit anderen Hochschulen}{45}{section.5.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Tabellenverzeichnis}{48}{chapter*.17}
+\contentsline {subsection}{\numberline {5.6.1}Regionaler Bezug zu Hochschulen (Mitgliedschaften)}{46}{subsection.5.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Abbildungsverzeichnis}{49}{chapter*.18}
+\contentsline {subsection}{\numberline {5.6.2}Kooperation zwischen Unternehmen}{46}{subsection.5.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.6.3}Eingesetzte IT-Systeme durch Mitgliedschaft im DFN-Verein}{47}{subsection.5.6.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.6.3.1}DFNRoaming/eduroam}{47}{subsubsection.5.6.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.6.3.2}GigaMove der RWTH Aachen}{47}{subsubsection.5.6.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.6.3.3}DFNVideoConference (DFNVC)}{48}{subsubsection.5.6.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.6.4}Authentifizierung \IeC {\"u}ber das Shibboleth-Verfahren}{48}{subsection.5.6.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.6.4.1}Springer Link}{49}{subsubsection.5.6.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.6.4.2}WISO}{49}{subsubsection.5.6.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.6.4.3}video2brain}{49}{subsubsection.5.6.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.6.5}Support der Dienste}{50}{subsection.5.6.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.7}Bewertung und Gewichtung}{50}{section.5.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}M\IeC {\"o}gliche Soll-Situation im Hinblick auf die heutigen und zuk\IeC {\"u}nftigen Aufgaben}{51}{chapter.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}\IeC {\"U}berf\IeC {\"u}hrung des Ist-Zustandes in den Soll-Zustand}{52}{chapter.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {8}Zusammenfassung}{53}{chapter.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Tabellenverzeichnis}{54}{chapter*.23}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Abbildungsverzeichnis}{55}{chapter*.24}
