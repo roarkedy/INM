@@ -19,7 +19,9 @@
 \usepackage{chngcntr}
 \usepackage{hyperref}
 \usepackage{url}
-%\setcounter{tocdepth}{4}
+\urlstyle{rm}
+\setcounter{tocdepth}{4}
+\setcounter{secnumdepth}{4}
 
 \hypersetup{
 	colorlinks,
@@ -35,17 +37,16 @@ isbn=true,
 url=false,
 doi=false
 ]{biblatex}
-\addbibresource{struktur/literatur.bib}
+%\addbibresource{./struktur/literatur.bib}
 
-\bibliography{literatur}
+%\bibliography{literatur}
 
-%\setuptoc{toc}{numbered}
 \begin{document}
 	% config for table of contents
 	% ongoing enumeration of footnotes
 	\counterwithout{footnote}{chapter}
-	\listoftodos
 	\input{struktur/deckblatt}
+	\listoftodos
     \input{struktur/abstract.tex}
     \input{kapitel/autorenliste}
 	\tableofcontents
