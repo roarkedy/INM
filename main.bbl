@@ -1,0 +1,382 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.4 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{}{}
+    \entry{dini_webportale_2007}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=b2ae0814f89a8bd5fd6158d0f5e13f8a}{{Arbeitsgruppe\bibnamedelimb Webportale}}{A\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=b2ae0814f89a8bd5fd6158d0f5e13f8a}{{Arbeitsgruppe\bibnamedelimb Webportale}}{A\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{b2ae0814f89a8bd5fd6158d0f5e13f8a}
+      \strng{fullhash}{b2ae0814f89a8bd5fd6158d0f5e13f8a}
+      \field{sortinit}{A}
+      \field{sortinithash}{c8a29dea43e9d2645817723335a4dbe8}
+      \field{labeltitle}{Personalisierte Webportale f{ü}r Hochschulen}
+      \field{journaltitle}{DINI Schriften}
+      \field{title}{Personalisierte Webportale f{ü}r Hochschulen}
+      \field{volume}{9}
+      \field{year}{2007}
+    \endentry
+    \entry{baun_servervirtualisierung_2009}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=84594b0de773fac4e4fd5f27b4aedbff}{Baun}{B\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=abb8ad23fec63bae14e5bb2966f07080}{Kunze}{K\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d33515fa8ee27c763b2f4416fd0fb6b8}{Ludwig}{L\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=84594b0de773fac4e4fd5f27b4aedbff}{Baun}{B\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=abb8ad23fec63bae14e5bb2966f07080}{Kunze}{K\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d33515fa8ee27c763b2f4416fd0fb6b8}{Ludwig}{L\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f126f810a2baab8e0291f2b1a866c3a9}
+      \strng{fullhash}{f126f810a2baab8e0291f2b1a866c3a9}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labeltitle}{Servervirtualisierung}
+      \field{journaltitle}{Informatik-Spektrum}
+      \field{month}{06}
+      \field{number}{3}
+      \field{title}{Servervirtualisierung}
+      \field{volume}{32}
+      \field{year}{2009}
+      \field{pages}{197\bibrangedash 205}
+    \endentry
+    \entry{bode_informationsmanagement_2010}{book}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=8e483f44c9eeef52c18b4441aa9dda1e}{Bode}{B\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=8e483f44c9eeef52c18b4441aa9dda1e}{Bode}{B\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Berlin [u.a.]}%
+      }
+      \list{publisher}{1}{%
+        {Springer Verlag}%
+      }
+      \strng{namehash}{8e483f44c9eeef52c18b4441aa9dda1e}
+      \strng{fullhash}{8e483f44c9eeef52c18b4441aa9dda1e}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labeltitle}{Informationsmanagement in Hochschulen}
+      \field{isbn}{9783642047190}
+      \field{title}{Informationsmanagement in Hochschulen}
+      \field{year}{2010}
+      \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'bode_informationsmanagement_2010'}
+    \endentry
+    \entry{zahn_itmanagement}{misc}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=adaa2d5fd99ffd0969ed14e00a1f11e5}{Dr.\bibnamedelimi Zahn}{D\bibinitperiod\bibinitdelim Z\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=adaa2d5fd99ffd0969ed14e00a1f11e5}{Dr.\bibnamedelimi Zahn}{D\bibinitperiod\bibinitdelim Z\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {Universit{ä}t Augsburg}%
+      }
+      \strng{namehash}{adaa2d5fd99ffd0969ed14e00a1f11e5}
+      \strng{fullhash}{adaa2d5fd99ffd0969ed14e00a1f11e5}
+      \field{sortinit}{D}
+      \field{sortinithash}{a01c54d1737685bc6dbf0ea0673fa44c}
+      \field{labeltitle}{Vom ITS zum IT-Management an der Universit{ä}t Ausgburg}
+      \field{howpublished}{Vortrag}
+      \field{month}{11}
+      \field{title}{Vom ITS zum IT-Management an der Universit{ä}t Ausgburg}
+      \field{year}{2010}
+    \endentry
+    \entry{kloetgen_2012}{incollection}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=0,hash=eb4b6ec5c04ed0f124cca9f7c82befbf}{Kl{ö}tgen}{K\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3e114c78c271d9b1db0b46cbe439ffa7}{Lorenz}{L\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=cb26af06fd2847bf24869420b5f6912b}{Przibytzin}{P\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d744ec64849c5d35f740899e19e43a69}{Tr{ö}ger}{T\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=eb4b6ec5c04ed0f124cca9f7c82befbf}{Kl{ö}tgen}{K\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3e114c78c271d9b1db0b46cbe439ffa7}{Lorenz}{L\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=cb26af06fd2847bf24869420b5f6912b}{Przibytzin}{P\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d744ec64849c5d35f740899e19e43a69}{Tr{ö}ger}{T\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{3}{%
+        {Vogl, R.}%
+        {Tr{ö}ger, B.}%
+        {Schwartze, S.}%
+      }
+      \strng{namehash}{740fead33c2ee58571cc7946e0876e23}
+      \strng{fullhash}{ba203223c0890d6ece9ae52d0d039572}
+      \field{sortinit}{K}
+      \field{sortinithash}{33bf4c961fa093ee6a297ccbd88eacc0}
+      \field{labeltitle}{Das digitale wissenschaftliche Informationssystem der WWU}
+      \field{booktitle}{Fortschritte des integrierten Informationsmanagements an Hochschulen}
+      \field{title}{Das digitale wissenschaftliche Informationssystem der WWU}
+      \field{year}{2012}
+    \endentry
+    \entry{becker_prozesse_2010}{misc}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=92c14a2adaf18b586bcbfdd62d70ba5b}{Prof.\bibnamedelimi Dr.\bibnamedelimi Becker}{P\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim B\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=92c14a2adaf18b586bcbfdd62d70ba5b}{Prof.\bibnamedelimi Dr.\bibnamedelimi Becker}{P\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim B\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{92c14a2adaf18b586bcbfdd62d70ba5b}
+      \strng{fullhash}{92c14a2adaf18b586bcbfdd62d70ba5b}
+      \field{sortinit}{P}
+      \field{sortinithash}{b8af9282ac256b81613dc9012a0ac921}
+      \field{labeltitle}{Prozessorientierte Verwaltungsmodernisierung an Hochschulen}
+      \field{howpublished}{Vortrag}
+      \field{title}{Prozessorientierte Verwaltungsmodernisierung an Hochschulen}
+      \field{year}{2010}
+    \endentry
+    \entry{vogl_bericht_2013}{book}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=b44647a545722d6209537e5a943f0b1a}{Vogl}{V\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d744ec64849c5d35f740899e19e43a69}{Tr{ö}ger}{T\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=614f43ac9d02609473cc61ec84fbd6b6}{Schwarte}{S\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=b44647a545722d6209537e5a943f0b1a}{Vogl}{V\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d744ec64849c5d35f740899e19e43a69}{Tr{ö}ger}{T\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=614f43ac9d02609473cc61ec84fbd6b6}{Schwarte}{S\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {M{ü}nster}%
+      }
+      \list{publisher}{1}{%
+        {Monsenstein und Vannerdat}%
+      }
+      \strng{namehash}{082ed8cf4eecf9d49c4c16cc32604c55}
+      \strng{fullhash}{082ed8cf4eecf9d49c4c16cc32604c55}
+      \field{sortinit}{V}
+      \field{sortinithash}{63562d1af2cd68fb37e2e14e0c6d5c96}
+      \field{labeltitle}{Integriertes Informationsmanagement an der Universit{ä}t M{ü}nster}
+      \field{isbn}{9783840500534}
+      \field{title}{Integriertes Informationsmanagement an der Universit{ä}t M{ü}nster}
+      \field{year}{2013}
+      \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'vogl_bericht_2013'}
+    \endentry
+    \entry{grote_fortschritte_2012}{book}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=b44647a545722d6209537e5a943f0b1a}{Vogl}{V\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d744ec64849c5d35f740899e19e43a69}{Tr{ö}ger}{T\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=dba513fac37dddbee121cc7a738bc5f4}{Schwartze}{S\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=b44647a545722d6209537e5a943f0b1a}{Vogl}{V\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d744ec64849c5d35f740899e19e43a69}{Tr{ö}ger}{T\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=dba513fac37dddbee121cc7a738bc5f4}{Schwartze}{S\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Monsenstein und Vannerdat}%
+      }
+      \strng{namehash}{f4e549a00b1dabcb290592a6b4bbb3cc}
+      \strng{fullhash}{f4e549a00b1dabcb290592a6b4bbb3cc}
+      \field{sortinit}{V}
+      \field{sortinithash}{63562d1af2cd68fb37e2e14e0c6d5c96}
+      \field{labeltitle}{Fortschritte des integrierten Informationsmanagements an Hochschulen}
+      \field{series}{Wissenschaftliche Schriften der WWU M{ü}nster}
+      \field{title}{Fortschritte des integrierten Informationsmanagements an Hochschulen}
+      \field{year}{2012}
+    \endentry
+  \endsortlist
+  \sortlist{nty}{nty}
+    \entry{dini_webportale_2007}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=b2ae0814f89a8bd5fd6158d0f5e13f8a}{{Arbeitsgruppe\bibnamedelimb Webportale}}{A\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=b2ae0814f89a8bd5fd6158d0f5e13f8a}{{Arbeitsgruppe\bibnamedelimb Webportale}}{A\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{b2ae0814f89a8bd5fd6158d0f5e13f8a}
+      \strng{fullhash}{b2ae0814f89a8bd5fd6158d0f5e13f8a}
+      \field{sortinit}{A}
+      \field{sortinithash}{c8a29dea43e9d2645817723335a4dbe8}
+      \field{labeltitle}{Personalisierte Webportale f{ü}r Hochschulen}
+      \field{journaltitle}{DINI Schriften}
+      \field{title}{Personalisierte Webportale f{ü}r Hochschulen}
+      \field{volume}{9}
+      \field{year}{2007}
+    \endentry
+    \entry{baun_servervirtualisierung_2009}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=84594b0de773fac4e4fd5f27b4aedbff}{Baun}{B\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=abb8ad23fec63bae14e5bb2966f07080}{Kunze}{K\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d33515fa8ee27c763b2f4416fd0fb6b8}{Ludwig}{L\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=84594b0de773fac4e4fd5f27b4aedbff}{Baun}{B\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=abb8ad23fec63bae14e5bb2966f07080}{Kunze}{K\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d33515fa8ee27c763b2f4416fd0fb6b8}{Ludwig}{L\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f126f810a2baab8e0291f2b1a866c3a9}
+      \strng{fullhash}{f126f810a2baab8e0291f2b1a866c3a9}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labeltitle}{Servervirtualisierung}
+      \field{journaltitle}{Informatik-Spektrum}
+      \field{month}{06}
+      \field{number}{3}
+      \field{title}{Servervirtualisierung}
+      \field{volume}{32}
+      \field{year}{2009}
+      \field{pages}{197\bibrangedash 205}
+    \endentry
+    \entry{bode_informationsmanagement_2010}{book}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=8e483f44c9eeef52c18b4441aa9dda1e}{Bode}{B\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=8e483f44c9eeef52c18b4441aa9dda1e}{Bode}{B\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Berlin [u.a.]}%
+      }
+      \list{publisher}{1}{%
+        {Springer Verlag}%
+      }
+      \strng{namehash}{8e483f44c9eeef52c18b4441aa9dda1e}
+      \strng{fullhash}{8e483f44c9eeef52c18b4441aa9dda1e}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labeltitle}{Informationsmanagement in Hochschulen}
+      \field{isbn}{9783642047190}
+      \field{title}{Informationsmanagement in Hochschulen}
+      \field{year}{2010}
+      \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'bode_informationsmanagement_2010'}
+    \endentry
+    \entry{zahn_itmanagement}{misc}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=adaa2d5fd99ffd0969ed14e00a1f11e5}{Dr.\bibnamedelimi Zahn}{D\bibinitperiod\bibinitdelim Z\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=adaa2d5fd99ffd0969ed14e00a1f11e5}{Dr.\bibnamedelimi Zahn}{D\bibinitperiod\bibinitdelim Z\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {Universit{ä}t Augsburg}%
+      }
+      \strng{namehash}{adaa2d5fd99ffd0969ed14e00a1f11e5}
+      \strng{fullhash}{adaa2d5fd99ffd0969ed14e00a1f11e5}
+      \field{sortinit}{D}
+      \field{sortinithash}{a01c54d1737685bc6dbf0ea0673fa44c}
+      \field{labeltitle}{Vom ITS zum IT-Management an der Universit{ä}t Ausgburg}
+      \field{howpublished}{Vortrag}
+      \field{month}{11}
+      \field{title}{Vom ITS zum IT-Management an der Universit{ä}t Ausgburg}
+      \field{year}{2010}
+    \endentry
+    \entry{kloetgen_2012}{incollection}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=0,hash=eb4b6ec5c04ed0f124cca9f7c82befbf}{Kl{ö}tgen}{K\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3e114c78c271d9b1db0b46cbe439ffa7}{Lorenz}{L\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=cb26af06fd2847bf24869420b5f6912b}{Przibytzin}{P\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d744ec64849c5d35f740899e19e43a69}{Tr{ö}ger}{T\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=eb4b6ec5c04ed0f124cca9f7c82befbf}{Kl{ö}tgen}{K\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3e114c78c271d9b1db0b46cbe439ffa7}{Lorenz}{L\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=cb26af06fd2847bf24869420b5f6912b}{Przibytzin}{P\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d744ec64849c5d35f740899e19e43a69}{Tr{ö}ger}{T\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{3}{%
+        {Vogl, R.}%
+        {Tr{ö}ger, B.}%
+        {Schwartze, S.}%
+      }
+      \strng{namehash}{740fead33c2ee58571cc7946e0876e23}
+      \strng{fullhash}{ba203223c0890d6ece9ae52d0d039572}
+      \field{sortinit}{K}
+      \field{sortinithash}{33bf4c961fa093ee6a297ccbd88eacc0}
+      \field{labeltitle}{Das digitale wissenschaftliche Informationssystem der WWU}
+      \field{booktitle}{Fortschritte des integrierten Informationsmanagements an Hochschulen}
+      \field{title}{Das digitale wissenschaftliche Informationssystem der WWU}
+      \field{year}{2012}
+    \endentry
+    \entry{becker_prozesse_2010}{misc}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=92c14a2adaf18b586bcbfdd62d70ba5b}{Prof.\bibnamedelimi Dr.\bibnamedelimi Becker}{P\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim B\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=92c14a2adaf18b586bcbfdd62d70ba5b}{Prof.\bibnamedelimi Dr.\bibnamedelimi Becker}{P\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim B\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{92c14a2adaf18b586bcbfdd62d70ba5b}
+      \strng{fullhash}{92c14a2adaf18b586bcbfdd62d70ba5b}
+      \field{sortinit}{P}
+      \field{sortinithash}{b8af9282ac256b81613dc9012a0ac921}
+      \field{labeltitle}{Prozessorientierte Verwaltungsmodernisierung an Hochschulen}
+      \field{howpublished}{Vortrag}
+      \field{title}{Prozessorientierte Verwaltungsmodernisierung an Hochschulen}
+      \field{year}{2010}
+    \endentry
+    \entry{vogl_bericht_2013}{book}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=b44647a545722d6209537e5a943f0b1a}{Vogl}{V\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d744ec64849c5d35f740899e19e43a69}{Tr{ö}ger}{T\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=614f43ac9d02609473cc61ec84fbd6b6}{Schwarte}{S\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=b44647a545722d6209537e5a943f0b1a}{Vogl}{V\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d744ec64849c5d35f740899e19e43a69}{Tr{ö}ger}{T\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=614f43ac9d02609473cc61ec84fbd6b6}{Schwarte}{S\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {M{ü}nster}%
+      }
+      \list{publisher}{1}{%
+        {Monsenstein und Vannerdat}%
+      }
+      \strng{namehash}{082ed8cf4eecf9d49c4c16cc32604c55}
+      \strng{fullhash}{082ed8cf4eecf9d49c4c16cc32604c55}
+      \field{sortinit}{V}
+      \field{sortinithash}{63562d1af2cd68fb37e2e14e0c6d5c96}
+      \field{labeltitle}{Integriertes Informationsmanagement an der Universit{ä}t M{ü}nster}
+      \field{isbn}{9783840500534}
+      \field{title}{Integriertes Informationsmanagement an der Universit{ä}t M{ü}nster}
+      \field{year}{2013}
+      \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'vogl_bericht_2013'}
+    \endentry
+    \entry{grote_fortschritte_2012}{book}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=b44647a545722d6209537e5a943f0b1a}{Vogl}{V\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d744ec64849c5d35f740899e19e43a69}{Tr{ö}ger}{T\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=dba513fac37dddbee121cc7a738bc5f4}{Schwartze}{S\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=b44647a545722d6209537e5a943f0b1a}{Vogl}{V\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d744ec64849c5d35f740899e19e43a69}{Tr{ö}ger}{T\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=dba513fac37dddbee121cc7a738bc5f4}{Schwartze}{S\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Monsenstein und Vannerdat}%
+      }
+      \strng{namehash}{f4e549a00b1dabcb290592a6b4bbb3cc}
+      \strng{fullhash}{f4e549a00b1dabcb290592a6b4bbb3cc}
+      \field{sortinit}{V}
+      \field{sortinithash}{63562d1af2cd68fb37e2e14e0c6d5c96}
+      \field{labeltitle}{Fortschritte des integrierten Informationsmanagements an Hochschulen}
+      \field{series}{Wissenschaftliche Schriften der WWU M{ü}nster}
+      \field{title}{Fortschritte des integrierten Informationsmanagements an Hochschulen}
+      \field{year}{2012}
+    \endentry
+  \endsortlist
+  \missing{helferich_2009}
+\endrefsection
+\endinput
+
