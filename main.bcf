@@ -1961,6 +1961,7 @@
   <!-- CITATION DATA -->
   <!-- SECTION 0 -->
   <bcf:bibdata section="0">
+    <bcf:datasource type="file" datatype="bibtex">struktur/literatur.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="1">bode_informationsmanagement_2010</bcf:citekey>
@@ -1986,6 +1987,14 @@
     <bcf:citekey order="21">vogl_bericht_2013</bcf:citekey>
     <bcf:citekey order="22">bode_informationsmanagement_2010</bcf:citekey>
     <bcf:citekey order="23">helferich_2009</bcf:citekey>
+    <bcf:citekey order="24">dini_webportale_2007</bcf:citekey>
+    <bcf:citekey order="25">baun_servervirtualisierung_2009</bcf:citekey>
+    <bcf:citekey order="26">zahn_itmanagement</bcf:citekey>
+    <bcf:citekey order="27">grote_fortschritte_2012</bcf:citekey>
+    <bcf:citekey order="28">becker_prozesse_2010</bcf:citekey>
+    <bcf:citekey order="29">kloetgen_2012</bcf:citekey>
+    <bcf:citekey order="30">dini_webportale_2007</bcf:citekey>
+    <bcf:citekey order="31">kloetgen_2012</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" type="entry" label="nty">
   <bcf:sorting>
