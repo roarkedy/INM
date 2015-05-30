@@ -240,12 +240,28 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {6.3.11}Campus Portal}{64}{subsection.6.3.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}\IeC {\"U}berf\IeC {\"u}hrung des Ist-Zustandes in den Soll-Zustand}{66}{chapter.7}
+\contentsline {subsubsection}{\numberline {6.3.11.1}Integrierte Gesamtsuche}{65}{subsubsection.6.3.11.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}Zusammenfassung}{67}{chapter.8}
+\contentsline {subsection}{\numberline {6.3.12}Ausblick bei Integration der Bibliothek}{66}{subsection.6.3.12}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Literatur- und Quellenverzeichnis}{68}{chapter*.27}
+\contentsline {section}{\numberline {6.4}Abw\IeC {\"a}gung des Einsatzes eines Informationsmanagements an der Hochschule Emden Leer}{67}{section.6.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Tabellenverzeichnis}{69}{chapter*.28}
+\contentsline {subsection}{\numberline {6.4.1}Analyse des Ist-Zustandes}{67}{subsection.6.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Abbildungsverzeichnis}{70}{chapter*.29}
+\contentsline {subsection}{\numberline {6.4.2}Analyse des zu erwartenden Soll-Zustandes}{68}{subsection.6.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.4.3}Soll-M\IeC {\"o}glichkeit}{69}{subsection.6.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.4.4}Zu erwartende Kosten}{69}{subsection.6.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.4.5}Prognose und zu erwartender Verlauf / Fazit}{69}{subsection.6.4.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}\IeC {\"U}berf\IeC {\"u}hrung des Ist-Zustandes in den Soll-Zustand}{70}{chapter.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {8}Zusammenfassung}{71}{chapter.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline Literatur- und Quellenverzeichnis}{72}{chapter*.28}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Tabellenverzeichnis}{73}{chapter*.29}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Abbildungsverzeichnis}{74}{chapter*.30}

@@ -130,6 +130,29 @@
       \field{title}{Das digitale wissenschaftliche Informationssystem der WWU}
       \field{year}{2012}
     \endentry
+    \entry{krcmar_einfuhrung_2015}{book}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=97558c30684fb70538b0efcd39836dfd}{Krcmar}{K\bibinitperiod}{Helmut}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=97558c30684fb70538b0efcd39836dfd}{Krcmar}{K\bibinitperiod}{Helmut}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Gabler}%
+      }
+      \strng{namehash}{97558c30684fb70538b0efcd39836dfd}
+      \strng{fullhash}{97558c30684fb70538b0efcd39836dfd}
+      \field{sortinit}{K}
+      \field{sortinithash}{33bf4c961fa093ee6a297ccbd88eacc0}
+      \field{labeltitle}{Einf{ü}hrung in das Informationsmanagement}
+      \field{isbn}{9783662443286}
+      \field{title}{Einf{ü}hrung in das Informationsmanagement}
+      \field{year}{2015}
+      \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'krcmar_einfuhrung_2015'}
+    \endentry
     \entry{becker_prozesse_2010}{misc}{}
       \name{labelname}{1}{}{%
         {{uniquename=0,hash=92c14a2adaf18b586bcbfdd62d70ba5b}{Prof.\bibnamedelimi Dr.\bibnamedelimi Becker}{P\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim B\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
@@ -173,7 +196,7 @@
       \field{year}{2013}
       \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'vogl_bericht_2013'}
     \endentry
-    \entry{grote_fortschritte_2012}{book}{}
+    \entry{vogl_fortschritte_2012}{book}{}
       \name{labelname}{3}{}{%
         {{uniquename=0,hash=b44647a545722d6209537e5a943f0b1a}{Vogl}{V\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=d744ec64849c5d35f740899e19e43a69}{Tr{ö}ger}{T\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
@@ -309,6 +332,29 @@
       \field{title}{Das digitale wissenschaftliche Informationssystem der WWU}
       \field{year}{2012}
     \endentry
+    \entry{krcmar_einfuhrung_2015}{book}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=97558c30684fb70538b0efcd39836dfd}{Krcmar}{K\bibinitperiod}{Helmut}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=97558c30684fb70538b0efcd39836dfd}{Krcmar}{K\bibinitperiod}{Helmut}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Gabler}%
+      }
+      \strng{namehash}{97558c30684fb70538b0efcd39836dfd}
+      \strng{fullhash}{97558c30684fb70538b0efcd39836dfd}
+      \field{sortinit}{K}
+      \field{sortinithash}{33bf4c961fa093ee6a297ccbd88eacc0}
+      \field{labeltitle}{Einf{ü}hrung in das Informationsmanagement}
+      \field{isbn}{9783662443286}
+      \field{title}{Einf{ü}hrung in das Informationsmanagement}
+      \field{year}{2015}
+      \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'krcmar_einfuhrung_2015'}
+    \endentry
     \entry{becker_prozesse_2010}{misc}{}
       \name{labelname}{1}{}{%
         {{uniquename=0,hash=92c14a2adaf18b586bcbfdd62d70ba5b}{Prof.\bibnamedelimi Dr.\bibnamedelimi Becker}{P\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim B\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
@@ -352,7 +398,7 @@
       \field{year}{2013}
       \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'vogl_bericht_2013'}
     \endentry
-    \entry{grote_fortschritte_2012}{book}{}
+    \entry{vogl_fortschritte_2012}{book}{}
       \name{labelname}{3}{}{%
         {{uniquename=0,hash=b44647a545722d6209537e5a943f0b1a}{Vogl}{V\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=d744ec64849c5d35f740899e19e43a69}{Tr{ö}ger}{T\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
