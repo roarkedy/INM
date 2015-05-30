@@ -14,7 +14,7 @@
 \usepackage{todonotes}
 \usepackage[nottoc]{tocbibind}
 %\usepackage[tocflat]{tocstyle}
-\usepackage[tocgraduated]{tocstyle}
+%\usepackage[tocgraduated]{tocstyle}
 \setcounter{tocdepth}{4}
 \setcounter{secnumdepth}{4}
 \usepackage{listings}
@@ -34,14 +34,15 @@
 }
 \usepackage[
 backend=biber,
-style=authortitle-icomp,
+%style=authortitle-icomp,
+style=authortitle,
 isbn=true,
 url=false,
 doi=false
 ]{biblatex}
 %\addbibresource{./struktur/literatur.bib}
 
-%\bibliography{literatur}
+\bibliography{struktur/literatur.bib}
 
 \begin{document}
 	% config for table of contents
