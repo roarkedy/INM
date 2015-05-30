@@ -103,6 +103,46 @@
       \field{title}{Vom ITS zum IT-Management an der Universit{ä}t Ausgburg}
       \field{year}{2010}
     \endentry
+    \entry{fisch_veraenderungen_2008}{book}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=3b94de640086a3cddda246a68ce2b337}{Fisch}{F\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=845e83a75287b129f83d4007939a7b53}{M{ü}ller}{M\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=3b94de640086a3cddda246a68ce2b337}{Fisch}{F\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=845e83a75287b129f83d4007939a7b53}{M{ü}ller}{M\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Beck, D.}%
+      }
+      \strng{namehash}{9f69117659f7e38f916f54c669a9ee1e}
+      \strng{fullhash}{9f69117659f7e38f916f54c669a9ee1e}
+      \field{sortinit}{F}
+      \field{sortinithash}{9661cce5f16ac30b6b0c804d4583ed99}
+      \field{labeltitle}{Ver{ä}nderungen in Organisationen}
+      \field{title}{Ver{ä}nderungen in Organisationen}
+      \field{year}{2008}
+    \endentry
+    \entry{hoelscher_wissenschaft_2011}{book}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=9d7e6c9f8ffe41a438e5d513e3dd1c7d}{H{ö}lscher}{H\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c0030ff74f9fd7255104d387b9fa7f96}{Suchanek}{S\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=9d7e6c9f8ffe41a438e5d513e3dd1c7d}{H{ö}lscher}{H\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c0030ff74f9fd7255104d387b9fa7f96}{Suchanek}{S\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {VS Verlag f{ü}r Sozialwissenschaften}%
+      }
+      \strng{namehash}{c6228760934d49cc4f7049c9f2598cfa}
+      \strng{fullhash}{c6228760934d49cc4f7049c9f2598cfa}
+      \field{sortinit}{H}
+      \field{sortinithash}{95b2cb08933fe649b7e9f8beee2132b4}
+      \field{labeltitle}{Wissenschaft und Hochschulbildung im Kontext von Wirtschaft und Medien}
+      \field{title}{Wissenschaft und Hochschulbildung im Kontext von Wirtschaft und Medien}
+      \field{year}{2011}
+    \endentry
     \entry{kloetgen_2012}{incollection}{}
       \name{labelname}{4}{}{%
         {{uniquename=0,hash=eb4b6ec5c04ed0f124cca9f7c82befbf}{Kl{ö}tgen}{K\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
@@ -153,6 +193,25 @@
       \field{year}{2015}
       \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'krcmar_einfuhrung_2015'}
     \endentry
+    \entry{lauer_change_2014}{book}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=960f9e0c871d67a86ad1d704f7aa22e9}{Lauer}{L\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=960f9e0c871d67a86ad1d704f7aa22e9}{Lauer}{L\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Gabler Verlag}%
+      }
+      \strng{namehash}{960f9e0c871d67a86ad1d704f7aa22e9}
+      \strng{fullhash}{960f9e0c871d67a86ad1d704f7aa22e9}
+      \field{sortinit}{L}
+      \field{sortinithash}{c41a2b5886eeae464e75d1a9df4cd13e}
+      \field{labeltitle}{Change Management}
+      \field{edition}{2}
+      \field{title}{Change Management}
+      \field{year}{2014}
+    \endentry
     \entry{becker_prozesse_2010}{misc}{}
       \name{labelname}{1}{}{%
         {{uniquename=0,hash=92c14a2adaf18b586bcbfdd62d70ba5b}{Prof.\bibnamedelimi Dr.\bibnamedelimi Becker}{P\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim B\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
@@ -168,6 +227,25 @@
       \field{howpublished}{Vortrag}
       \field{title}{Prozessorientierte Verwaltungsmodernisierung an Hochschulen}
       \field{year}{2010}
+    \endentry
+    \entry{migrationsleitfaden_2012}{manual}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=ce3d0ce7a354482fe20deb4540984402}{Rogall-Grothe}{R\bibinithyphendelim G\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=ce3d0ce7a354482fe20deb4540984402}{Rogall-Grothe}{R\bibinithyphendelim G\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {Die Beauftragte der Bundesregierung f{ü}r Informationstechnik}%
+      }
+      \strng{namehash}{ce3d0ce7a354482fe20deb4540984402}
+      \strng{fullhash}{ce3d0ce7a354482fe20deb4540984402}
+      \field{sortinit}{R}
+      \field{sortinithash}{ff5a3533ecf9d5a03ff60b1e1389b63d}
+      \field{labeltitle}{Migrationsleitfaden - Leitfaden f{ü}r die Migration von Software}
+      \field{month}{M{ä}rz}
+      \field{title}{Migrationsleitfaden - Leitfaden f{ü}r die Migration von Software}
+      \field{year}{2012}
     \endentry
     \entry{vogl_bericht_2013}{book}{}
       \name{labelname}{3}{}{%
@@ -305,6 +383,46 @@
       \field{title}{Vom ITS zum IT-Management an der Universit{ä}t Ausgburg}
       \field{year}{2010}
     \endentry
+    \entry{fisch_veraenderungen_2008}{book}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=3b94de640086a3cddda246a68ce2b337}{Fisch}{F\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=845e83a75287b129f83d4007939a7b53}{M{ü}ller}{M\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=3b94de640086a3cddda246a68ce2b337}{Fisch}{F\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=845e83a75287b129f83d4007939a7b53}{M{ü}ller}{M\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Beck, D.}%
+      }
+      \strng{namehash}{9f69117659f7e38f916f54c669a9ee1e}
+      \strng{fullhash}{9f69117659f7e38f916f54c669a9ee1e}
+      \field{sortinit}{F}
+      \field{sortinithash}{9661cce5f16ac30b6b0c804d4583ed99}
+      \field{labeltitle}{Ver{ä}nderungen in Organisationen}
+      \field{title}{Ver{ä}nderungen in Organisationen}
+      \field{year}{2008}
+    \endentry
+    \entry{hoelscher_wissenschaft_2011}{book}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=9d7e6c9f8ffe41a438e5d513e3dd1c7d}{H{ö}lscher}{H\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c0030ff74f9fd7255104d387b9fa7f96}{Suchanek}{S\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=9d7e6c9f8ffe41a438e5d513e3dd1c7d}{H{ö}lscher}{H\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c0030ff74f9fd7255104d387b9fa7f96}{Suchanek}{S\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {VS Verlag f{ü}r Sozialwissenschaften}%
+      }
+      \strng{namehash}{c6228760934d49cc4f7049c9f2598cfa}
+      \strng{fullhash}{c6228760934d49cc4f7049c9f2598cfa}
+      \field{sortinit}{H}
+      \field{sortinithash}{95b2cb08933fe649b7e9f8beee2132b4}
+      \field{labeltitle}{Wissenschaft und Hochschulbildung im Kontext von Wirtschaft und Medien}
+      \field{title}{Wissenschaft und Hochschulbildung im Kontext von Wirtschaft und Medien}
+      \field{year}{2011}
+    \endentry
     \entry{kloetgen_2012}{incollection}{}
       \name{labelname}{4}{}{%
         {{uniquename=0,hash=eb4b6ec5c04ed0f124cca9f7c82befbf}{Kl{ö}tgen}{K\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
@@ -355,6 +473,25 @@
       \field{year}{2015}
       \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'krcmar_einfuhrung_2015'}
     \endentry
+    \entry{lauer_change_2014}{book}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=960f9e0c871d67a86ad1d704f7aa22e9}{Lauer}{L\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=960f9e0c871d67a86ad1d704f7aa22e9}{Lauer}{L\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Gabler Verlag}%
+      }
+      \strng{namehash}{960f9e0c871d67a86ad1d704f7aa22e9}
+      \strng{fullhash}{960f9e0c871d67a86ad1d704f7aa22e9}
+      \field{sortinit}{L}
+      \field{sortinithash}{c41a2b5886eeae464e75d1a9df4cd13e}
+      \field{labeltitle}{Change Management}
+      \field{edition}{2}
+      \field{title}{Change Management}
+      \field{year}{2014}
+    \endentry
     \entry{becker_prozesse_2010}{misc}{}
       \name{labelname}{1}{}{%
         {{uniquename=0,hash=92c14a2adaf18b586bcbfdd62d70ba5b}{Prof.\bibnamedelimi Dr.\bibnamedelimi Becker}{P\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim B\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
@@ -370,6 +507,25 @@
       \field{howpublished}{Vortrag}
       \field{title}{Prozessorientierte Verwaltungsmodernisierung an Hochschulen}
       \field{year}{2010}
+    \endentry
+    \entry{migrationsleitfaden_2012}{manual}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=ce3d0ce7a354482fe20deb4540984402}{Rogall-Grothe}{R\bibinithyphendelim G\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=ce3d0ce7a354482fe20deb4540984402}{Rogall-Grothe}{R\bibinithyphendelim G\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {Die Beauftragte der Bundesregierung f{ü}r Informationstechnik}%
+      }
+      \strng{namehash}{ce3d0ce7a354482fe20deb4540984402}
+      \strng{fullhash}{ce3d0ce7a354482fe20deb4540984402}
+      \field{sortinit}{R}
+      \field{sortinithash}{ff5a3533ecf9d5a03ff60b1e1389b63d}
+      \field{labeltitle}{Migrationsleitfaden - Leitfaden f{ü}r die Migration von Software}
+      \field{month}{M{ä}rz}
+      \field{title}{Migrationsleitfaden - Leitfaden f{ü}r die Migration von Software}
+      \field{year}{2012}
     \endentry
     \entry{vogl_bericht_2013}{book}{}
       \name{labelname}{3}{}{%
