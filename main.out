@@ -125,8 +125,32 @@
 \BOOKMARK [2][-]{subsection.6.4.3}{Soll-M\366glichkeit}{section.6.4}% 125
 \BOOKMARK [2][-]{subsection.6.4.4}{Zu erwartende Kosten}{section.6.4}% 126
 \BOOKMARK [2][-]{subsection.6.4.5}{Prognose und zu erwartender Verlauf / Fazit}{section.6.4}% 127
-\BOOKMARK [0][-]{chapter.7}{\334berf\374hrung des Ist-Zustandes in den Soll-Zustand}{}% 128
-\BOOKMARK [0][-]{chapter.8}{Zusammenfassung}{}% 129
-\BOOKMARK [0][-]{chapter*.28}{Literatur- und Quellenverzeichnis}{}% 130
-\BOOKMARK [0][-]{chapter*.29}{Tabellenverzeichnis}{}% 131
-\BOOKMARK [0][-]{chapter*.30}{Abbildungsverzeichnis}{}% 132
+\BOOKMARK [0][-]{chapter.7}{Konzept zur Erreichung der Soll-Situation}{}% 128
+\BOOKMARK [1][-]{section.7.1}{Umsetzungsplanung}{chapter.7}% 129
+\BOOKMARK [2][-]{subsection.7.1.1}{Positionsbestimmung}{section.7.1}% 130
+\BOOKMARK [2][-]{subsection.7.1.2}{Change Management}{section.7.1}% 131
+\BOOKMARK [3][-]{subsubsection.7.1.2.1}{Grundlagen des Change Managements}{subsection.7.1.2}% 132
+\BOOKMARK [3][-]{subsubsection.7.1.2.2}{Change Management an Hochschulen}{subsection.7.1.2}% 133
+\BOOKMARK [3][-]{subsubsection.7.1.2.3}{Changeplan}{subsection.7.1.2}% 134
+\BOOKMARK [4][-]{paragraph.7.1.2.3.1}{Responsive Website}{subsubsection.7.1.2.3}% 135
+\BOOKMARK [4][-]{paragraph.7.1.2.3.2}{Alfresco}{subsubsection.7.1.2.3}% 136
+\BOOKMARK [1][-]{section.7.2}{Migrationskonzepte}{chapter.7}% 137
+\BOOKMARK [2][-]{subsection.7.2.1}{Kriterien f\374r eine erfolgreiche Migration}{section.7.2}% 138
+\BOOKMARK [2][-]{subsection.7.2.2}{Migrationsstrategien}{section.7.2}% 139
+\BOOKMARK [2][-]{subsection.7.2.3}{Migrationsbeispiele}{section.7.2}% 140
+\BOOKMARK [3][-]{subsubsection.7.2.3.1}{Responsive Website mit TYPO3}{subsection.7.2.3}% 141
+\BOOKMARK [4][-]{paragraph.7.2.3.1.1}{Ist-Zustand}{subsubsection.7.2.3.1}% 142
+\BOOKMARK [4][-]{paragraph.7.2.3.1.2}{Soll-Zustand}{subsubsection.7.2.3.1}% 143
+\BOOKMARK [4][-]{paragraph.7.2.3.1.3}{Migrationsplan}{subsubsection.7.2.3.1}% 144
+\BOOKMARK [5][-]{subparagraph.7.2.3.1.3.1}{Hardwareanforderungen}{paragraph.7.2.3.1.3}% 145
+\BOOKMARK [5][-]{subparagraph.7.2.3.1.3.2}{Entwicklungssystem}{paragraph.7.2.3.1.3}% 146
+\BOOKMARK [5][-]{subparagraph.7.2.3.1.3.3}{Migration}{paragraph.7.2.3.1.3}% 147
+\BOOKMARK [5][-]{subparagraph.7.2.3.1.3.4}{Produktivsetzung}{paragraph.7.2.3.1.3}% 148
+\BOOKMARK [3][-]{subsubsection.7.2.3.2}{Alfresco}{subsection.7.2.3}% 149
+\BOOKMARK [4][-]{paragraph.7.2.3.2.1}{Ist-Zustand}{subsubsection.7.2.3.2}% 150
+\BOOKMARK [4][-]{paragraph.7.2.3.2.2}{Soll-Zustand}{subsubsection.7.2.3.2}% 151
+\BOOKMARK [4][-]{paragraph.7.2.3.2.3}{Migrationsplan}{subsubsection.7.2.3.2}% 152
+\BOOKMARK [0][-]{chapter.8}{Zusammenfassung}{}% 153
+\BOOKMARK [0][-]{chapter*.30}{Literatur- und Quellenverzeichnis}{}% 154
+\BOOKMARK [0][-]{chapter*.31}{Tabellenverzeichnis}{}% 155
+\BOOKMARK [0][-]{chapter*.32}{Abbildungsverzeichnis}{}% 156

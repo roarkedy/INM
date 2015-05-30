@@ -1,25 +1,25 @@
 [0] Config.pm:320> INFO - This is Biber 1.9
 [0] Config.pm:323> INFO - Logfile is 'main.blg'
-[44] biber-darwin:277> INFO - === Sat May 30, 2015, 14:52:54
-[44] Biber.pm:333> INFO - Reading 'main.bcf'
-[100] Utils.pm:144> WARN - Warning: Found biblatex control file version 2.5, expected version 2.6
-[103] Biber.pm:635> INFO - Found 10 citekeys in bib section 0
-[128] Biber.pm:3051> INFO - Processing section 0
-[147] Biber.pm:3189> INFO - Looking for bibtex format file 'struktur/literatur.bib' for section 0
-[148] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
-[152] bibtex.pm:864> INFO - Found BibTeX data source 'struktur/literatur.bib'
-[156] Utils.pm:144> WARN - Overwriting field 'year' with year value from field 'date' for entry 'bode_informationsmanagement_2010'
-[159] Utils.pm:144> WARN - Overwriting field 'year' with year value from field 'date' for entry 'vogl_bericht_2013'
-[164] Utils.pm:144> WARN - Overwriting field 'year' with year value from field 'date' for entry 'krcmar_einfuhrung_2015'
-[165] Utils.pm:144> WARN - I didn't find a database entry for 'helferich_2009' (section 0)
-[255] UCollate.pm:66> INFO - Overriding locale '' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[255] UCollate.pm:66> INFO - Overriding locale '' defaults 'variable = shifted' with 'variable = non-ignorable'
-[255] Biber.pm:2928> INFO - Sorting list '' of type 'entry' with scheme '' and locale ''
-[255] Biber.pm:2932> INFO - No sort tailoring available for locale ''
-[333] UCollate.pm:66> INFO - Overriding locale '' defaults 'variable = shifted' with 'variable = non-ignorable'
-[333] UCollate.pm:66> INFO - Overriding locale '' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[333] Biber.pm:2928> INFO - Sorting list 'nty' of type 'entry' with scheme 'nty' and locale ''
-[333] Biber.pm:2932> INFO - No sort tailoring available for locale ''
-[361] bbl.pm:517> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[364] bbl.pm:606> INFO - Output to main.bbl
-[364] Biber.pm:106> INFO - WARNINGS: 5
+[43] biber-darwin:277> INFO - === Sat May 30, 2015, 16:47:33
+[43] Biber.pm:333> INFO - Reading 'main.bcf'
+[102] Utils.pm:144> WARN - Warning: Found biblatex control file version 2.5, expected version 2.6
+[105] Biber.pm:635> INFO - Found 14 citekeys in bib section 0
+[132] Biber.pm:3051> INFO - Processing section 0
+[154] Biber.pm:3189> INFO - Looking for bibtex format file 'struktur/literatur.bib' for section 0
+[156] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
+[159] bibtex.pm:864> INFO - Found BibTeX data source 'struktur/literatur.bib'
+[162] Utils.pm:144> WARN - Overwriting field 'year' with year value from field 'date' for entry 'bode_informationsmanagement_2010'
+[164] Utils.pm:144> WARN - Overwriting field 'year' with year value from field 'date' for entry 'vogl_bericht_2013'
+[170] Utils.pm:144> WARN - Overwriting field 'year' with year value from field 'date' for entry 'krcmar_einfuhrung_2015'
+[173] Utils.pm:144> WARN - I didn't find a database entry for 'helferich_2009' (section 0)
+[314] UCollate.pm:66> INFO - Overriding locale '' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[314] UCollate.pm:66> INFO - Overriding locale '' defaults 'variable = shifted' with 'variable = non-ignorable'
+[314] Biber.pm:2928> INFO - Sorting list '' of type 'entry' with scheme '' and locale ''
+[314] Biber.pm:2932> INFO - No sort tailoring available for locale ''
+[438] UCollate.pm:66> INFO - Overriding locale '' defaults 'variable = shifted' with 'variable = non-ignorable'
+[438] UCollate.pm:66> INFO - Overriding locale '' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[438] Biber.pm:2928> INFO - Sorting list 'nty' of type 'entry' with scheme 'nty' and locale ''
+[438] Biber.pm:2932> INFO - No sort tailoring available for locale ''
+[476] bbl.pm:517> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[479] bbl.pm:606> INFO - Output to main.bbl
+[479] Biber.pm:106> INFO - WARNINGS: 5
