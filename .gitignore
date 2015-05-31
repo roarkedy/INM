@@ -1,18 +1,17 @@
-# TeX/LaTeX intermediates # 
-########################### 
-*.*~ 
-*.aux 
-*.log 
-*.tmp 
-*.xref 
-*.pdx 
-*.pnd 
-*.bbl 
-*.bcf 
-*.auto 
-*.blg 
-*.dvi 
-*.glo 
+# TeX/LaTeX intermediates #
+.*~
+*.aux
+*.log
+*.tmp
+*.xref
+*.pdx
+*.pnd
+*.bbl
+*.bcf
+*.auto
+*.blg
+*.dvi
+*.glo
 *.out 
 *.idx 
 *.ilg 
@@ -27,4 +26,7 @@
 *.tps 
 *blx.bib 
 *.run.xml
-*.aux
+*.lof
+*.synctex.gz
+*.tdo
+main.lot
