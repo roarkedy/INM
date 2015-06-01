@@ -1,0 +1,124 @@
+\subsection{Anwendung}
+Nachdem die Werkzeuge zur zeitlichen und kostentechnischen Schätzung theoretisch beleuchtet wurden, werden diese im Folgenden beispielhaft auf ausgewählte Komponenten des Projekts angewendet. Für die Einführung des Dokumentenmanagementsystem Alfresco wird eine TCO-Analyse sowie ein Gantt-Diagramm angefertigt. Die potentiellen Kosten des Redesigns der Hochschulwebseite (inkl. der Anpassung  an moderne Ausgabegeräte) werden auf Grundlage von Gesprächen mit entsprechenden Experten analysiert. Die Berechnungen des Zeitbedarfs geht davon aus, dass die entsprechenden Komponenten des Projekts während des Semesters, also nicht zu besonders arbeitsintensiven Zeiten wie Prüfungsphasen am Ende oder Planungsphasen am Anfang eines Semesters, durchgeführt werden.
+
+\subsubsection{Dokumentenmanagementsystem Alfresco}
+\label{subsubsection_dokusystem_alfresco}
+Um erfolgreich ein Dokumentenmanagementsystem in einer Organisation einzuführen, müssen verschiedene Vorbedingungen erfüllt sein. Das betrifft neben dem erforderlichen Personal zur Einrichtung, technischer Wartung, den Help-Desk und inhaltlicher Pflege auch benötigte Hardware und Netzwerkinfrastruktur.
+
+Um eine möglichst realitätsnahe Planung zu ermöglichen wurde hierzu Herr Stephan Voigt, aktuell CTO der Masterpayment AG, befragt. Herr Voigt hat bereits zahlreiche CMS Projekte, unter anderem die Einführung von Alfresco als DMS bei der Masterpayment AG, betreut, sodass seine Expertenmeinung verlässliche Zahlen ergibt. Diese Zahlen werden anschließend anhand der beschriebenen TCO-Methode betrachtet. Die daraus resultierende Tabelle \ref{tab_ubersicht_kosten_TCO} stellt einen Überblick über die zu erwartenden Kosten dar. Folgende Bereiche wurden durch die Befragung beleuchtet:
+
+\begin{itemize}
+	\item Hardware für Anwenderprozesse und IT-Abteilung
+	\item Software für Anwenderprozesse, Help-Desk und Incidentmanagement
+	\item Prozessmanagement während des Betriebs durch Administartor(en)
+	\item Wartungsarbeiten durch Administrator(en)
+	\item Schulung der verantwortlichen Betreuer
+	\item Erstellen von Anwenderhandbuch
+\end{itemize}
+
+Da dies eine beispielhafte Betrachtung ist, geht die Berechnung davon aus, dass alle aufgeführten Ressourcen angeschafft oder eingerichtet werden müssen. Sollte die Hochschule Teile dieser Ressourcen aus eigenem Bestand zur Verfügung stellen, müssen die Werte in der TCO Berechnung entsprechend angepasst werden.
+
+\todo{Tabelle umformatieren}
+\begin{table}[h!]
+	\begin{tabularx}{\textwidth}{|X|X|X|}
+		% Überschriften
+		\hline \textbf{TCO-Kategorie} & \textbf{Ressource / Tätigkeit} & \textbf{Verbrauch}\\
+		% Zeile 1
+		\hline Hardware Anwender & Benötigte Hardware (Produktivsystem) & 4 Server, \euro 4.000 / Server \\ 
+		% Zeile 2
+		\hline Hardware Betreuer & Benötigte Hardware (Testsystem) & 2 Server, \euro 4.000 / Server\\
+		% Zeile 3
+		\hline Software & Lizenzkosten & \euro 46.000
+		(2 x \euro 15.000
+		Produktivsystem,
+		2 x \euro 3.500
+		Testsystem,
+		\euro 9.000 Clustering)\\
+		% Zeile 4
+		\hline Software Help-Desk / Incidentmanagement & Anschaffungs-/Lizenzkosten
+		für Help-Desksoftware
+		 & \euro 0 (Open Source) \\
+		% Zeile 5
+		\hline Prozessmanagement & Benutzer-/Systemverwaltung & 1 MT / Woche\\
+		% Zeile 6
+		\hline Wartung des Systems & Backup der Datenbank, Updates
+		 & 1 MT / Woche \\
+		% Zeile 7
+		\hline Schulung der Administratoren & Schulung durch Berater
+		(Alfresco) & \euro 10.000 (10 Tage, \euro 1.000 / Tag) \\
+		% Zeile 8
+		\hline Schulung der Mitarbeiter & Schulung durch Rechenzentrum & 2 MT\\
+		% Zeile 9
+		\hline Erstellung eines Anwenderhandbuchs & Dokumentation für Anwender & 15 MT\\
+		% Zeile 10
+		\hline Technischer Support & Help-Desk-Tätigkeit & 1 Person, 2h / Tag\\		
+		\hline
+	\end{tabularx}
+	\caption{Übersicht der Kosten für die TCO-Methode}
+	\label{tab_ubersicht_kosten_TCO}
+\end{table}
+
+Die in Tabelle \ref{tab_ubersicht_kosten_TCO} erfassten Kosten werden in das, in Kapitel \ref{subsection_kostenschatzung_TCO} erwähnte, TCO-Tool übertragen. Anhand der verfügbaren Analysefunktionen werden anschließend die Gesamtkosten nach den TCO-Kostenkategorien ausgegeben und aufgeschlüsselt. Das Ergebnis der Kalkulation anhand des TCO-Tools zeigt Tabelle \ref{tab_ergebnis_TCO_Methode}. Die Betrachtung erfolgt dabei, entsprechend der Abschreibungsdauer nach der DFG-Nutzungstabelle\footnote{\url{https://www.physik.uni-muenchen.de/fakultaet/organisation/geschaeftsstelle/merkblaetter/dfg-tabelle.pdf}}, über einen Zeitraum von 48 Monaten.
+
+\todo{Tabelle umformatieren}
+\begin{table}[h!]
+	\small
+%	\begin{tabularx}{\textwidth}{|X|X|X|X|X|X|}
+	\begin{tabularx}{\textwidth}{@{}l *5{>{\raggedleft\arraybackslash}X}@{}}	
+		\hline \textbf{Kostenart} & \textbf{TCO 1. Jahr} & \textbf{TCO 2. Jahr} & \textbf{TCO 3. Jahr} & \textbf{TCO 4. Jahr} & \textbf{TCO-Kosten über die gesamte Nutzungsdauer} \\
+		\hline Datenbank- management & 2361,33 & 2576 & 2576 & 2576 & 10089,33 \\
+		\hline Hardware der IT-Abteilung & 2000 & 2000 & 2000 & 2000 & 8000 \\
+		\hline Hardware für Anwenderprozesse & 6250 & 6250 & 6250 & 6250 & 25000 \\
+		\hline Help Desk & 13135 & 13135 & 13135 & 13135 & 52542 \\
+		\hline Planungs- und Prozessmanagement & 9016 & 9016 & 9016 & 9016 & 36064 \\
+		\hline Schulung Endanwender & 3882,27 & 0 & 0 & 0 & 3882,27 \\
+		\hline Schulung Mitarbeiter IT-Abteilung & 2500 & 2500 & 2500 & 2500 & 10000 \\
+		\hline Software der IT-Abteilung & 1750 & 1750 & 1750 & 1750 & 7000 \\
+		\hline Software für Anwenderprozesse & 7500 & 7500 & 7500 & 7500 & 30000 \\
+		\hline technischer Support & 6440 & 6440 & 6440 & 6440 & 25760 \\
+		\hline \textbf{Total} & \textbf{54835,10} & \textbf{51167,50} & \textbf{51167,50} & \textbf{51167,50} & \textbf{208337,60} \\
+		\hline
+	\end{tabularx}
+	\caption{Ergebnis der TCO-Methode}
+	\label{tab_ergebnis_TCO_Methode}
+\end{table}
+
+Tabelle \ref{tab_ergebnis_TCO_Methode} zeigt den finanziellen, beziehungsweise zeitlichen, Aufwand der nach Einschätzung des befragten Experten nötig ist, um das Dokumentenmanagementsystem (DMS) Alfresco an der Hochschule einzuführen und zu betreiben. Da in dem Interview mit dem Leiter des Rechenzentrums der Hochschule nicht geklärt werden konnte, in welchem Rahmen dem Gesamtprojekt vorhandene Hardware zur Verfügung gestellt werden kann, wird in dieser TCO-Analyse davon ausgegangen, dass Hardware angeschafft werden muss.
+
+Aus Gründen der Hochverfügbarkeit wird Alfresco in einem Cluster betrieben. Dazu werden auf jeweils zwei Servern Alfresco und eine dazugehörige Datenbank eingerichtet. Die Server mit einer entsprechend performanteren Hardware liegen bei \euro 4.000 das Stück. Des Weiteren ist es ratsam, ein Testsystem zu installieren auf dem Updates oder zusätzliche Eigenimplementierungen getestet werden können. Da ein solches Testsystem nicht der gleichen Last wie das Produktivsystem ausgesetzt ist, ist es ausreichend zwei echte Server, auf denen jeweils zwei Server virtualisiert werden, zu verwenden. Auch diese Server werden mit je \euro 4.000 veranschlagt.
+
+Alfresco bietet von ihrer DMS-Software eine kostenfreie Community-Version und eine lizenzpflichtige Kauf-Version an. Das größte Manko der Community-Version sind die nicht verfügbaren Aktualisierungen. Soll also eine bereits installierte Community-Version auf eine neue Softwareversion aktualisiert werden, muss das gesamte System neu aufgesetzt werden. Der Vorteil der regelmäßigen Aktualisierungen der kostenpflichtigen Version überwiegt also den Kostenvorteil der kostenfreie Softwarelösung.
+
+Die Lizenzgebühren für die Software liegen jeweils bei ca. \euro 15.000 für die Produktivsysteme und \euro 3.500 für die Testsysteme. Dazu kommen Kosten in Höhe von ca. \euro 9.000 für Softwarekomponenten die den Betrieb im Cluster ermöglichen. Da es zahlreiche Open-Source Lösungen für den Betrieb eines Help-Desks, beziehungsweise eines Ticketsystems, gibt, fallen hierfür keine zusätzlichen Kosten an.
+
+Nach der Installation läuft Alfresco zu einem großen Teil alleine und benötigt keine weitere Interaktion von außen. Es fallen ledigliche kleinere Wartungsarbeiten, wie das Einspielen von Aktualisierungen oder das Anfertigen einer Datenbanksicherung, an. Diese werden mit einem Aufwand von ca. 1 MT pro Woche veranschlagt. Dazu kommt die Verwaltung der Benutzer des Systems mit einem weiteren MT pro Woche. Da die Mitarbeiter des Rechenzentrums hauptsächlich für den Reibungslosen Betrieb der Plattform verantwortlich sein sollen, werden diese von Beratern der Alfresco Software AG geschult. Die Schulung ist mit 10 Tagen geplant und verursacht Kosten in Höhe von \euro 1.000 je Tag. Anwender des Systems können sich anschließend von den Mitarbeitern des Rechenzentrums schulen lassen. Für eine Anwenderschulung werden ca. 2 MT geplant. Zusätzlich wird ein Anwenderhandbuch erstellt. Die Erstellung dauert ca. 15 MT. Nach der Einführung des System wird sich ein Mitarbeiter des Help-Desks erfahrungsgemäß etwa 2 Stunden täglich mit Anliegen rund um Alfresco beschäftigen.
+
+Die angenommenen Personalkosten entsprechen den Personalmittelsätzen für 2015 der DFG und beruhen auf “Bruttoarbeitgeberkosten”. Die Grundlage der Berechnung der Stundensätze bildet die Anzahl der Arbeitstage des Jahres 2016 unter Berücksichtigung von, entsprechend den Tarifen des öffentlichen Dienstes\footnote{\url{http://oeffentlicher-dienst.info}}, 30 Urlaubstagen und 39 Wochenstunden (insgesamt 224 Arbeitstage). Die angenommenen Stundensätze sind zur Wahrung der Transparenz nachfolgend in Tabelle \ref{tab_ubersicht_lohne} dargestellt.
+
+\begin{table}[h!]
+	%\begin{tabularx}{\textwidth}{|l|X|X|}
+	\begin{tabularx}{\textwidth}{@{}l *2{>{\centering\arraybackslash}X}@{}}
+		% Überschriften
+		\hline \textbf{Personalkategorie} & \textbf{EUR / Jahr} & \textbf{EUR / Stunde}\\
+		% Zeile 1
+		Postdoktorand/in & 65.400 & 37,50 \\ 
+		Doktorand/in & 60.600 & 34,70 \\
+		Wissenschaftliche(r) Mitarbeiter/in & 51.500 & 29,20 \\
+		Nichtwissenschaftliche(r) Mitarbeiter/in & 45.000 & 25,80 \\
+		Studentische Hilfskraft &  & 13,65 \\
+		\hline
+	\end{tabularx}
+	\caption{Übersicht der Jahres- und Stundenlöhne}
+	\label{tab_ubersicht_lohne}
+\end{table}
+
+Der benötigte zeitliche Rahmen und der Ablauf der Einführung von Alfresco als Dokumentenmanagementsystems wird durch ein Gantt-Diagramm visualisiert. Die Daten für die Erstellung dieses Diagramms wurden ebenfalls im Rahmen der Expertenbefragung ermittelt.
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=10cm]{kapitel/gruppe4_2/bilder/gantt_diagramm_alfresco}
+	\caption{Gantt Diagramm Alfresco}
+	\label{fig_gantt_diagramm_alfresco}
+\end{figure}
+
+Das Gantt-Diagramm in Abbildung \ref{fig_gantt_diagramm_alfresco} zeigt die Dauer der einzelnen Teilschritte der Einführung des Teilprojektes „Alfresco“. Die Gesamtdauer des Teilprojekts ist die Strecke zwischen dem Anfang des obersten und dem Ende des untersten Balkens. Die Datumsangaben sind hier zu ignorieren, es geht nur um die Gesamtzahl an Manntagen, die die Umsetzung des Teilprojekts benötigt. Im ersten Schritt müssen die Server sowohl für Test- als auch für die Produktivsysteme konfiguriert und in das vorhandene Netzwerk integriert werden. Danach wird die Software installiert und entsprechend den Vorgaben der Fachbereiche konfiguriert. Nach der Installation können die Administratoren des DMS geschult werden um in dem nächsten Schritt ein Handbuch erstellen zu können. Die Qualitätsicherung des Handbuches und des DMS folgt zum Abschluss des Projekts. Ingesamt dauert die Einführung 30 MT. 
