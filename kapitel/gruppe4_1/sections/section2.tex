@@ -108,9 +108,70 @@ Luis Cabaceira\footnote{\url{http://de.slideshare.net/LuisCabaceira/sizing-your-
 Peter Franke – Leiter des Rechenzentrums der Hochschule Braunschweig/Wolfenbüttel – berichtet von positiven Erfahrungen seit der Einführung von Alfresco.\footnote{\url{http://www.ostfalia.de/export/sites/default/de/rz/documents/it-konzept-2011.pdf}, abgerufen am 27.05.2015}
 
 \paragraph{Ist-Zustand}
+Alfresco wird derzeit von der Hochschule Emden/Leer noch nicht eingesetzt. Derzeit werden Dokumente in verschiedensten Systemen verwaltet und zugänglich gemacht. Auszugsweise sind hier zu nennen:
+
+\begin{itemize}
+	\item Austauschlaufwerke für Dozenten
+	\item Webseiten mit offenen und geschlossenen Bereichen (Kennzahlen, Daten, Fakten für Mitarbeiter und Dekane)
+	\item Eigene Software Vorlesungsverzeichnis im Fachbereich Seefahrt
+	\item Software EvaSys für die Evaluierung
+	\item Gigamove zum Austausch große Datenmengen
+	\item Eigene Systeme in den Fachbereichen (Labor)	
+\end{itemize}
+
+Derzeit gibt es also viele gewachsene Systeme und Strukturen.
+
 \paragraph{Soll-Zustand}
+Das neue System soll über folgende Merkmale verfügen:
+\begin{itemize}
+	\item Migration aller vorhandener Dokumente auf das neue System für eine zentrale Verwaltung
+	\item Versionsmanagement
+	\item Schneller Zugriff
+	\item Ortsunabhängiger Zugriff
+	\item Verwaltung verschiedenster Dokumenttypen
+	\item Keine Client-Installation notwendig
+\end{itemize}
+
+Die Software Alfresco bietet alle diese Merkmale. In der aktuellen Version wird auch die Auslieferung von Web-Content unterstützt, so dass für die Zukunft auch eine Migration des Internetauftritts in das Alfresco-System denkbar wäre. Alternativ könnte Alfresco auch im Rahmen des Single Source Publishing Konzeptes als Content-Quelle für das TYPO3-System genutzt werden. Die Berliner Philharmoniker nutzen bereits dieses Konzept, wie aus einer Case Study der Firma form4 GmbH hervorgeht.\footnote{\url{http://www.form4.de/artikel/alfresco-meets-typo3/}, abgerufen am 28.05.2015}
+
+Hinsichtlich des Dokumenten-Managements wird zunächst ein strategisch günstiger Migrationsplan zur Einführung von Alfresco erstellt. Dabei muss auch die Entscheidung getroffen werden, welche Edition von Alfresco sinnvoll für die Hochschule ist.
+
 \paragraph{Migrationsplan}
+Da nach der Migration alle Dokumente zentral verwaltet werden, erscheint es sinnvoll, Alfresco als hochverfügbaren Cluster auszulegen. Gegebenenfalls ist auch der Einsatz eines SAN (Storage Area Networks) mit räumlich getrennten Speichereinheiten und entsprechend angepasstem Backup- und Restore-Konzept in Erwägung zu ziehen.
 
+Grundsätzlich stehen von Alfresco die kostenlose Community Edition und die kostenpflichtige Enterprise Edition zur Verfügung. Ein Vergleich der beiden Editionen findet sich auf der Website\footnote{\url{https://www.alfresco.com/de/alfresco-community-edition}, abgerufen am 28.05.2015} von Alfresco.
 
+\subparagraph{Hardwareanforderungen}
+Die Hardwareanforderungen richten sich stark nach den in Alfresco genutzten Modulen, bzw. ob die Community oder Enterprise-Edition genutzt wird. Detailliert Hardwareanforderungen können nach Festlegung der Edition in der Alfresco-Dokumentation\footnote{\url{http://docs.alfresco.com/5.0/concepts/ha-intro.html}, abgerufen am 28.05.2015} eingesehen werden. 
 
+Die Hardwareanforderungen sind unter anderem abhängig von:
+
+\begin{itemize}
+	\item dem benötigten Anwendungsfall (welche Komponenten genutzt werden)
+	\item der Anzahl der gleichzeitig zugreifenden Benutzer
+	\item dem Speicherort der Dokumente
+	\item dem Betrieb im Rahmen einer Hochverfügbarkeitslösung
+	\item dem Einsatz von Load Balancern
+	\item dem Einsatz dedizierter Transformation Server
+	\item der Nutzung von Clustern für zu nutzende Interfaces
+	\item dem Einsatz von Caching-Verfahren
+\end{itemize}
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=10cm]{kapitel/gruppe4_1/bilder/deployment_diagramm_alfresco}
+	\caption{Mögliche Hardwarestruktur für Alfresco nach Cabaceira, 2014}
+	\label{fig_deployment_alfresco}
+\end{figure}
+
+Die Abbildung \ref{fig_deployment_alfresco} zeigt eine mögliche Hardwarestruktur für ein Alfresco-System nach Cabaceira.\footnote{\url{http://de.slideshare.net/LuisCabaceira/sizing-your-alfrescoplatform}, abgerufen am 27.05.2015}
+
+\subparagraph{Entwicklungssystem}
+Das Entwicklungssystem wird nach den benötigten Hardwareanforderungen aufgesetzt. Hierauf erfolgt die Implementierung von Alfresco inkl. den bei Bedarf benötigten Schnittstellen. Nach Fertigstellung kann das Entwicklungssystems direkt als Produktivsystem genutzt werden, da die Datenmigration anschließend erfolgt, wie im folgenden Abschnitt beschrieben.
+
+\subparagraph{Migration}
+Für die Migration bietet sich in diesem Fall die Migrationsstrategie Butterfly Methodology an, da hierbei nach und nach die verschiedenen Altsysteme in das neue System überführt werden können. Da es sich beim Entwicklungssystem um ein "leeres" System handelt, wird es nach Fertigstellung als Produktivsystem genutzt. Hierin erfolgt dann nach und nach die Migration der Dokumente aus den unterschiedlichen Altsystemen.
+
+\subparagraph{Produktivsetzung}
+Wie bereits oben beschrieben, erfolgt die Produktivsetzung direkt nach Abnahme des Entwicklungssystem und erfolgt durch dessen Übernahme.
 
