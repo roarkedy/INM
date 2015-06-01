@@ -314,10 +314,14 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subparagraph}{\numberline {7.2.3.2.3.4}Produktivsetzung}{84}{subparagraph.7.2.3.2.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}Zusammenfassung}{85}{chapter.8}
+\contentsline {chapter}{\numberline {8}Kosten und Zeit}{85}{chapter.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Literatur- und Quellenverzeichnis}{86}{chapter*.31}
+\contentsline {section}{\numberline {8.1}Kostenarten}{85}{section.8.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Tabellenverzeichnis}{87}{chapter*.32}
+\contentsline {chapter}{\numberline {9}Zusammenfassung}{87}{chapter.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Abbildungsverzeichnis}{88}{chapter*.33}
+\contentsline {chapter}{\nonumberline Literatur- und Quellenverzeichnis}{88}{chapter*.32}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Tabellenverzeichnis}{89}{chapter*.33}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Abbildungsverzeichnis}{90}{chapter*.34}
