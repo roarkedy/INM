@@ -318,10 +318,24 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {8.1}Kostenarten}{85}{section.8.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {9}Zusammenfassung}{87}{chapter.9}
+\contentsline {subsection}{\numberline {8.1.1}Kostenarten in Hochschulen}{87}{subsection.8.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Literatur- und Quellenverzeichnis}{88}{chapter*.32}
+\contentsline {subsection}{\numberline {8.1.2}Kostenarten in der IT}{88}{subsection.8.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Tabellenverzeichnis}{89}{chapter*.33}
+\contentsline {section}{\numberline {8.2}Verfahren f\IeC {\"u}r die Kosten- und Zeitsch\IeC {\"a}tzung}{91}{section.8.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Abbildungsverzeichnis}{90}{chapter*.34}
+\contentsline {subsection}{\numberline {8.2.1}Projektmanagement an einer Hochschule}{91}{subsection.8.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.2.2}Kostensch\IeC {\"a}tzung (Total Cost of Ownership)}{92}{subsection.8.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.2.3}Zeitplanung}{94}{subsection.8.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.3}Ausgew\IeC {\"a}hlte Projekt-Beispiele}{94}{section.8.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {9}Zusammenfassung}{95}{chapter.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline Literatur- und Quellenverzeichnis}{96}{chapter*.39}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Tabellenverzeichnis}{98}{chapter*.40}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Abbildungsverzeichnis}{99}{chapter*.41}
