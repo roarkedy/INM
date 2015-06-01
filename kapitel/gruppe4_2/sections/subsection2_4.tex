@@ -121,4 +121,75 @@ Der benötigte zeitliche Rahmen und der Ablauf der Einführung von Alfresco als 
 	\label{fig_gantt_diagramm_alfresco}
 \end{figure}
 
-Das Gantt-Diagramm in Abbildung \ref{fig_gantt_diagramm_alfresco} zeigt die Dauer der einzelnen Teilschritte der Einführung des Teilprojektes „Alfresco“. Die Gesamtdauer des Teilprojekts ist die Strecke zwischen dem Anfang des obersten und dem Ende des untersten Balkens. Die Datumsangaben sind hier zu ignorieren, es geht nur um die Gesamtzahl an Manntagen, die die Umsetzung des Teilprojekts benötigt. Im ersten Schritt müssen die Server sowohl für Test- als auch für die Produktivsysteme konfiguriert und in das vorhandene Netzwerk integriert werden. Danach wird die Software installiert und entsprechend den Vorgaben der Fachbereiche konfiguriert. Nach der Installation können die Administratoren des DMS geschult werden um in dem nächsten Schritt ein Handbuch erstellen zu können. Die Qualitätsicherung des Handbuches und des DMS folgt zum Abschluss des Projekts. Ingesamt dauert die Einführung 30 MT. 
+Das Gantt-Diagramm in Abbildung \ref{fig_gantt_diagramm_alfresco} zeigt die Dauer der einzelnen Teilschritte der Einführung des Teilprojektes „Alfresco“. Die Gesamtdauer des Teilprojekts ist die Strecke zwischen dem Anfang des obersten und dem Ende des untersten Balkens. Die Datumsangaben sind hier zu ignorieren, es geht nur um die Gesamtzahl an Manntagen, die die Umsetzung des Teilprojekts benötigt. Im ersten Schritt müssen die Server sowohl für Test- als auch für die Produktivsysteme konfiguriert und in das vorhandene Netzwerk integriert werden. Danach wird die Software installiert und entsprechend den Vorgaben der Fachbereiche konfiguriert. Nach der Installation können die Administratoren des DMS geschult werden um in dem nächsten Schritt ein Handbuch erstellen zu können. Die Qualitätsicherung des Handbuches und des DMS folgt zum Abschluss des Projekts. Ingesamt dauert die Einführung 30 MT.
+
+\subsubsection{Redesign / Relaunch Hochschule-Webseite}
+\label{subsubsection_redesign_webseite}
+Um den Aufwand - und damit auch den Kosten- und Zeitrahmen der Umsetzung einer neuen Hochschulwebsite zu ermitteln, wurden Gespräche mit mehreren Experten\footnote{Achim Gosse, Geschäftsführender Gesellschafter digitalnoise GmbH (\url{www.digitalnoise.de})}\footnote{Stefan Becker, Software- und Webentwickler (\url{www.beckeste.de})} geführt.
+
+Die Ergebnisse dieser Gespräche finden sich zusammengefasst in Tabelle \ref{tab_aufwand_redesign}, welche die verschiedenen Phasen des Entwicklungsprozesses, vom initialen Workshop bis hin zur Auslieferung und Qualitätsicherung, abbildet. Als Einheit wird dabei auf “Manntage” (MT) statt auf monetäre Angaben gesetzt, da Stunden- und Tagessätze teils starken regionalen Unterschieden unterliegen. Es gilt zu beachten, dass die hier durchgeführte Betrachtung der Kosten lediglich die externen Kosten berücksichtigt. Ausfallzeiten von Mitarbeitern, die beispielsweise durch die Teilnahme an Workshops generiert werden, werden nicht berücksichtigt.
+
+\begin{table}
+	\centering
+	\begin{tabularx}{10cm}{@{}l *1{>{\raggedleft\arraybackslash}X}@{}}
+		\hline \textbf{Aufgabe} & \textbf{Manntage} \\
+			Workshop & 5\\
+			Konzept & 10\\
+			Präsentation Konzept & 2\\
+			User experience & 5\\
+			Design & 15\\
+			Präsentation Design & 2\\
+			Endpräsentation & 3\\
+			technische Umsetzung & 2\\
+			Anpassung Content & 5\\
+			Qualitätssicherung & 3\\
+			Deployment & 1\\
+			Puffer & 5\\
+			\textbf{Gesamt} & \textbf{48 - 53}\\
+			
+		\hline
+	\end{tabularx}
+	\caption{Aufwandsschätzung zum Redesign der Hochschule-Webseite}
+	\label{tab_aufwand_redesign}
+\end{table}
+
+Der Initiale Schritt des gesamten Prozesses sollte, sofern im Voraus kein ausgearbeitetes Konzept vorliegt, in der Durchführung von Workshops mit Entscheidungsträgern aus allen beteiligten Bereichen (Verwaltung, Fachbereiche, Rechenzentrum, etc.) liegen. Um das Ziel des Workshops, nämlich eine gemeinsame Grundlage zu schaffen, die von allen gleichermaßen getragen wird, zu erreichen, werden, bedingt durch das vorhandene Konfliktpotential, 5 Manntage zur Durchführung angesetzt.
+
+Die Ergebnisse des Workshops werden anschließend durch Konzeptioner, die an dem Workshop als “Zuhörer” teilgenommen haben, verarbeitet, um daraus ein Website-Konzept zu entwickeln. Für die Ausarbeitung des Konzepts mit entsprechender Präsentation vor den Projektverantwortlichen der Hochschule werden 12 Manntage veranschlagt.
+
+Nachdem das Konzept freigegeben wurde, können User-Experience-Experten und (User Interface-)Designer mit der Ausarbeitung der Gestaltungsvorlage beginnen. Dabei ist es üblich, dem Kunden mehrere, möglichst unterschiedliche, Designvorschläge zu unterbreiten. Inklusive Präsentation und Ausarbeitung des finalen Vorschlags kann dieser Posten mit 22 Manntagen berechnet werden.
+
+Auf Basis des verabschiedeten Designs kann die technische Realisierung der neuen Konzepte und Gestaltungsvorlagen beginnen. Da zum einen die benötigten Kompetenzen innerhalb der Hochschule vorhanden sind und zum anderen das interne Konfliktpotential in diesem Schritt wesentlich geringer ausfällt, bietet es sich an, diesen Schritt hochschulintern durchzuführen. Die kalkulierten 7 Manntage durch die Dienstleister setzen sich aus den Punkten “technische Umsetzung” (2 Manntage) und “Anpassung Content” (5 Manntage) zusammen. Die 2 Mantage der techniscnhe Umsetzung sind dabei zur Unterstützung des Hochschulteams vorgesehen, während die 5 Tage vor allem genutzt werden, um auf “content-seitige” Sonderfälle reagieren zu können. Da bereits TYPO3 als Content Management System zum Einsatz kommt, sollte die Migration des bestehenden Inhalts in ein neues System entfallen. Durch die Möglichkeit des Multi-Channel-Publishings und Hilfsmittel zur Erstellung barrierearmer Websites ist ein Wechsel des Systems nicht erforderlich.
+
+Vor der Auslieferung und dem “live gehen” des Internetauftritts steht noch die finale Qualitätssicherung. Dabei wird die gesamte Webpräsenz abschließend auf Konsistenz und Fehlerfreiheit geprüft. Bei einer Website diesen Umfangs werden für die Überprüfung und Korektur eventueller Fehler 3 Manntage berechnet.
+
+Die eigentliche Auslieferung sollte nach der Qualitätssicherung innerhalb eines Arbeitstages durchgeführt sein. Zur Absicherung wird eine Arbeitswoche als Puffer veranschlagt, sodass die Umsetzung des Projekts im Kostenrahmen von 48 bis 53 Manntagen liegt.
+
+Da das Erstellen eines Konzepts für einen komplexen Internetauftritt im Allgemeinen mit einem nicht zu unterschätzenden Aufwand verbunden ist, wird ein solches Konzept durch die entsprechenden Agenturen in der Regel nur angefertigt, wenn dahinter die Aussicht auf den Erhalt des entsprechenden Auftrags steht. Da weder ein bestehendes Konzept, noch die konkrete Aussicht auf einen tatsächlichen Auftrag vorliegen, konnten durch die Dienstleister keine konkreten Angebote abgegeben werden.
+
+\subsubsection{Facebook Seite}
+Facebook unterscheidet verschiedene Arten von Applikationen die mit einem Profil verknüpft werden können. Dabei ist es unerheblich ob dieses Profil einer Privatperson, einem Unternehmen oder einer anderen Organisation zugeordnet wird.\footnote{\url{https://developers.facebook.com/docs}}
+
+Die Hochschule Emden/Leer hat bereits ein reguläres Facebook Profil. Es gilt nun für die einzelnen Fachbereiche sogenannte “Page Tabs” einzurichten. “Page Tabs” werden auf einer Facebook Profil-Seite als Menü-Links eingeblendet. Der Inhalt der Tabs wird wird mit einer, nach speziellen Vorgaben gestalteten, Webseite in die Profil-Seite integriert. Facebook gibt mit einer API das Format vor. Auch die Nutzung anderer Elemente der Facebook Dienste bedarf einer Integration der Facebook API. Dabei ist zu beachten, dass die Webseite, deren Inhalt in dem Tab angezeigt wird, auf einem externen Server, in diesem Fall einem Server der Hochschule, liegt.\footnote{\url{https://developers.facebook.com/docs}}
+
+Bei der Ermittlung des Zeitbedarfs für die Erstellung eines Tabs geht es folglich darum, den zeitlichen Aufwand für das Anfertigen einer regulären Webseite nach den Vorgaben der Facebook API zu schätzen. 
+
+Die benötigten Funktionen einer solchen Webseite und der dazugehörige Entwicklungsaufwand werden wieder durch Befragung eines Experten ermittelt. Als Experte für dieses Teilprojekt stand Herr Dipl.-Inf. Franz Riehl von der jambit GmbH aus München zur Verfügung. Analog zur Kalkulation der Website in Kapitel \ref{subsubsection_redesign_webseite} wird auch in diesem Fall in “Manntagen” gerechnet:
+
+\begin{table}
+	\centering
+	\begin{tabularx}{10cm}{@{}l *1{>{\raggedleft\arraybackslash}X}@{}}
+		\hline \textbf{Aufgabe} & \textbf{Manntage} \\
+		Konzept & 1\\
+		Design & 10\\
+		Präsentation & 1\\
+		Realisierung & 8\\
+		Integration & 1\\
+		Abnahme / QS & 1\\
+		\textbf{Gesamt} & \textbf{22}\\
+		
+		\hline
+	\end{tabularx}
+	\caption{Aufwandsschätzung zur Entwicklung der "Facebook Page Tabs"}
+	\label{tab_aufwand_facebook_page}
+\end{table}
