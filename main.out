@@ -1,20 +1,176 @@
 \BOOKMARK [0][-]{chapter.1}{Einleitung}{}% 1
-\BOOKMARK [0][-]{chapter.2}{Kosten und Zeit}{}% 2
-\BOOKMARK [1][-]{section.2.1}{Kostenarten}{chapter.2}% 3
-\BOOKMARK [2][-]{subsection.2.1.1}{Kostenarten in Hochschulen}{section.2.1}% 4
-\BOOKMARK [2][-]{subsection.2.1.2}{Kostenarten in der IT}{section.2.1}% 5
-\BOOKMARK [1][-]{section.2.2}{Verfahren f\374r die Kosten- und Zeitsch\344tzung}{chapter.2}% 6
-\BOOKMARK [2][-]{subsection.2.2.1}{Projektmanagement an einer Hochschule}{section.2.2}% 7
-\BOOKMARK [2][-]{subsection.2.2.2}{Kostensch\344tzung \(Total Cost of Ownership\)}{section.2.2}% 8
-\BOOKMARK [2][-]{subsection.2.2.3}{Zeitplanung}{section.2.2}% 9
-\BOOKMARK [3][-]{subsubsection.2.2.3.1}{Gantt-Diagramm}{subsection.2.2.3}% 10
-\BOOKMARK [3][-]{subsubsection.2.2.3.2}{Meilensteintrendanalyse}{subsection.2.2.3}% 11
-\BOOKMARK [2][-]{subsection.2.2.4}{Anwendung}{section.2.2}% 12
-\BOOKMARK [3][-]{subsubsection.2.2.4.1}{Dokumentenmanagementsystem Alfresco}{subsection.2.2.4}% 13
-\BOOKMARK [3][-]{subsubsection.2.2.4.2}{Redesign / Relaunch Hochschule-Webseite}{subsection.2.2.4}% 14
-\BOOKMARK [3][-]{subsubsection.2.2.4.3}{Facebook Seite}{subsection.2.2.4}% 15
-\BOOKMARK [1][-]{section.2.3}{Ausgew\344hlte Projekt-Beispiele}{chapter.2}% 16
-\BOOKMARK [0][-]{chapter.3}{Zusammenfassung}{}% 17
-\BOOKMARK [0][-]{chapter*.27}{Literatur- und Quellenverzeichnis}{}% 18
-\BOOKMARK [0][-]{chapter*.28}{Tabellenverzeichnis}{}% 19
-\BOOKMARK [0][-]{chapter*.29}{Abbildungsverzeichnis}{}% 20
+\BOOKMARK [0][-]{chapter.2}{Grundlegende Aufgaben und Organisation des Informationsmanagements und Besonderheiten an Hochschulen}{}% 2
+\BOOKMARK [1][-]{section.2.1}{Begriffsdefinition des Wortes Informationsmanagement}{chapter.2}% 3
+\BOOKMARK [2][-]{subsection.2.1.1}{Begriffsdefinition Information}{section.2.1}% 4
+\BOOKMARK [1][-]{section.2.2}{Informationsmanagementmodelle in der Literatur}{chapter.2}% 5
+\BOOKMARK [2][-]{subsection.2.2.1}{Informationsmanagement nach Heinrichs}{section.2.2}% 6
+\BOOKMARK [2][-]{subsection.2.2.2}{Informationsmanagement nach Wollnik}{section.2.2}% 7
+\BOOKMARK [2][-]{subsection.2.2.3}{Informationsmanagement nach Krcmar}{section.2.2}% 8
+\BOOKMARK [1][-]{section.2.3}{Aufbau des Informationsmanagements nach Krcmar}{chapter.2}% 9
+\BOOKMARK [1][-]{section.2.4}{Ziele des Informationsmanagements}{chapter.2}% 10
+\BOOKMARK [2][-]{subsection.2.4.1}{Koordination der Informationslogistik}{section.2.4}% 11
+\BOOKMARK [2][-]{subsection.2.4.2}{Informationsmanagement als Unterst\374tzung der Unternehmensziele}{section.2.4}% 12
+\BOOKMARK [1][-]{section.2.5}{Qualit\344tsmanagement der Informationsprozesse}{chapter.2}% 13
+\BOOKMARK [2][-]{subsection.2.5.1}{Aufgaben des Qualit\344tsmanagements}{section.2.5}% 14
+\BOOKMARK [2][-]{subsection.2.5.2}{Prozessoptimierung durch Minimierung der Durchlaufzeiten}{section.2.5}% 15
+\BOOKMARK [2][-]{subsection.2.5.3}{Anwendung des Qualit\344tsmanagements am Beispiel der IT Balanced Scorecard}{section.2.5}% 16
+\BOOKMARK [1][-]{section.2.6}{Anwendung des Informationsmanagements am Beispiel von Hochschulen}{chapter.2}% 17
+\BOOKMARK [2][-]{subsection.2.6.1}{Immatrikulations- und Pr\374fungsamt}{section.2.6}% 18
+\BOOKMARK [2][-]{subsection.2.6.2}{Bibliotheken}{section.2.6}% 19
+\BOOKMARK [2][-]{subsection.2.6.3}{Rechnerpools}{section.2.6}% 20
+\BOOKMARK [0][-]{chapter.3}{Trends des Informationsmanagements an Hochschulen}{}% 21
+\BOOKMARK [0][-]{chapter.4}{Best Practice-Beispiele von Informationsmanagement an Hochschulen}{}% 22
+\BOOKMARK [1][-]{section.4.1}{Betrachtete Hochschulen}{chapter.4}% 23
+\BOOKMARK [2][-]{subsection.4.1.1}{WWU M\374nster}{section.4.1}% 24
+\BOOKMARK [2][-]{subsection.4.1.2}{TU Dortmund}{section.4.1}% 25
+\BOOKMARK [2][-]{subsection.4.1.3}{Karlsruher Institut f\374r Technologie}{section.4.1}% 26
+\BOOKMARK [2][-]{subsection.4.1.4}{Universit\344t Ulm}{section.4.1}% 27
+\BOOKMARK [1][-]{section.4.2}{Umsetzung der Trends in den betrachteten Hochschulen}{chapter.4}% 28
+\BOOKMARK [2][-]{subsection.4.2.1}{Zentralisierung / Integration}{section.4.2}% 29
+\BOOKMARK [2][-]{subsection.4.2.2}{Standardisierung / SOA}{section.4.2}% 30
+\BOOKMARK [2][-]{subsection.4.2.3}{Nutzerorientierung und Serviceorientierung}{section.4.2}% 31
+\BOOKMARK [2][-]{subsection.4.2.4}{Das CIO-Konzept}{section.4.2}% 32
+\BOOKMARK [2][-]{subsection.4.2.5}{ITIL}{section.4.2}% 33
+\BOOKMARK [1][-]{section.4.3}{Zusammenfassung}{chapter.4}% 34
+\BOOKMARK [0][-]{chapter.5}{Ist-Situation der Hochschule Emden/Leer hinsichtlich wichtiger Dimensionen}{}% 35
+\BOOKMARK [1][-]{section.5.1}{Ziel}{chapter.5}% 36
+\BOOKMARK [1][-]{section.5.2}{Aufgaben}{chapter.5}% 37
+\BOOKMARK [1][-]{section.5.3}{Zust\344ndigkeiten}{chapter.5}% 38
+\BOOKMARK [2][-]{subsection.5.3.1}{Fachbereiche}{section.5.3}% 39
+\BOOKMARK [3][-]{subsubsection.5.3.1.1}{Seefahrt}{subsection.5.3.1}% 40
+\BOOKMARK [3][-]{subsubsection.5.3.1.2}{Technik}{subsection.5.3.1}% 41
+\BOOKMARK [3][-]{subsubsection.5.3.1.3}{Wirtschaft}{subsection.5.3.1}% 42
+\BOOKMARK [3][-]{subsubsection.5.3.1.4}{Soziale Arbeit und Gesundheit}{subsection.5.3.1}% 43
+\BOOKMARK [2][-]{subsection.5.3.2}{Pr\344sidium}{section.5.3}% 44
+\BOOKMARK [2][-]{subsection.5.3.3}{Zentrale Verwaltung}{section.5.3}% 45
+\BOOKMARK [3][-]{subsubsection.5.3.3.1}{Studentenverwaltung}{subsection.5.3.3}% 46
+\BOOKMARK [3][-]{subsubsection.5.3.3.2}{Mitarbeiterverwaltung}{subsection.5.3.3}% 47
+\BOOKMARK [3][-]{subsubsection.5.3.3.3}{Rechenzentrum}{subsection.5.3.3}% 48
+\BOOKMARK [2][-]{subsection.5.3.4}{Arbeitsgruppen zum Informationsaustausch und zur Informationsbereitstellung}{section.5.3}% 49
+\BOOKMARK [3][-]{subsubsection.5.3.4.1}{Zahlen, Daten und Fakten \(ZDF\)}{subsection.5.3.4}% 50
+\BOOKMARK [3][-]{subsubsection.5.3.4.2}{WEB}{subsection.5.3.4}% 51
+\BOOKMARK [3][-]{subsubsection.5.3.4.3}{Moodle}{subsection.5.3.4}% 52
+\BOOKMARK [1][-]{section.5.4}{Definierte und bestehende Prozesse \(Regelung und Handhabung von vorhandenen Informationen\)}{chapter.5}% 53
+\BOOKMARK [2][-]{subsection.5.4.1}{Wissensmanagement}{section.5.4}% 54
+\BOOKMARK [2][-]{subsection.5.4.2}{E-Learning}{section.5.4}% 55
+\BOOKMARK [3][-]{subsubsection.5.4.2.1}{E-Learning an der Hochschule Emden/Leer}{subsection.5.4.2}% 56
+\BOOKMARK [3][-]{subsubsection.5.4.2.2}{E-Learning in den Pr\344senzstudieng\344ngen}{subsection.5.4.2}% 57
+\BOOKMARK [3][-]{subsubsection.5.4.2.3}{Einsatz von E-Learning-Anwendungen}{subsection.5.4.2}% 58
+\BOOKMARK [4][-]{paragraph.5.4.2.3.1}{Adobe Connect}{subsubsection.5.4.2.3}% 59
+\BOOKMARK [4][-]{paragraph.5.4.2.3.2}{Moodle}{subsubsection.5.4.2.3}% 60
+\BOOKMARK [3][-]{subsubsection.5.4.2.4}{Zentrale Informationsbereitstellung durch Datenlaufwerke}{subsection.5.4.2}% 61
+\BOOKMARK [4][-]{paragraph.5.4.2.4.1}{Laufwerk Z}{subsubsection.5.4.2.4}% 62
+\BOOKMARK [4][-]{paragraph.5.4.2.4.2}{Laufwerk Y}{subsubsection.5.4.2.4}% 63
+\BOOKMARK [4][-]{paragraph.5.4.2.4.3}{Verzeichnis Lehrende aus Leer}{subsubsection.5.4.2.4}% 64
+\BOOKMARK [3][-]{subsubsection.5.4.2.5}{Moodle vs. Datenlaufwerke f\374r Pr\344senzstudenten}{subsection.5.4.2}% 65
+\BOOKMARK [2][-]{subsection.5.4.3}{Sicherheitsaspekte}{section.5.4}% 66
+\BOOKMARK [3][-]{subsubsection.5.4.3.1}{Sicherheitsrichtlinien an der Hochschule Emden / Leer}{subsection.5.4.3}% 67
+\BOOKMARK [3][-]{subsubsection.5.4.3.2}{Einsatz von ITIL}{subsection.5.4.3}% 68
+\BOOKMARK [3][-]{subsubsection.5.4.3.3}{Umsetzung von ISO/IEC 27001}{subsection.5.4.3}% 69
+\BOOKMARK [3][-]{subsubsection.5.4.3.4}{Single Sign-On}{subsection.5.4.3}% 70
+\BOOKMARK [3][-]{subsubsection.5.4.3.5}{Fazit Sicherheitsrichtlinien}{subsection.5.4.3}% 71
+\BOOKMARK [1][-]{section.5.5}{Repr\344sentation von Informationen}{chapter.5}% 72
+\BOOKMARK [2][-]{subsection.5.5.1}{Erscheinungsbild nach au\337en}{section.5.5}% 73
+\BOOKMARK [2][-]{subsection.5.5.2}{Studentengewinnung}{section.5.5}% 74
+\BOOKMARK [2][-]{subsection.5.5.3}{Corporate Identity}{section.5.5}% 75
+\BOOKMARK [2][-]{subsection.5.5.4}{Handling von Bewerberdaten}{section.5.5}% 76
+\BOOKMARK [1][-]{section.5.6}{Kooperations-Situation mit anderen Hochschulen}{chapter.5}% 77
+\BOOKMARK [2][-]{subsection.5.6.1}{Regionaler Bezug zu Hochschulen \(Mitgliedschaften\)}{section.5.6}% 78
+\BOOKMARK [2][-]{subsection.5.6.2}{Kooperation zwischen Unternehmen}{section.5.6}% 79
+\BOOKMARK [2][-]{subsection.5.6.3}{Eingesetzte IT-Systeme durch Mitgliedschaft im DFN-Verein}{section.5.6}% 80
+\BOOKMARK [3][-]{subsubsection.5.6.3.1}{DFNRoaming/eduroam}{subsection.5.6.3}% 81
+\BOOKMARK [3][-]{subsubsection.5.6.3.2}{GigaMove der RWTH Aachen}{subsection.5.6.3}% 82
+\BOOKMARK [3][-]{subsubsection.5.6.3.3}{DFNVideoConference \(DFNVC\)}{subsection.5.6.3}% 83
+\BOOKMARK [2][-]{subsection.5.6.4}{Authentifizierung \374ber das Shibboleth-Verfahren}{section.5.6}% 84
+\BOOKMARK [3][-]{subsubsection.5.6.4.1}{Springer Link}{subsection.5.6.4}% 85
+\BOOKMARK [3][-]{subsubsection.5.6.4.2}{WISO}{subsection.5.6.4}% 86
+\BOOKMARK [3][-]{subsubsection.5.6.4.3}{video2brain}{subsection.5.6.4}% 87
+\BOOKMARK [2][-]{subsection.5.6.5}{Support der Dienste}{section.5.6}% 88
+\BOOKMARK [1][-]{section.5.7}{Bewertung und Gewichtung}{chapter.5}% 89
+\BOOKMARK [0][-]{chapter.6}{M\366gliche Soll-Situation im Hinblick auf die heutigen und zuk\374nftigen Aufgaben}{}% 90
+\BOOKMARK [1][-]{section.6.1}{Marketing}{chapter.6}% 91
+\BOOKMARK [2][-]{subsection.6.1.1}{Externes Hochschulmarketing}{section.6.1}% 92
+\BOOKMARK [3][-]{subsubsection.6.1.1.1}{Webseite}{subsection.6.1.1}% 93
+\BOOKMARK [3][-]{subsubsection.6.1.1.2}{Soziale Netzwerke}{subsection.6.1.1}% 94
+\BOOKMARK [3][-]{subsubsection.6.1.1.3}{Verteilte Content-Erzeugung}{subsection.6.1.1}% 95
+\BOOKMARK [2][-]{subsection.6.1.2}{Internes Hochschulmarketing}{section.6.1}% 96
+\BOOKMARK [3][-]{subsubsection.6.1.2.1}{Fokussierter Support}{subsection.6.1.2}% 97
+\BOOKMARK [3][-]{subsubsection.6.1.2.2}{Schulungen}{subsection.6.1.2}% 98
+\BOOKMARK [3][-]{subsubsection.6.1.2.3}{Integration}{subsection.6.1.2}% 99
+\BOOKMARK [1][-]{section.6.2}{Support und Fortentwicklung}{chapter.6}% 100
+\BOOKMARK [2][-]{subsection.6.2.1}{Support}{section.6.2}% 101
+\BOOKMARK [3][-]{subsubsection.6.2.1.1}{Zentrale Dokumentation}{subsection.6.2.1}% 102
+\BOOKMARK [3][-]{subsubsection.6.2.1.2}{Knowledge Base}{subsection.6.2.1}% 103
+\BOOKMARK [2][-]{subsection.6.2.2}{Fortentwicklung}{section.6.2}% 104
+\BOOKMARK [3][-]{subsubsection.6.2.2.1}{Feedback}{subsection.6.2.2}% 105
+\BOOKMARK [3][-]{subsubsection.6.2.2.2}{Innovationseingabe}{subsection.6.2.2}% 106
+\BOOKMARK [3][-]{subsubsection.6.2.2.3}{Erfahrungsgetriebene Fortentwicklung}{subsection.6.2.2}% 107
+\BOOKMARK [1][-]{section.6.3}{Hard- und Software}{chapter.6}% 108
+\BOOKMARK [2][-]{subsection.6.3.1}{Kernanforderungen}{section.6.3}% 109
+\BOOKMARK [2][-]{subsection.6.3.2}{Bereichs\374bergreifende Basissystem}{section.6.3}% 110
+\BOOKMARK [2][-]{subsection.6.3.3}{Identity Management}{section.6.3}% 111
+\BOOKMARK [2][-]{subsection.6.3.4}{Gesch\344ftsprozesse}{section.6.3}% 112
+\BOOKMARK [2][-]{subsection.6.3.5}{Content Management}{section.6.3}% 113
+\BOOKMARK [2][-]{subsection.6.3.6}{Spezialsysteme}{section.6.3}% 114
+\BOOKMARK [2][-]{subsection.6.3.7}{Verwaltungssoftware}{section.6.3}% 115
+\BOOKMARK [2][-]{subsection.6.3.8}{Lernplattform}{section.6.3}% 116
+\BOOKMARK [2][-]{subsection.6.3.9}{Publikationen}{section.6.3}% 117
+\BOOKMARK [2][-]{subsection.6.3.10}{Evaluation}{section.6.3}% 118
+\BOOKMARK [2][-]{subsection.6.3.11}{Campus Portal}{section.6.3}% 119
+\BOOKMARK [3][-]{subsubsection.6.3.11.1}{Integrierte Gesamtsuche}{subsection.6.3.11}% 120
+\BOOKMARK [2][-]{subsection.6.3.12}{Ausblick bei Integration der Bibliothek}{section.6.3}% 121
+\BOOKMARK [1][-]{section.6.4}{Abw\344gung des Einsatzes eines Informationsmanagements an der Hochschule Emden Leer}{chapter.6}% 122
+\BOOKMARK [2][-]{subsection.6.4.1}{Analyse des Ist-Zustandes}{section.6.4}% 123
+\BOOKMARK [2][-]{subsection.6.4.2}{Analyse des zu erwartenden Soll-Zustandes}{section.6.4}% 124
+\BOOKMARK [2][-]{subsection.6.4.3}{Soll-M\366glichkeit}{section.6.4}% 125
+\BOOKMARK [2][-]{subsection.6.4.4}{Zu erwartende Kosten}{section.6.4}% 126
+\BOOKMARK [2][-]{subsection.6.4.5}{Prognose und zu erwartender Verlauf / Fazit}{section.6.4}% 127
+\BOOKMARK [0][-]{chapter.7}{Konzept zur Erreichung der Soll-Situation}{}% 128
+\BOOKMARK [1][-]{section.7.1}{Umsetzungsplanung}{chapter.7}% 129
+\BOOKMARK [2][-]{subsection.7.1.1}{Positionsbestimmung}{section.7.1}% 130
+\BOOKMARK [2][-]{subsection.7.1.2}{Change Management}{section.7.1}% 131
+\BOOKMARK [3][-]{subsubsection.7.1.2.1}{Grundlagen des Change Managements}{subsection.7.1.2}% 132
+\BOOKMARK [3][-]{subsubsection.7.1.2.2}{Change Management an Hochschulen}{subsection.7.1.2}% 133
+\BOOKMARK [3][-]{subsubsection.7.1.2.3}{Changeplan}{subsection.7.1.2}% 134
+\BOOKMARK [4][-]{paragraph.7.1.2.3.1}{Responsive Website}{subsubsection.7.1.2.3}% 135
+\BOOKMARK [4][-]{paragraph.7.1.2.3.2}{Alfresco}{subsubsection.7.1.2.3}% 136
+\BOOKMARK [1][-]{section.7.2}{Migrationskonzepte}{chapter.7}% 137
+\BOOKMARK [2][-]{subsection.7.2.1}{Kriterien f\374r eine erfolgreiche Migration}{section.7.2}% 138
+\BOOKMARK [2][-]{subsection.7.2.2}{Migrationsstrategien}{section.7.2}% 139
+\BOOKMARK [2][-]{subsection.7.2.3}{Migrationsbeispiele}{section.7.2}% 140
+\BOOKMARK [3][-]{subsubsection.7.2.3.1}{Responsive Website mit TYPO3}{subsection.7.2.3}% 141
+\BOOKMARK [4][-]{paragraph.7.2.3.1.1}{Ist-Zustand}{subsubsection.7.2.3.1}% 142
+\BOOKMARK [4][-]{paragraph.7.2.3.1.2}{Soll-Zustand}{subsubsection.7.2.3.1}% 143
+\BOOKMARK [4][-]{paragraph.7.2.3.1.3}{Migrationsplan}{subsubsection.7.2.3.1}% 144
+\BOOKMARK [5][-]{subparagraph.7.2.3.1.3.1}{Hardwareanforderungen}{paragraph.7.2.3.1.3}% 145
+\BOOKMARK [5][-]{subparagraph.7.2.3.1.3.2}{Entwicklungssystem}{paragraph.7.2.3.1.3}% 146
+\BOOKMARK [5][-]{subparagraph.7.2.3.1.3.3}{Migration}{paragraph.7.2.3.1.3}% 147
+\BOOKMARK [5][-]{subparagraph.7.2.3.1.3.4}{Produktivsetzung}{paragraph.7.2.3.1.3}% 148
+\BOOKMARK [3][-]{subsubsection.7.2.3.2}{Alfresco}{subsection.7.2.3}% 149
+\BOOKMARK [4][-]{paragraph.7.2.3.2.1}{Ist-Zustand}{subsubsection.7.2.3.2}% 150
+\BOOKMARK [4][-]{paragraph.7.2.3.2.2}{Soll-Zustand}{subsubsection.7.2.3.2}% 151
+\BOOKMARK [4][-]{paragraph.7.2.3.2.3}{Migrationsplan}{subsubsection.7.2.3.2}% 152
+\BOOKMARK [5][-]{subparagraph.7.2.3.2.3.1}{Hardwareanforderungen}{paragraph.7.2.3.2.3}% 153
+\BOOKMARK [5][-]{subparagraph.7.2.3.2.3.2}{Entwicklungssystem}{paragraph.7.2.3.2.3}% 154
+\BOOKMARK [5][-]{subparagraph.7.2.3.2.3.3}{Migration}{paragraph.7.2.3.2.3}% 155
+\BOOKMARK [5][-]{subparagraph.7.2.3.2.3.4}{Produktivsetzung}{paragraph.7.2.3.2.3}% 156
+\BOOKMARK [0][-]{chapter.8}{Kosten und Zeit}{}% 157
+\BOOKMARK [1][-]{section.8.1}{Kostenarten}{chapter.8}% 158
+\BOOKMARK [2][-]{subsection.8.1.1}{Kostenarten in Hochschulen}{section.8.1}% 159
+\BOOKMARK [2][-]{subsection.8.1.2}{Kostenarten in der IT}{section.8.1}% 160
+\BOOKMARK [1][-]{section.8.2}{Verfahren f\374r die Kosten- und Zeitsch\344tzung}{chapter.8}% 161
+\BOOKMARK [2][-]{subsection.8.2.1}{Projektmanagement an einer Hochschule}{section.8.2}% 162
+\BOOKMARK [2][-]{subsection.8.2.2}{Kostensch\344tzung \(Total Cost of Ownership\)}{section.8.2}% 163
+\BOOKMARK [2][-]{subsection.8.2.3}{Zeitplanung}{section.8.2}% 164
+\BOOKMARK [3][-]{subsubsection.8.2.3.1}{Gantt-Diagramm}{subsection.8.2.3}% 165
+\BOOKMARK [3][-]{subsubsection.8.2.3.2}{Meilensteintrendanalyse}{subsection.8.2.3}% 166
+\BOOKMARK [2][-]{subsection.8.2.4}{Anwendung}{section.8.2}% 167
+\BOOKMARK [3][-]{subsubsection.8.2.4.1}{Dokumentenmanagementsystem Alfresco}{subsection.8.2.4}% 168
+\BOOKMARK [3][-]{subsubsection.8.2.4.2}{Redesign / Relaunch Hochschule-Webseite}{subsection.8.2.4}% 169
+\BOOKMARK [3][-]{subsubsection.8.2.4.3}{Facebook Seite}{subsection.8.2.4}% 170
+\BOOKMARK [1][-]{section.8.3}{Ausgew\344hlte Projekt-Beispiele}{chapter.8}% 171
+\BOOKMARK [2][-]{subsection.8.3.1}{Beispiele des integrierten Informationsmanagements}{section.8.3}% 172
+\BOOKMARK [0][-]{chapter.9}{Zusammenfassung}{}% 173
+\BOOKMARK [0][-]{chapter*.63}{Literatur- und Quellenverzeichnis}{}% 174
+\BOOKMARK [0][-]{chapter*.64}{Tabellenverzeichnis}{}% 175
+\BOOKMARK [0][-]{chapter*.65}{Abbildungsverzeichnis}{}% 176
