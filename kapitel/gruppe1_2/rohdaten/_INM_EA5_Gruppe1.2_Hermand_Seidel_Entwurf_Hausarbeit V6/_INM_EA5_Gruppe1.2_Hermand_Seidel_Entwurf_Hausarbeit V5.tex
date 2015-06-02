@@ -1,0 +1,432 @@
+\documentclass[a4paper, 12pt]{scrreprt}
+
+\usepackage[utf8]{inputenc}
+\usepackage[english,ngerman]{babel}
+\usepackage{graphicx}
+\usepackage{url}
+\setcounter{tocdepth}{4}
+\setcounter{secnumdepth}{4}
+
+\begin{document}
+\tableofcontents	
+
+
+\chapter{Trends an Hochschulen}
+In diesem Kapitel werden Trends deutscher Hochschulen analysiert.
+
+\section{Einleitung}
+% Ich bin ein Kommentar, zu erkennen am Prozentsymbol. Es gelten die bekannten Escape-Regel
+% mit Backlash, z.B.  \%
+Offen
+
+\section{Orientierungen im Informationsmanagement}
+\footnote{\url{Oliver Seidel}}
+
+Hochschulen befinden sich in einem stetigen Entwicklungsprozess in der Bereitstellung von Informationssystemen. Ihnen stehen dabei drei grundlegende Orientierungen zur Verfügung: Dienstleistungsorientierung, Prozessorientierung und Architekturorientierung \footnote{\url{fh-200808.pdf, s. 32 von 116}}. Kapitel XXXX geht dabei auf die Bedeutung und Umsetzungsmöglichkeiten der Dienstleistungsorientierung ein. Kontinuierlich verbesserte Prozesse und Gestaltungen von IT-Strukturen werden im Kapitel XXXX Prozessorientierung behandelt. Die Architekturorientierung wird hier nicht betrachtet, Kapitel 2.2.2 Gestaltung und Anpassung von IT-Strukturen geht allerdings grundlegend auf Architekturveränderungen in der IT-Infrastruktur ein.
+
+\subsection{Serviceorientierung}
+Die zentralen Ziele der Serviceorientierung liegen darin, die Dienstleistungen auf die Anforderungen der Kunden auszurichten und dabei gleichzeitig ihre Qualität kontinuierlich zu verbessern \footnote{\url{fh-200808, s.34}}. Kundenorientierung bedeutet weiter, die bestehenden und zukünftigen Kundenbedürfnisse zu kennen, die Interessen zu berücksichtigen und in den Mittelpunkt zu stellen. Dabei liegt der Fokus auf der Kundenbeziehung \footnote{\url{http://www.his-he.de/veranstaltung/dokumentation/Forum_Pruefungsverwaltung_012011/pdf/04_HISForumPV_11_Thomas_Schroeder.pdf}}. Die Herausforderung dieser Ambition liegt bei erstmaligem Betrachten in den technologiefokussierten IT-Abteilungen der Hochschule, die es in kundenorientierte IT-Dienstleister zu verwandeln gilt. Demgegenüber verstehen sich Hochschulrechenzentren als zentrale, wissenschaftliche Dienstleistungseinrichtung für öffentliche Hochschulen \footnote{\url{fh-200808 s.14 von 116 - hoschschulzentren}}. Zusätzlich hindern wissenschaftliche Ambitionen des IT-Personals die Realisierung kundenorientierter Serviceangebote. Andererseits verbindet die Forschung wieder die Hochschulrechenzentren mit Ihren Kunden \footnote{\url{fh-200808 s.14 von 116 - hoschschulzentren}}. Erschwerend kommt hinzu, dass die Rollenverteilung in Hochschulen zwischen Kunden und Dienstleistern nicht klar definiert werden kann. Die unterschiedlichen Serviceorganisationen sind der Rolle der Dienstleister zuzuordnen, wobei hier in wenigen Fällen eine klare Rolle der Leitungsebene beispielweise in Form eines CIO existiert. Auf Seiten der Kundensicht kommen Studierende, Hochschulen selbst, aber auch ihre Fakultäten, Fachbereiche, die Lehrenden und Verwaltungsmitarbeiter in Frage \footnote{\url{fh-200808, s.33}}. Trotz alledem ist eine stärkere Serviceorientierung aufgrund steigenden Wettbewerbs um Studierende und potenziellen Forscher-Nachwuchs, veränderten Auswahlverhaltens und gestiegenem Anspruchsdenken der Studierenden notwendig \footnote{\url{http://www.his-he.de/veranstaltung/dokumentation/Forum_Pruefungsverwaltung_012011/pdf/04_HISForumPV_11_Thomas_Schroeder.pdf}}.
+
+
+\subsubsection{Realisierung der Serviceorientierung}
+Um das Wertversprechen gegenüber Studierenden weiter zu verbessern ist die Optimierung der Serviceorientierung wichtig. Erreicht werden könnte dies beispielsweise durch eine Verbesserung der Bibliotheksangebote und weitreichender Öffnungszeiten. Darüber hinaus können mittels verbesserter Lehrqualität neue berufs- und ergebnisorientierte Bedürfnisse der Studierenden befriedigt werden. Weiter lässt sich durch eine stärkere Einbindung von Praktikern als Gastdozierende und Mentoren praxisrelevantes Wissen vermitteln. Eine reibungslose Abwicklung und große Auswahl an institutionalisierten Austauschprogrammen und Auslandssemstern ist ebenfalls förderlich. Die individualisierte Karriereförderung sollte allerdings über die eigentliche Studienbetreuung hinaus gehen und personalisierte Bewerbungstrainings und Karrierecoachings, sowie persönliche Kontakte zu Arbeitgebern beinhalten. Um mit potentiellen Arbeitgebern frühzeitig in Kontakt treten zu können, sind Career Services und der Ausbau von Jobmessen wichtig. \footnote{\url{Rolle_und_zukunft_privater_hochschulen_in_deutschland - PDF.pdf, s. 18 von 98 // S. 81 von 98}}
+
+Verbesserte Dienstleistungen werden von Studierenden hoch geschätzt.	So ist besonders für berufstätige Studierende eine flexible Lehre wichtig. Dazu gehören ergänzend zum Präsenzunterricht E-Learning-Angebote (siehe Kapitel XXXX) aber auch Verfahrensweisen wie BYOD (sieh Kapitel XXXX). Administrative Effizienz lässt sich durch effiziente Gestaltung von Bewerbungsverfahren, bedienerfreundlichem Kursauswahlverfahren und der Positionierung des Studierendensekretariats als Kundenzentrum erzielen \footnote{\url{Rolle_und_zukunft_privater_hochschulen_in_deutschland - PDF.pdf, s. 18 von 98 // S. 81 von 98}}.
+
+Große Systemvielfalt birgt häufige Login-Prozesse und unterschiedliche Ansprechpartner. Hier ist das Ziel von weniger Systemen und mehr Serviceorientierung für bessere Nutzerfreundlichkeit. Durch ein SSO (Single Sign-On) wird nach einer einmaligen Anmeldung an einem Portal wie in Abbildung \ref{sso} dargestellt, ein genereller Zugriff auf alle Anwendungen gewährt. So können Tätigkeiten wie beispielsweise Prüfungsanmeldungen durchgeführt werden, es werden aber auch Zugänge zu sämtlichen IT-Diensten (Rechenzentrum, Bibliothek, Verwaltung) ermöglicht.
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=10cm]{bilder_olli/SSO}
+	\caption{Single-Sign-On} \footnote{\url{Rolle_und_zukunft_privater_hochschulen_in_deutschland - PDF.pdf, s. 18 von 98 // S. 81 von 98}}
+	\label{sso}
+\end{figure}
+
+
+\subsubsection{IT Infrastructure Library (ITIL)}
+Zur Fokussierung der IT-Dienste auf Kundenorientierung und für eine stärkere Ausrichtung des IT-Bereichs an strategischen Organisationszielen, stehen Hochschulen und anderen Institutionen verschiedene Referenzmodelle zur Verfügung. Diese Modelle unterstützen bei der Bereitstellung klar definierter IT-Services, einer kennzahlengestützten Steuerung und Bewertung des IT-Managements und Umstrukturierung der IT-Organisation. Die IT Infrastructure Library (kurz ITIL) ist das international am meisten genutzte Referenzmodell. Es ist aus einer Sammlung von Beispielen guter Praxis entstanden und wird stetig weiterentwickelt. In ITIL werden sämtliche Prozesse in Beziehung zueinander gesetzt und definiert. Dazu gehören beispielsweise Konfigurationsmanagement, Kapazitäts-, Verfügbarkeits- und Finanzplanung, der Umgang mit Katastrophen, Störungs- und Problembehandlung, aber auch Service Level Vereinbarungen. ITIL ist durch seine Skalierbarkeit und Prozessorientierung auf Gesamtorganisationen, einzelne Abteilungen oder übergreifende Dienstleistungen anwendbar. Die Prozesse können unabhängig von einer konkreten IT-Infrastruktur genutzt werden, wodurch der Einsatz in vielen Bereichen ermöglicht wird. \footnote{\url{fh-200808.pdf, s. 34 von 116}}
+
+\paragraph{Service Desk}\mbox{}\\	
+Die Schaffung eines Service-Desks resultiert aus dem Verständnis die Studierenden und Lehrenden als „Kunde“ zu betrachten, denen man serviceorientierte Dienstleistungen anbieten möchte. Zum anderen werden Ressourcen ermöglicht es eine effizientere Ressourceneinsatzplanung im Verwaltungsbereich \footnote{\url{Herausforderungen an das Informationsmanagement einer Hochschule – PDF, s. 5 von 14}}. Der Studierendenservicecenter ist die zentrale Anlaufstelle für jegliche Belange. Hier wird im Zuge des 1st Level Supportes eine Lösung der Anfrage ohne Kontaktierung weiteren Fachpersonals versucht. Zusätzlich stellt diese Ebene eine schnelle Reaktionszeit bei Störungen sicher. Sollte dies nicht möglich sein, werden die Anfragen über ein Ticketsystem sortiert, priorisiert und den richtigen Ansprechpartnern zugeteilt. Hier wird die Bearbeitung zeitversetzt durch Spezialisten im 2nd Level Support fortgeführt. In der Abbildung \ref{sd} ist der beschriebene Ablauf visualisiert, es handelt sich hier um die Infrastruktur der Universität Freiburg.
+ 
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=15cm]{bilder_olli/ServiceDesk}
+	\caption{Service Desk: Beispiel an der Universität Freiburg}  \footnote{\url{Bode_071015.pdf, s 15 von 23}}
+	\label{SD}
+\end{figure}
+
+ 
+
+\paragraph{Change-Management}\mbox{}\\
+Change-Management ist einer der ITIL-Prozesse und beschreibt wie auf Änderungsanfragen zu reagieren ist. Dabei durchläuft der Change (die Veränderung) nachfolgende feingranulare Aktivitäten:
+
+1.	Change wird erfasst und klassifiziert
+2.	Change wird bewertet und freigegeben
+3.	Change wird bei Bedarf eskaliert
+4.	Change wird implementiert
+5.	Change wird getestet und abgenommen
+6.	Change wird abgeschlossen
+
+Innerhalb des Prozesses gibt es die Rolle des Change Requestors, der die Anfrage stellt. Diese wird optimaler weise an einer einzigen Stelle wie den Service Desk aufgegeben, um sicherzustellen, dass alle Anforderungen vollständig erfasst und zentral gebündelt sind. Der Change Master klassifiziert, plant die Durchführung und gibt den Change frei. Eine Beurteilung der Änderungsanfrage erfolgt anhand einer hochschulweiten vereinbarten Einstufung, die eine Klassifizierung des Change nach Typ, Risiko und Dringlichkeit ermöglicht. Ein Beispiel so einer Tabelle ist in Abbildung \ref{tvc} vorzufinden. Der Change Builder setzt die Veränderung letztendlich um und der Change Approver prüft und testet die Änderung. \footnote{\url{s. 48, impl. Von it service-management }}
+ 
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=15cm]{bilder_olli/typen_von_changes}  \footnote{\url{s. 48, impl. Von it service-management }}
+	\caption{Typen von Changes}
+	\label{tvc}
+\end{figure}
+
+
+
+\paragraph{Service Level Agreements}\mbox{}\\
+„Service Level Agreements“ (SLAs) sind verbindliche Vereinbarungen zwischen dem Leistungsempfänger und dem Leistungserbringer. Die SLAs sichern die Bereitstellung von IT-Dienstleistungen, regeln die Dienstleistungsqualität und definieren die Preise für die Erbringung von Leistungen. Weiter werden auch Reaktionszeiten je nach Schweregrad definiert und Konventionalstrafen für den Fall von einer Überschreitung festgelegt. Betriebszeiten und Ausfallsicherheit wichtiger Infrastruktur sind ebenfalls Bestandteile solch einer Vereinbarung.
+Zusammengefasst sind SLAs für Dienstleistungsempfänger ein wichtiges Instrument zur Sicherheit und Kenntnisnahme über den Leistungsumfang, die Leistungskosten, die minimale Leistungserbringung und der benötigten Reaktionszeit. Informationsmanager nehmen hierbei eine beratende Rolle ein und unterbreiten zusätzlich Vorschläge zur fachlichen Beschreibung von Zielvorgaben \footnote{\url{einrich informaitonsmanagement 10. Auflage, s. 499}}.
+
+
+\subsubsection{Chief-Information Officer (CIO)}
+Der Chief Information Officer (CIO) ist die Berufsbezeichnung für eine Person/Führungskraft, die verantwortlich für die Informationstechnik und Anwendungen im Unternehmen ist. \footnote{\url{Vgl. u.a. Beuschel, W.; Informationsmanagement - Modulhandbuch für Fern- und Onlinestudiengänge; erweiterte und aktualisierte Auflage// Skript}}
+
+
+\paragraph{Aufgaben und Funktionen des Informationsmanagers}\mbox{}\\
+Die Aufgaben des CIO bestehen in der Entwicklung einer IT-Infrastruktur-Strategie und der Ausrichtung der IT auf die Unternehmensstrategie. Seine Tätigkeiten lassen sich im operativen Geschäft auf 3 Kernaufgaben festlegen: 
+1.	Das Planen und Implementieren von Software- und Hardware-Architekturen 
+2.	Priorisierung neuer Steuerungsprozessen, sowie neuer Anwendungen
+3.	Bereichsübergreifende Koordination
+
+Siehe Abbildung \ref{cio}:
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=10cm]{bilder_olli/aufgabenfelder_des_cio} \footnote{\url{Vgl. u.a. Beuschel, W.; Informationsmanagement - Modulhandbuch für Fern- und Onlinestudiengänge; erweiterte und aktualisierte Auflage// Skript}}
+	\caption{Aufgabenfelder eines Informationsmanageer}
+	\label{cio}
+\end{figure}
+
+
+
+
+\paragraph{Anforderungsprofil des Informationsmanagers}\mbox{}\\
+OFfen
+
+\paragraph{Informationsmanager in der Hochschulhierachie}\mbox{}\\
+Offen
+
+\subsection{Prozessorientierung}
+Die Prozessorientierung ist ein grundlegendes Konzept des Geschäftsprozessmanagements, worunter die Gestaltung, Ausführung und Beurteilung von Prozessen verstanden wird \footnote{\url{s.274, heinrich, inm grundlagen aufgaben}}. Ein Prozess ist eine zusammenhängende Abfolge von Einzelfunktionen, zwischen denen logische Verbindungen bestehen \footnote{\url{s. 60, krcmar einführung in das informationsmanagement}}, wie in Abbildung \ref{avp} mit Pfeilen visualisiert wurde. Weiter lässt sich aus der Abbildung über das Organigramm ablesen, dass die Gliederung der IT-Organisation an Hochschulen oft funktional aufgestellt ist, konkret zu erkennen an dem Netzwerk- und Systembetrieb, Nutzersupport (Service-Desk) oder dem Anwendungsmanagement. Diese Aufgabenorientierung erlaubt eine stärkere Spezialisierung in den jeweiligen Fachgebieten der Mitarbeiterinnen und Mitarbeiter, widerspricht aber dem Gedanken einer Prozessorientierung \footnote{\url{fh-200808.pdf, s. 35 von 116 // Grafik: fh-200808.pdf, S29}}. Hier ist daher eine klare Funktionsabgrenzung durchzuführen, denn das Handeln in Prozessen erfordert eine Abkehr von aufgabenorientierten Verfahrensweisen \footnote{\url{fh-200808.pdf, s. 35 von 116 // Grafik: fh-200808.pdf, S29}}. Prozessorientiert zu denken bedeutet, sich nicht nur auf eine Aufgabe zu konzentrieren, sondern den Gesamtkontext zu betrachten, sprich das Zusammenspiel und die Wechselwirkungen zwischen allen Einzelfunktionen eines Prozesses. Erst durch die Betrachtung der Verkettung einzelner Aufgaben werden nämlich komplexe und betriebswirtschaftliche Prozesse ersichtlich \footnote{\url{s. 60, krcmar einführung in das informationsmanagement}}. 
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=15cm]{bilder_olli/aufgaben-versus_prozessorientierung}  \footnote{\url{fh-200808.pdf, s. 35 von 116 // Grafik: fh-200808.pdf, S29}}
+	\caption{Aufgaben- versus Prozessorientierung}
+	\label{avp}
+\end{figure}
+
+
+%5 wim_2010_04_peter_altvater_martin_hamschmidt_ilka_sehl_prozessorientierte_hochschule.pdf:
+Die Erreichung der Prozessorientierung kann auf unterschiedliche Weise erfolgen, zum Beispiel durch eine kontinuierliche Prozessverbesserung oder die Gestaltung und Anpassung von IT-Strukturen \footnote{\url{}}. Im Rahmen des Kapitels XXX kontinuierlicher Verbesserungsprozess wird der in der oberen Abbildung gezeigte Prozess beschrieben, evaluiert und letztendlich optimiert.
+
+
+
+\subsubsection{Kontinuierlicher Verbesserungsprozess}
+Das Ziel des kontinuierlichen Verbesserungsprozesses ist die stetige Verbesserung von Zuständen in kleinen Schritten und die Wahrung der  Zustandsverbesserung, wie in Abbildung \ref{kvb} gut veranschaulicht \footnote{\url{http://de.wikipedia.org/wiki/Kontinuierlicher_Verbesserungsprozess}}. Zur Umsetzung systematischer Verbesserungsmaßnahmen, wird ein in 4. Phasen aufgeteilter Regelkreis angewandt \footnote{\url{http://www.tqm.com/files/Bild_KVP_2.jpg}}:
+ 
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=5cm]{bilder_olli/kontinuierlicher_verbesserungsprozess} \footnote{\url{http://www.tqm.com/files/Bild_KVP_2.jpg}}
+	\caption{Kontinuierlicher Verbesserungsprozess}
+	\label{kvb}
+\end{figure}
+
+
+In der Phase Plan wird sich die Frage gestellt, was und wie etwas zu tun ist. Auf die Prozessorientierung angewandt, lässt sich hier auf die Prozessdefinition und –analyse schließen. Die Phase Do beschäftigt sich mit der Frage was erreicht wurde und steht für die Ausführung, also sinnbildlich für die Prozesskonstruktion. Bei der Check-Phase geht man auf die Frage ein, was noch zu tun ist und ob die Aufgaben nach Plan erfüllt sind, ableitbar auf eine Prozessvalidierung. In der letzten Phase Act wird überprüft, welche Dinge verbessert werden können, das für eine Prozessoptimierung und –automatisierung spricht \footnote{\url{http://de.wikipedia.org/wiki/Kontinuierlicher_Verbesserungsprozess}}.
+
+
+
+\paragraph{Prozessidentifizierung und -analyse}\mbox{}\\
+Aufgabe der Prozessidentifizierung ist es, Prozesse zu bestimmen und zu beschreiben, die mit hoher Priorität geplant, gesteuert und verbessert werden sollen \footnote{\url{s.276, heinrich, inm grundlagen aufgaben,..)}}. In der Prozessanalyse werden dann die einzelnen Elemente eines Prozesses und deren Beziehung untereinander bestimmt und beschrieben \footnote{\url{s.276, heinrich, inm grundlagen aufgaben,..)}}.
+Angewandt auf den Prozess in der Abbildung XXXX des Kapitel XXXX 3.2 Prozessorientierung kann folgendes abgeleitet werden:
+Der Anwender meldet eine Störung innerhalb einer Fachapplikation wie zum Beispiel der Studierendenverwaltung dem Service Desk der Hochschule. Dieser analysiert, beschreibt und priorisiert den eingehenden Fall. Innerhalb des First-Level-Supportes und bestehender Fehlerprotokolle/-dokumentationen wird versucht eine Sofortlösung zu erzielen. Ist dies nicht erfolgsversprechend, wird bei einer fehlerhaften Serverkonfiguration der Server-Administrator verständigt. Dieser entdeckt bei seiner Untersuchung ein fehlendes Update der Fachapplikation und beauftragt damit die Beschaffungsabteilung. Das Einspielen des Updates wird durch das Anwendungsmanagement auf einem Testsystem durchgeführt, die sich anschließend zwecks Qualitätssicherung mit der Testgruppe zur Validierung abstimmt. Nach Freigabe durch die Betriebsleitung kann die Aktualisierung auf dem Produktivsystem eingespielt werden.
+Ein in der Abbildung nicht aufgeführter möglicher Rückweg wäre: Nach Freigabe des Updates wird durch das Anwendungsmanagement die Installation auf dem Produktivsystem veranlasst. Der Service-Desk wird hierrüber nach erfolgreichem Abschluss informiert, der die Fehlerbehandlung protokolliert und den Endanwender über die Lösung der gemeldeten Störung unterrichtet. 
+Abbildung in Prozessorientierung: hier auf obers kapitel service-desk verweisen
+
+
+\paragraph{Prozesskonstruktion und –sichtbarkeit}\mbox{}\\
+Um die im vorherigen Kapitel bei der Prozessanalysendefinition erwähnten Elemente sichtbar zu machen, werden Prozessketten verwendet \footnote{\url{s.277, heinrich, inm grundlagen aufgaben,..)}}. Diese eigenen um den Ablauf bestehender Prozesse und die Beziehung der einzelnen Elemente untereinander zu visualisieren. Aber nicht nur der Ist-Prozess, sondern auch der Soll-Prozess kann mittels Prozessketten modelliert werden. Zur Verfügung stehen unterschiedliche Modellierungselemente, beispielsweise ein Rechteck zur Symbolisierung einer Funktion, eine Ellipse als organisatorisches Element (Prozessstart, Prozessende) oder Pfeile, die einen Informationsfluss veranschaulichen \footnote{\url{krcmar einführung in das Informationsmangagement, s64}}.
+Zur Steigerung der Prozesseffizienz werden in Abbildung \ref{mzsdp}  6 unterschiedliche Gestaltungsmaßnahmen aufgeführt \footnote{\url{s.277, heinrich, inm grundlagen aufgaben,..)}}. 
+\begin{enumerate}
+    \item Das Weglassen bedeutet, nicht wertschöpfende oder redundante Teilprozesse zu eliminieren.
+    \item Beim Zusammenlegen werden Prozess- oder Arbeitsschritte gebündelt.  
+    \item Durch Aufteilen werden einzelne Prozesselemente in kleinere Elemente zerlegt. 
+    \item Bei der Parallelisierung wird das zeitgleiche Durchführen von Prozesselementen erreicht, mit dem Ziel die benötigte Durchführungsdauer zu optimieren. 
+    \item Auslagern bedeutet, Prozesselemente auf andere Prozesse, Kooperationspartner oder Kunden zu übertragen. Näheres dazu in Kapitel XXXX Outsourcing. 
+    \item Beim ergänzen werden Teilprozesse oder Arbeitsschritte in einen Prozess eingefügt.
+\end{enumerate}
+
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=15cm]{bilder_olli/prozesseffizienz}
+		\footnote{\url{s.277, heinrich, inm grundlagen aufgaben,..)}}
+	\caption{Maßnahmen zur Steigerung der Prozesseffizienz}
+	\label{mzsdp}
+\end{figure}
+
+
+Im Sinne des kontinuierlichen Verbesserungsprozesses und der in diesem Kapitel beschriebenen Prozesskonstruktion wurde im Anhang in der Abbildung XXXX der im Kapitel 3.2.1.1 Prozessidentifizierung und -analyse beschrieben Prozess der Fehlerbehandlung einer Fachapplikation mittels Prozesskette abgebildet. (Soll-Situation lang muss du noch als PDF einzeln speichern). In der Zeilenbeschreibung sind die Zuständigen der jeweiligen Aufgaben aufgeführt. Der Prozess startet in der ersten Zeile bei „Start“ und ist der vorgegebenen Pfeilrichtung entsprechend zu lesen bis hin zum Prozessende.
+
+\paragraph{Prozessevaluierung}\mbox{}\\
+„Der wesentliche Zweck der Prozessevaluierung besteht darin, zu überprüfen, ob ein Geschäftsprozess gemäß den Vorgaben ausgeführt wird. Relevante Vorgaben können in Prozessentwürfen, Verfahrensanweisungen und Arbeitsanleitungen  beschrieben sein“. Es wird sich die Frage gestellt, ob die Prozesse so ausgeführt werden, wie sie in der Prozessmodellen beschrieben wurden und ob der Geschäftsprozess der kontinuierlichen Verbesserung unterliegt \footnote{\url{s.277, heinrich, inm grundlagen aufgaben,..)}}. In unserem Beispiel wurde die Prozessmodellierung auf Basis der Prozessbeschreibung erstellt, wodurch die Prozessevaluierung positiv abschließt. Diese Evaluierung muss natürlich in regelmäßigen Abständen wiederholt werden, um zu überprüfen, ob der Gesamtprozess noch nach Plan läuft. Trotz positiver Bewertung kann auch unser Beispielprozess von einer Prozessoptimierung profitieren.
+
+\paragraph{Prozessoptimierung}\mbox{}\\
+Die Prozessoptimierung bezeichnet alle Maßnahmen zur Veränderung von Prozessen, um die Kosten zu senken, Durchlaufzeiten zu verkürzen, Innovationsfähigkeit zu erhöhen oder die Qualität zu steigern \footnote{\url{s.280, heinrich, inm grundlagen aufgaben,..)}}. 
+Die im Kapitel 3.2.1.1. Prozesskonstruktion und –sichtbarkeit gewonnenen Erkenntnisse zur Steigerung der Prozesseffizienz wurden auf unseren Fall angewandt und mündeten in einer optimierten Prozesskette. Dieses Kapitel konzentriert sich aufgrund der Komplexität auf den ersten Teilprozess, sprich die Meldung des Fehlers bis zur Freigabe des Updates. Der Rückweg in Form der Installation auf dem Produktivsystem und der Erfolgsmeldung an den Kunden ist der Vollständigkeitshalber im Anhang in Abbildung XXXX aufgeführt, wird aber nicht hier thematisiert. 
+Die erste Spalte der Abbildung \ref{pfef} zeichnet den aktuellen Ist-Zustand auf. Das Ergebnis einer Prozessoptimierung ist in der zweiten Spalte erkennbar, auf das nachfolgend weiter eingegangen wird. Damit die Innovation Einzug in der Hochschule erhält, wäre eine übergreifendes Service- und Programmüberwachung denkbar. Sie ermöglicht das entdecken und identifizieren von Fehlern vor der Meldung durch einen Endanwender. Parallel dazu wird ein Automatismus geschaffen, der neue Updates für alle Fachapplikationen sucht und bei Entdeckung an die übergreifende Überwachungssoftware meldet. Wird ein neues Update festgestellt, wird der Server-Administrator informiert, um die Serverkonfiguration zu prüfen. Es ist sinnvoll, seine Kompetenzen um das Einspielen von Updates für Applikationen zu erweitern. Nur spezifische Störungen innerhalb der Anwendung oder konkrete Nachfragen zur Bedienung sollten an das Anwendungsmanagement weitergeleitet werden.  Die Testgruppe prüft anhand vordefinierter Testfälle die Funktionsfähigkeit der Anwendung, der Betriebsleiter gibt das Update nach positivem Testfeedback frei.
+Um die einzelnen Maßnahmen zur Prozessoptimierung aufzugreifen, sind im Schaubild Kreise mit Zahlen aufgeführt:
+
+\begin{enumerate}
+    \item Maßnahme Weglassen: Im Optimalfall wird der Endanwender von einer Störung nichts mitbekommen
+    \item Maßnahme Parallelisierung: Das laden von Updates wird automatisiert und findet parallel zur Programmüberwachung statt. So wird eine verkürzte Durchlaufzeit erzielt, da der Server-Administrator sofort informiert und auf bereits heruntergeladene Updates zugreifen kann.
+    \item Maßnahme Ergänzen: Durch die Einführung einer übergreifenden Überwachungssoftware wird ein neuer Teilprozess ergänzt.
+    \item Maßnahme Zusammenführen: Der Serveradministrator prüft nicht nur Serverkonfigurationen, sondern spielt auch Updates ein
+    \item Maßnahme Auslagern: Die Fachabteilung Beschaffung muss die Updates nicht mehr selbst herunterladen, ein Automatismus auf einem Server übernimmt diese Tätigkeit.
+\end{enumerate}
+
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=16cm]{bilder_olli/prozessoptimierung} 
+	\caption{Prozessoptimierung für eine Fehlerbehandlung}
+	\label{pfef}
+\end{figure}
+
+
+\subsubsection{Gestaltung und Anpassung von IT-Strukturen}
+Die Gestaltung und Anpassung von IT-Strukturen ist durch Zentralisierung, Standardisierung und Outsourcing erreichbar.
+
+
+\paragraph{Zentralisierung}\mbox{}\\
+Im Hochschulbereich haben sich einige Lehrstühle und Institute ihre eigene IT-Abteilung geschaffen. Dies gilt beispielsweise für viele Leiter von Forschungsprojekten, für die Verwaltung und die Bibliothek, die eigene IT-Dienstleistungen erbringen \footnote{\url{fh-201304.pdf, s. 12 von 62}}. Das hohe Maß an Dezentralisierung der IT-Betriebsorganisationen führt zu einer Redundanz der IT-Service-Erbringung. Es ließe sich ein Parallelaufbau von betriebsrelevanter Infrastruktur wie Netz- und Stromversorgung, Belüftung und Klimatisierung vermeiden \footnote{\url{wgi_kfr_empf_06.pdf, s. 22 von 40}}. Auch das doppelte Bereitstellen von beispielsweise Mailservices oder Groupware ist nicht sinnvoll. Des Weiteren wird mit diesen Standard-IT-Dienstleistungen mehrfach Personal gebunden, das mit der zunehmenden Komplexität der Basisdienstleistungen oft überfordert ist. 
+Die Institute können sich nicht selbst auf allen Ebenen mit hochwertiger IT-Dienst-Betreuung befassen. Die vielen Insellösungen sind zusätzlich unwirtschaftlich und für eine hochschulweite Integration des Informationsmanagement oft hinderlich. Die Institute müssen Strategien entwickeln um gemeinsame Synergieeffekte zu nutzen und die begrenzten IT-Betreuungsressourcen sinnvoll einzusetzen \footnote{\url{empfehlungen_kfr_2011_2015 s. 27}}.
+Die Zentralisierung von Diensten ermöglicht eine einfach zu koordinierende Beschaffung von Hard- und Software. Alle Systeme sind durch die zentrale Planung und Einbettung gut aufeinander abgestimmt und ergeben größere Ausfallsicherheit mit hoher Verfügbarkeit. Das stärkt die Stabilität und Robustheit des IT-Gesamtsystems. Die Redundanz in dem Personaleinsatz und der Serviceerbringung entfällt \footnote{\url{wgi_kfr_empf_06.pdf, s. 22 von 40}}. 
+
+
+\paragraph{Standardisierung}\mbox{}\\
+Unter der Standardisierung in Hochschulen wird die einheitliche Nutzung von Basisdiensten und Grundfunktionalitäten verstanden. Konkret soll die Vereinheitlichung von Anwendungsprogrammen, Prüfungsordnungen und IT-Infrastrukturen in den Fachbereichen erzielt werden. \footnote{\url{Uni Kassel - Konzept_Informationsmanagement_Senatsfassung – PDF, s1 ff.}}
+Über ein Softwareverteilungstool kann eine gleiche Version aller Applikationen sichergestellt werden. Zur Realisierung von einheitlicher IT-Infrastruktur wäre eine Zentralisierung der Serviceleistungen denkbar, wie im vorherigen Kapitel beschrieben. Die Einführung von ITIL-Standardprozessen wäre ein möglicher Weg der Umsetzung und mittels SLAs könnten auch die Reaktionszeiten auf Fehlermeldungen festgelegt werden. Ein Informationsmanager (siehe Kapitel XXX CIO) würde für eine kontinuierliche Einführung und Einhaltung der Standards in allen Fachbereichen Sorge tragen. Eine Zertifizierung nach standardisierten Normen (ISO 200000), wird in den kommenden Jahren ebenfalls an Bedeutung gewinnen \footnote{\url{implementierung von it-service-management s.168 }}.
+
+
+\paragraph{Outsourcing}\mbox{}\\
+Outsourcing besteht aus den Wörtern „Outside“, „Ressource“ und „Using“. Gemeint ist damit, dass einzelne Aufgaben der IT, wie bspw. Infrastruktur, Applikationen, Prozesse, Personal oder gesamte IT-Aufgaben, auf Basis einer vertraglichen Vereinbarung, für einen definierten Zeitraum an einen externen Anbieter ausgelagert werden \footnote{\url{krcmar, einführung in das Informationsmangement s. 164}}. Konkrete Beispiele im Bereich der Informationstechnologie für Hochschulen wären der Betrieb des Rechenzentrums, der Anwendungsentwicklung oder der Telekommunikationsnetzwerke an andere Unternehmen abzugeben \footnote{\url{Vgl. u.a. Barthelemy, J, Geyer, D.; IT-Outsourcing: Evidence from France and Germany in: European Management Journal Vol. 19 No. 2, Seite 195 – 202; 2001}}. Der Informationsmanager (CIO) verspricht sich einen besseren Zugriff auf notwendige Ressourcen, Verlagerung möglicher Risiken und transparentere Ausgaben durch eine Kooperation mit Outsourcing-Gebern \footnote{\url{heinrich informationsmanagement grundlagen aufgaben, methoden}}. Dagegen stehen erhöhter Koordinationsaufwand, komplizierte Vertragsgestaltungen und räumliche/zeitliche Distanz und damit fehlendes Vertrauen in den neuen Kooperationspartner \footnote{\url{Vgl. u.a. Barthelemy, J, Geyer, D.; IT-Outsourcing: Evidence from France and Germany in: European Management Journal Vol. 19 No. 2, Seite 195 – 202; 2001}}
+
+\subsection{Konklusion Serviceorientierung und Prozessorientierung}
+Offen
+
+
+
+
+\section{Neue Medien}
+\footnote{\url{Aurelian Hermand}}
+
+
+Hochschultrends in den neuen Medien umfassen den online Auftritt bezüglich der Erstellung, Verarbeitung und Bereitstellung von Informationen und ferner die ganzheitliche Außendarstellung mittels Marketing. Die Imagebildung der Hochschulen folgt dabei festgelegten Prinzipien und Zielen. Marketing kann nicht leicht abgegrenzt werden, denn man kann nicht nicht kommunizieren. Von der serviceorientierten und prozessorientierten Organisationsstruktur der Hochschule bis hin zum direkten Online-Marketing über den Webauftritt und soziale Plattformen werden Studenten und Hochschulangehörigen konfrontiert mit neuen Medien. Im Zuge der Consumerisation haben sich die Grenzen der Nutzung von privater und beruflicher Software und Geräte aufgelöst. Eine homogen gestaltete Infrastruktur ist damit hinfällig. Der Trend zum BYOD (Bring Your Own Device) hat veranlasst, dass eine Infrastruktur flexibel gestaltet wird und werden muss. Insbesondere auch die gestiegene Nutzung von Mobilgeräten wie Smartphones und Tablets dazu geführt, dass Software neuen Vorgaben gerecht werden muss.
+
+
+\subsection{Infrastruktur und Management}
+Im folgenden werden Trends im Bezug auf die Infrastruktur an Hochschulen und im speziellen an der Hochschule Emden / Leer betrachtet. 
+
+\subsubsection{Netzinfrastruktur, Consumeration und BYOD}
+Viele Hochschulen in Europa haben sich mittlerweile dem Projekt eduroam (education roaming) angeschlossen. Eduroam ermöglicht die Nutzung von WLAN und LAN an jeder teilnehmenden Hochschule durch vorherige Authentifizierung mit den erhaltenen Zugangsdaten.
+
+Eduroam als standardisierte Lösung macht die Teilnahme verschiedenster Geräte und Standorte im Zuge der Consumeration und "Bring Your Own Device" sehr einfach. Geringere Support-Aufwendungen auf der anderen Seite ermöglichen es die serviceorientierung teilweise abzulösen und durch prozessorientierung zu ersetzen. Der Aufwand erhöht sich jedoch für die Administratoren durch "die Offenheit der Gerätewahl"\footnote{\url{http://www.wickhill.de/theguardian/byod-viele-vorteile-bei-einhaltung-von-sicherheitsspielregeln/}}, wobei der Sicherheitsaspekt hier eine große Rolle spielt. An den Standorten selber kommt es in Folge der Offenheit für die Benutzer wiederum so zur Steigerung der Produktivität und Benutzerzufriedenheit. Die Arbeitsabläufe werden hierdurch flüssiger und effizienter.
+
+\subsubsection{Software für Forschung und Lehre}
+Das Netzwerk Dreamspark ermöglicht es Studenten und Bedienstete im Rahmen von Forschung und Lehre kostenlos eine Vielzahl von Microsoft Softwareprodukten zu erhalten und auf Ihren Geräten zu installieren.
+
+Die Hochschulen Osnabrück und Hannover, wie auch die Hochschule Emden / Leer ermöglichen die Teilnahme.
+
+Der Service kann mit Hinweisen auf kostenlose Software für Forschung und Lehre erweitert werden. So bietet JetBrain  ebenfalls ein Teil seiner Software kostenlos Studenten an \footnote{\url{https://www.jetbrains.com/student/}}. Ebenfalls bietet auch GitHub ein Paket für Studenten \footnote{\url{https://education.github.com/}}.
+
+
+\subsubsection{Identitätsmanagement}
+Ein umfassendes Identitätsmanagement setzt eine komplexe Architektur voraus. Die zwei Hauptfunktionen des Identitätsmanagement klassifiziert sich in:
+
+\begin{itemize}
+  \item Neuen Benutzern
+  \item Entfernung von Benutzern \ldots
+\end{itemize}
+
+
+Verfolgt wird der Trend, die Einrichtung und Löschung schnell und zentral erledigen zu können. Dabei keinen Benutzer-Daten klar und nachvollziehbar zu hinterlegen. \footnote{\url{https://www.rrzn.uni-hannover.de/fileadmin/it_sicherheit/pdf/SiTaWS08-idm.pdf}}
+
+Die Einmalanmeldung (Single-Sign-On) ermöglicht dem Benutzer alle angeschlossenen Dienste einer Hochschule zu nutzen, ohne sich mehrfach Authentifizieren zu müssen. An der HS Emden/Leer wird dabei auf Shibboleth gesetzt. 
+
+\subsubsection{E-Mail}
+Ein integraler Bestandteil an Hochschulen ist der E-Mail Service. Der Trend geht zu einem zentralen System für Mitarbeiter und Studenten. Im Sinne des Consumeration ist die Nutzung des E-Mail Service offen gestaltet für alle vorstellbaren Endgeräte und Programme. Zudem gibt es Webmailer um auch von Fremdrechnern an die E-Mails zu gelangen.
+
+\subsubsection{E-Learning Plattform}
+Das elektronische Lernen setzt auf den Einsatz von digitaler Medien.
+Das Blended Learning vereint 3 Lerndomänen, das lernen online durch Kommunikation, Distanziert ohne Interaktion und in der Präsenz. Auch im Präsenzstudium wird zunehmend nicht nur auf offline Medien Skripte oder Bibliothek gesetzt, sondern auch auf online Abgaben, Aufzeichnung, Videochats und Foren.
+
+Dazu gibt es zwei größere Plattformen ILIAS und Moodle. Die Hochschule setzt Moodle ein, dass jedoch weitgehend nicht verpflichtend im Präsenzstudium ist. Als Angebot könnten, wie im Online-Studium Skripte zur Verfügung gestellt und weiterentwickelt werden, welches die Lehrenden übernehmen verwenden können. Der Vorteil liegt darin, dass um ein Skript herum ein Ökosystem aus Übungsaufgaben, Videos und Beiträgen entsteht.
+
+
+\subsection{Dokumentenverwaltung}
+Die Dokumentenverwaltung umfasst verschiedene Services, da die Anforderungen sehr unterschiedlich sind.
+
+
+\subsubsection{Wiki}
+Das Wiki ist ein Dienst zur Erfassung ungeordneter, miteinander verknüpfbarer Texte. Sie sind sehr flexibel einsetzbar. Es lassen sich Informationen schnell, versionsbasiert gemeinsam zusammentragen.
+
+Wikis stellen oft die Basis für Informationsverwaltungen, aus denen konzentriertere Informationssysteme entstehen können in Form von Websites oder auch FAQs, Anleitungen uvm.
+
+
+
+\subsubsection{Clouds und Big Data}
+Clouds ermöglichen den einfachen Datenaustausch großer Dateien mit verschiedenen Zugriffsrechten. Eingeteilt werden können die Clouds in
+
+
+\begin{itemize}
+  \item Öffentliche Clouds
+  \item Private Clouds
+  \item Hybride Clouds
+  \item Community Clouds \ldots
+\end{itemize}
+
+Die Community Cloud stellt einem definierten Nutzerkreis von mehreren Standorten Zugriff auf die Cloud zur Verfügung. Hierbei wird gemeinsam oder von einem Anbieter die die Cloud verwaltet. Die Hochschulen in NRW als Verbund setzen auf diese Cloud-Form. Dahinter steckt die Software ownCloud. Die Lösung nennt sich Sciebo die CampusCloud.
+
+Die Hochschule Emden / Leer führt derzeit mit Hilfe des Shibboleth-Dienstes eine Cloud namens „Gigamove“ zum Austausch großer Datenmengen ein. Gigamove wird von der RWTH Aachen zur Verfügung gestellt \footnote{\url{https://gigamove.rz.rwth-aachen.de}}. Die Spezifikationen dieser Cloud erlauben es Bediensteten der Hochschule 10 GByte mit Personen / Institutionen auszutauschen. Dabei ist es Möglich Dateien anderen zur Verfügung zu stellen, als auch anderen Platz einzuräumen. Nach 14 Tagen werden die Daten automatisch gelöscht und ist daher eine Austauschplattform und kein Massenspeicher.
+
+\subsubsection{Versionsverwaltung}
+Die Versionsverwaltung dient allgemein zur Dokumentenerstellung, -bearbeitung und -verwaltung. Dabei ist es jederzeit möglich auf einen vorhergehenden Stand zurückzusetzen oder Änderungen nachvollziehen zu können, damit auch ein gemeinsames Arbeiten an einem Dokument möglich ist. Die Uni Kassel setzt auf das DMS (Dokumentenmanagement) Alfresco. Alfresco ist ein bequemes und unkompliziertes System mit dem verschiedene Dokumente und Dateien zentral verwaltet werden können. Diese Software bietet Features wie Benutzerverwaltung, Integration in Moodle, Workflows zur Dokumentenüberprüfung, Aufgabenverteilung, Zusammenfassung, Versionierung von Office- oder PDF-Dokumenten. Außerdem steht eine App für Mobilgeräte bereit.\footnote{\url{http://www.uni-kassel.de/its-handbuch/kommunikation/dms/dokumentenmanagement-dms.html}}
+
+
+\subsubsection{Zentrales Druckzentrum}
+Das ZIV (Zentrum für Informationsverarbeitung) der Uni Münster zentralisiert u.a. die Rechnerräume, aber unterhält auch ein Druckzentrum. Das Druckzentrum bietet den Service von zu Hause zu drucken, dies schließt den Mobilgeräte ein. Die Drucke landen in einem zugeordneten Postfach mit einem farbigen Deckblatt und können von dort zu einem späteren Zeitpunkt aus dem Fach genommen werden können.
+\footnote{\url{https://www.uni-muenster.de/imperia/md/content/ziv/pdf/printpay_flyer.pdf}}
+
+\subsection{Außendarstellung und Marketing Instrumente}
+Das Marketing und die Präsentation der Hochschule erfolgt breit gefächert und geht im Idealfall fließend ineinander über. Die Trends erfolgen oft in Organisatorischen Maßnahmen \footnote{\url{http://www.dfg.de/download/pdf/dfg_im_profil/gremien/hauptausschuss/it_infrastruktur/dfg_tum_bode.pdf, S.4f.}}. D.h. es wird am Ausbau und Vereinheitlichung gearbeitet, im Sinne von Corporate Identity bzw. Corporate Design der Webdienste, E-Learning Plattform, zentrale Datenspeicher, Verwaltungs EDV und sonstigen Angeboten.
+
+\subsubsection{Website}
+Die Website ist ein integraler Bestandteil der Hochschulen. Alle relevanten Informationen werden hierfür aufbereitet und dem Benutzer zugänglich gemacht. Der technische Fortschritt, verlangt zudem Beachtung neuer Designkriterien um die Sichtbarkeit im Internet zu gewährleisten.
+
+\paragraph{Responsive Website}\mbox{}\\ % <-- bei Verwendung des Paragraph-tags bitte beachten.
+Responsivität im Webdesign heißt, dass im Sinne des BYOD, der Zugriff auf die Hochschul-Website komfortabel und geräteunabhängig gestaltet ist. Die Fachhochschulen Köln und Münster sind dem Trend gefolgt, jedoch ohne auf einen etablierten Marktstandard zu setzen.
+
+Es gibt zwei sehr verbreitete Frameworks, die meist aus Sammlungen von Modulen, Grids und Best-Practices bestehen, wie dem Prinzip des Mobile First. Mobile First bedeutet, dass aus Gründen des meist kleineren Bildschirms der Fokus auf den Inhalt liegt. Hiermit wird auch gleichzeitig das Prinzip des "Content First" bzw. "User First" umgesetzt. Sowohl Bootstrap von Twitter als auch Foundation von Zurb gelten als ausgereifte Frameworks. Die Verständigung auf ein ausgereiftes System, kann eine kostenintensive und proprietäre Selbstentwicklung verhindern. Twitter Bootstrap wird bspw. von der Hochschule Coburg und der TU München eingesetzt.
+
+Die responsive Umsetzung mit Mobile First erhöht deutlich die Gebrauchstauglichkeit (engl. Usability), weil die Website auf dem Mobilgerät nicht gezoomt werden muss und so ausgeliefert wie der Designer es konzipiert hat. 
+
+Die neueste Entwicklung im Bereich responsive Umsetzung erfolgte durch die Änderung des Such-Algorithmus von Google im April 2015. Die Änderung betrifft die Bewertung mobil optimierte Websites in den Suchergenissen, die fortan bevorzugt behandelt werden, sofern über ein Mobilgerät gesucht wird.
+
+\paragraph{Sichtbarkeit und SEM}\mbox{}\\ % <-- bei Verwendung des Paragraph-tags bitte beachten.
+Das Suchmaschinen-Marketing wird zusammengefasst unter dem Kürzel SEM (Search-Engine-Marketing). SEM umfasst die Konzepte SEO (Search-Engine-Optimization) und das SEA (Search-Engine-Advertising). \footnote{\url{B2B-Online-Marketing und Social Media, S.83}}
+
+Die Suchmaschinen-Werbung bzw. SEA wird genutzt um gezielt bestimmte Suchbegriff gegen Bezahlung auf den ersten Seiten der Suchmaschinen als Werbung einzublenden.
+
+Darunter SEO versteht man die allgemeine Suchmaschinen-Optimierungs-Maßnahmen, um im organischen Ranking weit vorne zu landen.
+
+Der Sichtbarkeitsindex dient als Indikator für die Sichtbarkeit einer Website im Google Ranking. Dabei errechnet sich der Index aus:
+
+
+\begin{itemize}
+  \item dem Ranking der thematisch überwachten Keywords
+  \item dem zu erwartenden Traffic aus der Positionierung und
+  \item dem zu erwartenden Traffic aus dem Keyword. \ldots
+\end{itemize}
+
+Der Sichtbarkeitsindex wird als ein weiterer Messwert herangezogen für den Erfolg von SEO-Maßnahmen, neben u.a. Zugriffszahlen und Verweildauer der Besucher. \footnote{\url{https://de.onpage.org/wiki/Sichtbarkeitsindex}}
+
+Die www.hs-emden-leer.de erreicht laut SISTRIX im Mai 2015 einen Sichtbarkeitsindex von 0,31. Im Vergleich dazu erreicht www.hs-coburg.de 0,62 und www.jade-hs.de 0,69. \footnote{\url{http://www.sichtbarkeitsindex.de/}} Die Hochschule Emden / Leer hat demnach noch Potential nach oben.
+
+\paragraph{Inhaltsaufbereitung}\mbox{}\\ % <-- bei Verwendung des Paragraph-tags bitte beachten.
+Der wichtigste Teil einer Website ist der Inhalt selber, der Fokus hierin liegt auf Vollständigkeit und einer verständlichen Sprache. Die Inhalte werden Aufbereitung und andere Ausgabemedien, wie zum Beispiel in sozialen Medien, PDFs, Drucklayouts, XML-Sitemaps und RSS ausgegeben.
+
+RSS ist ein XML-Format zur Übertragung vorallem von News und Informationen. Die HS Emden/Leer setzt RSS an vielen Stellen ein, wie dem InfoSys und den nächsten Terminen.
+
+\subsubsection{Social Media}
+"Social-Media-Marketing (SMM) ist eine Form des Online-Marketings, die Branding- und Vertriebsziele durch ein Engagement in einem oder in verschiedenen sogenannten Social- Media-Angeboten erreichen will." \footnote{\url{Praxiswissen Online-Marketing - S.31}}
+
+Newsletter Kampagnen sind ein trotz vieler neuer Medien weiterhin ein wichtiger Baustein im Online-Marketing-Mix. Es gibt einen klaren Trend in Richtung hin zu Mobilgeräten. Die Öffnungsraten auf mobilen Endgeräten sind seit 2010 bis 2013 um 300 Prozent angestiegen und übertreffen mittlerweile auch die Öffnungsraten der gewöhnlichen Desktop-Geräte. Betreiber des E-Mail-Marketing setzen umso mehr auf die Optimierung der Kampagnen auf mobile Endgeräte \footnote{\url{Praxiswissen Online-Marketing - S.35}}. Um den Wiedererkennungseffekt zu fördern und die eigene Marke zu etablieren, sollte beim Marketing auf das Corporate Design gesetzt werden.
+
+Dem Social-Media-Marketing stehen unzählige weitere Vertriebskanäle zur Verfügung, wie Facebook, Twitter oder YouTube. Wichtig ist dabei vorher ein Leitbild zu entwickeln und beizubehalten. \footnote{\url{http://www.hs-merseburg.de/fileadmin/_migrated/content_uploads/090219_Marketingkonzept_Final.pdf S.8}}
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=10cm]{bilder_aurel/nutzungsklassen}
+	\caption{Nutzungsklassen und Anwendungsbeispiele sozialen Medien (Quelle: B2B Online-Marketing und Social Media, S. 152)}
+	\label{fig_nutzungsklassen}
+\end{figure}
+
+Die Soziale Medien können auf vielfältige Weise genutzt werden. Die Nutzungsklassen, siehe Abbildung \ref{fig_nutzungsklassen} der sozialen Medien können in drei Bereiche aufgeteilen werden:
+
+
+\begin{itemize}
+  \item Kommunikation: Blogs, Microblogs, Soziale Netzwerke, Social-Bookmarking-Plattformen, Foren/Communities
+  \item Content-Sharing: Text, Foto, Video, Audio
+  \item Kooperation: Wikis, Bewertungs-/Auskunftsprotale, Kreativportale \ldots
+\end{itemize}
+
+Die Nutzungsklasse \ref{fig_nutzungsklassen} "Kommunikation" zielt darauf ab, aufbereitete Informationen über private und professionelle Netzwerke bereitzustellen und zu diskutieren.
+Ähnlich der Nutzungsklasse "Kommunikation" zielt auch das "Content-Sharing" darauf Inhalte zu teilen über spezifische Media-Sharing Plattformen.
+Bei der Nutzungsklasse "Kooperation" steht vorallem die gemeinsame Aufbereitung von Informationen im Mittelpunkt.
+
+Social Media spielt für die Rekrutierung neuer und Erreichbarkeit bestehender HS-Interessierter eine wichtige Rolle. Hierüber können Angebote, Stellenausschreibungen geschehen. Diese können dann verlinkt und geteilt werden. 
+
+Eine Integration in die Website sollte Datenschutzrechtlich vorgenommen werden, bspw. mit der 2-KLick-Technik.
+
+
+\subsubsection{App als Informationssystem}
+Der Trend geht zu Informationssystemen in Apps. Ein allgemeiner Trend dabei ist das Prinzip die Apps sowohl offline als auch online Verfügbar zu gestalten (Offline First).
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=10cm]{bilder_aurel/hsel-androidapp}
+	\caption{Android App der HS Emden / Leer}
+	\label{fig_hselandroidapp}
+\end{figure}
+
+Die Hochschule Emden / Leer ist dem Trend gefolgt und hat Anfang 2014 eine Android App im Rahmen einer Projektarbeit vorgestellt, siehe Abbildung \ref{fig_hselandroidapp}. Das Prinzip "Offline First" wurde dabei berücksichtigt. Hauptaugenmerk wurde dabei auf die Integration von InfoSys und die Individualisierungssmöglichkeiten der Studentenden gelegt, um den Stundenplan anzupassen. \footnote{\url{http://www.hs-emden-leer.de/aktuelles-termine/news/article/immer-up-to-date-dank-neuem-smartphone-app.html}}
+
+Da die Entwicklung im Rahmen einer Projektarbeit vonstatten ging, wird es sehr wahrscheinlich bei dieser einen Version und dem einzigen Gerätetyp bleiben.
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=10cm]{bilder_aurel/marktanteile}
+	\caption{Marktanteile der Betriebssysteme an der Smartphone-Nutzung in Deutschland von 2011 bis 2014}
+	\label{fig_marktanteile}
+\end{figure}
+\footnote{\url{http://de.statista.com/statistik/daten/studie/170408/umfrage/marktanteile-der-betriebssysteme-fuer-smartphones-in-deutschland/} Statista, 2014}
+
+An Hand der Marktanteile \ref{fig_marktanteile} werden u.a. 20 Prozent iOS Nutzer nicht berücksichtigt und ist nicht im Sinne von BYOD, da eine Beschränkung vorliegt. Der Grund dafür liegt an den Unterschieden der Betriebssysteme. Für jedes System muss prinzipiell eine eigene App entwickelt werden. Ein kostengünstiger Lösungsansatz ist der Einsatz ausgereifter Javascript Webapp-Frameworks, wie beispielsweise Sencha Touch und AngularJS. Die Apps lassen sich so mit jedem Gerät zunächst einmal als Website auf dem Mobilgerät öffnen und mit Hilfe von Cordova/Phonegap ist es weiterhin möglich diese Webapps in den wichtigsten App Stores auszuliefern.
+
+Nicht nur Flexibilität im Bezug auf Geräteunabhängigkeit wird geschaffen, auch Hürden der Weiterentwicklung werden verringert, da auf ausgereifte Software gesetzt wird.
+
+
+\paragraph{InfoSys und News}\mbox{}\\ % <-- bei Verwendung des Paragraph-tags bitte beachten.
+An einigen Hochschulen, wie der Hochschule Heidelberg werden u.a. Hochschulinformationen und Aktuelle Nachrichten direkt über eine App ausgeliefert. Die Integration des InfoSys und der aktuellen Nachrichten der Hochschule sind vorhanden, jedoch existieren diese Informationen nur für Android Benutzer.
+
+\paragraph{HIS (Notenzugriff, Stundenpläne)}\mbox{}\\ % <-- bei Verwendung des Paragraph-tags bitte beachten.
+Die HAW Hamburg und auch die Hochschule Heidelberg ermöglicht in der App den Zugriff auf Stundenpläne, Raumpläne, Prüfungen und Noten \footnote{\url{https://itunes.apple.com/de/app/haw-hamburg/id670347114?mt=8}}. Die Hochschule Emden / Leer hat in der Android App nur den Zugriff auf die Stundenpläne. Ableiten lässt sich daraus, dass geprüft werden muss, ob das HIS, den Zugriff über eine Schnittstelle ermöglicht.
+
+\paragraph{Mensa}\mbox{}\\ % <-- bei Verwendung des Paragraph-tags bitte beachten.
+Hochschulen haben nicht selten entweder eine spezielle App nur für die Speisepläne oder haben die Speisepläne in der Hochschul-App integriert. Die Hochschule Emden / Leer hat derzeit keine spezielle Speiseplan-App. Das Studentenwerk Oldenburg bietet jedoch eine App für iOS an, bei der auch die Hochschule Emden / Leer integriert ist. Derzeit wird laut dem Studentenwerk Oldenburg an einer neuen Webapp für die Speisepläne entwickelt. \footnote{\url{http://itunes.com/apps/MensaplanOL}}
+
+\paragraph{Gelände-Wegweiser IPS}\mbox{}\\ % <-- bei Verwendung des Paragraph-tags bitte beachten.
+Ein Indoor Positioning System mit beispielsweise Beacons bzw. Triangulation ermöglicht die Standortbestimmung innerhalb von Gebäuden. Das Auffinden eines Raumes in unbekannten Gebäuden mit Hilfe dieser Technologie und einem mobilen Endgerät, wäre damit problemlos möglich. Die Uni Hohenheim bietet dieses Feature als "Hörsaal-Finder mit Live-Navigation" \footnote{\url{https://itunes.apple.com/de/app/universitat-hohenheim-die/id490603166?mt=8}} siehe Abbildung \ref{fig_livenavi}.
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=10cm]{bilder_aurel/nutzungsklassen}
+	\caption{Hörsaal-Finder der Uni Hohenheim}
+	\label{fig_livenavi}
+\end{figure}
+
+
+\section{Schlussbetrachtung}
+
+
+
+
+\end{document}          
