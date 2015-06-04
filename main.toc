@@ -356,7 +356,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {7}Konzept zur Erreichung der Soll-Situation - MB, CH}{107}{chapter.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.1}Umsetzungsplanung}{107}{section.7.1}
+\contentsline {section}{\numberline {7.1}Umsetzungsplanung - CH}{107}{section.7.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {7.1.1}Positionsbestimmung}{107}{subsection.7.1.1}
 \defcounter {refsection}{0}\relax 
@@ -364,90 +364,90 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {7.1.2.1}Grundlagen des Change Managements}{108}{subsubsection.7.1.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.1.2.2}Change Management an Hochschulen}{110}{subsubsection.7.1.2.2}
+\contentsline {subsubsection}{\numberline {7.1.2.2}Change Management an Hochschulen}{111}{subsubsection.7.1.2.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {7.1.2.3}Changeplan}{112}{subsubsection.7.1.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {7.1.2.3.1}Responsive Website}{112}{paragraph.7.1.2.3.1}
+\contentsline {paragraph}{\numberline {7.1.2.3.1}Responsive Website}{113}{paragraph.7.1.2.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {7.1.2.3.2}Alfresco}{113}{paragraph.7.1.2.3.2}
+\contentsline {paragraph}{\numberline {7.1.2.3.2}Alfresco}{114}{paragraph.7.1.2.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.2}Migrationskonzepte}{113}{section.7.2}
+\contentsline {section}{\numberline {7.2}Migrationskonzepte - MB}{115}{section.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.2.1}Kriterien f\IeC {\"u}r eine erfolgreiche Migration}{113}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.1}Kriterien f\IeC {\"u}r eine erfolgreiche Migration}{115}{subsection.7.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.2.2}Migrationsstrategien}{114}{subsection.7.2.2}
+\contentsline {subsection}{\numberline {7.2.2}Migrationsstrategien}{116}{subsection.7.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.2.3}Migrationsbeispiele}{115}{subsection.7.2.3}
+\contentsline {subsection}{\numberline {7.2.3}Migrationsbeispiele}{117}{subsection.7.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.2.3.1}Responsive Website mit TYPO3}{115}{subsubsection.7.2.3.1}
+\contentsline {subsubsection}{\numberline {7.2.3.1}Responsive Website mit TYPO3}{117}{subsubsection.7.2.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {7.2.3.1.1}Ist-Zustand}{115}{paragraph.7.2.3.1.1}
+\contentsline {paragraph}{\numberline {7.2.3.1.1}Ist-Zustand}{117}{paragraph.7.2.3.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {7.2.3.1.2}Soll-Zustand}{116}{paragraph.7.2.3.1.2}
+\contentsline {paragraph}{\numberline {7.2.3.1.2}Soll-Zustand}{117}{paragraph.7.2.3.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {7.2.3.1.3}Migrationsplan}{116}{paragraph.7.2.3.1.3}
+\contentsline {paragraph}{\numberline {7.2.3.1.3}Migrationsplan}{118}{paragraph.7.2.3.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{\numberline {7.2.3.1.3.1}Hardwareanforderungen}{116}{subparagraph.7.2.3.1.3.1}
+\contentsline {subparagraph}{\numberline {7.2.3.1.3.1}Hardwareanforderungen}{118}{subparagraph.7.2.3.1.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{\numberline {7.2.3.1.3.2}Entwicklungssystem}{117}{subparagraph.7.2.3.1.3.2}
+\contentsline {subparagraph}{\numberline {7.2.3.1.3.2}Entwicklungssystem}{118}{subparagraph.7.2.3.1.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{\numberline {7.2.3.1.3.3}Migration}{117}{subparagraph.7.2.3.1.3.3}
+\contentsline {subparagraph}{\numberline {7.2.3.1.3.3}Migration}{119}{subparagraph.7.2.3.1.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{\numberline {7.2.3.1.3.4}Produktivsetzung}{117}{subparagraph.7.2.3.1.3.4}
+\contentsline {subparagraph}{\numberline {7.2.3.1.3.4}Produktivsetzung}{119}{subparagraph.7.2.3.1.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.2.3.2}Alfresco}{118}{subsubsection.7.2.3.2}
+\contentsline {subsubsection}{\numberline {7.2.3.2}Alfresco}{119}{subsubsection.7.2.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {7.2.3.2.1}Ist-Zustand}{118}{paragraph.7.2.3.2.1}
+\contentsline {paragraph}{\numberline {7.2.3.2.1}Ist-Zustand}{120}{paragraph.7.2.3.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {7.2.3.2.2}Soll-Zustand}{119}{paragraph.7.2.3.2.2}
+\contentsline {paragraph}{\numberline {7.2.3.2.2}Soll-Zustand}{120}{paragraph.7.2.3.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {7.2.3.2.3}Migrationsplan}{119}{paragraph.7.2.3.2.3}
+\contentsline {paragraph}{\numberline {7.2.3.2.3}Migrationsplan}{121}{paragraph.7.2.3.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{\numberline {7.2.3.2.3.1}Hardwareanforderungen}{119}{subparagraph.7.2.3.2.3.1}
+\contentsline {subparagraph}{\numberline {7.2.3.2.3.1}Hardwareanforderungen}{121}{subparagraph.7.2.3.2.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{\numberline {7.2.3.2.3.2}Entwicklungssystem}{120}{subparagraph.7.2.3.2.3.2}
+\contentsline {subparagraph}{\numberline {7.2.3.2.3.2}Entwicklungssystem}{122}{subparagraph.7.2.3.2.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{\numberline {7.2.3.2.3.3}Migration}{120}{subparagraph.7.2.3.2.3.3}
+\contentsline {subparagraph}{\numberline {7.2.3.2.3.3}Migration}{122}{subparagraph.7.2.3.2.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{\numberline {7.2.3.2.3.4}Produktivsetzung}{121}{subparagraph.7.2.3.2.3.4}
+\contentsline {subparagraph}{\numberline {7.2.3.2.3.4}Produktivsetzung}{122}{subparagraph.7.2.3.2.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}Kosten und Zeit - BB, SH, KL}{122}{chapter.8}
+\contentsline {chapter}{\numberline {8}Kosten und Zeit - BB, SH, KL}{123}{chapter.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.1}Kostenarten}{122}{section.8.1}
+\contentsline {section}{\numberline {8.1}Kostenarten}{123}{section.8.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.1.1}Kostenarten in Hochschulen}{124}{subsection.8.1.1}
+\contentsline {subsection}{\numberline {8.1.1}Kostenarten in Hochschulen}{125}{subsection.8.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.1.2}Kostenarten in der IT}{125}{subsection.8.1.2}
+\contentsline {subsection}{\numberline {8.1.2}Kostenarten in der IT}{126}{subsection.8.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.2}Verfahren f\IeC {\"u}r die Kosten- und Zeitsch\IeC {\"a}tzung}{128}{section.8.2}
+\contentsline {section}{\numberline {8.2}Verfahren f\IeC {\"u}r die Kosten- und Zeitsch\IeC {\"a}tzung}{129}{section.8.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.2.1}Projektmanagement an einer Hochschule}{128}{subsection.8.2.1}
+\contentsline {subsection}{\numberline {8.2.1}Projektmanagement an einer Hochschule}{129}{subsection.8.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.2.2}Kostensch\IeC {\"a}tzung (Total Cost of Ownership)}{129}{subsection.8.2.2}
+\contentsline {subsection}{\numberline {8.2.2}Kostensch\IeC {\"a}tzung (Total Cost of Ownership)}{130}{subsection.8.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.2.3}Zeitplanung}{131}{subsection.8.2.3}
+\contentsline {subsection}{\numberline {8.2.3}Zeitplanung}{132}{subsection.8.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {8.2.3.1}Gantt-Diagramm}{131}{subsubsection.8.2.3.1}
+\contentsline {subsubsection}{\numberline {8.2.3.1}Gantt-Diagramm}{132}{subsubsection.8.2.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {8.2.3.2}Meilensteintrendanalyse}{132}{subsubsection.8.2.3.2}
+\contentsline {subsubsection}{\numberline {8.2.3.2}Meilensteintrendanalyse}{133}{subsubsection.8.2.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.2.4}Anwendung}{135}{subsection.8.2.4}
+\contentsline {subsection}{\numberline {8.2.4}Anwendung}{136}{subsection.8.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {8.2.4.1}Dokumentenmanagementsystem Alfresco}{135}{subsubsection.8.2.4.1}
+\contentsline {subsubsection}{\numberline {8.2.4.1}Dokumentenmanagementsystem Alfresco}{136}{subsubsection.8.2.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {8.2.4.2}Redesign / Relaunch Hochschule-Webseite}{139}{subsubsection.8.2.4.2}
+\contentsline {subsubsection}{\numberline {8.2.4.2}Redesign / Relaunch Hochschule-Webseite}{140}{subsubsection.8.2.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {8.2.4.3}Facebook Seite}{141}{subsubsection.8.2.4.3}
+\contentsline {subsubsection}{\numberline {8.2.4.3}Facebook Seite}{142}{subsubsection.8.2.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.3}Ausgew\IeC {\"a}hlte Projekt-Beispiele}{143}{section.8.3}
+\contentsline {section}{\numberline {8.3}Ausgew\IeC {\"a}hlte Projekt-Beispiele}{144}{section.8.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.3.1}Beispiele des integrierten Informationsmanagements}{143}{subsection.8.3.1}
+\contentsline {subsection}{\numberline {8.3.1}Beispiele des integrierten Informationsmanagements}{144}{subsection.8.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {9}Zusammenfassung - AW}{148}{chapter.9}
+\contentsline {chapter}{\numberline {9}Zusammenfassung - AW}{149}{chapter.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Literatur- und Quellenverzeichnis}{149}{chapter*.81}
+\contentsline {chapter}{\nonumberline Literatur- und Quellenverzeichnis}{150}{chapter*.85}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Tabellenverzeichnis}{152}{chapter*.82}
+\contentsline {chapter}{Tabellenverzeichnis}{153}{chapter*.86}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Abbildungsverzeichnis}{153}{chapter*.83}
+\contentsline {chapter}{Abbildungsverzeichnis}{154}{chapter*.87}
