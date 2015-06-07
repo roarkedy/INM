@@ -170,284 +170,278 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {5}Ist-Situation der Hochschule Emden/Leer hinsichtlich wichtiger Dimensionen - ME, TK}{70}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}Ziel}{70}{section.5.1}
+\contentsline {section}{\numberline {5.1}Ziel (TiK)}{70}{section.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}Aufgaben}{70}{section.5.2}
+\contentsline {section}{\numberline {5.2}Aufgaben (TiK)}{70}{section.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.3}Zust\IeC {\"a}ndigkeiten}{73}{section.5.3}
+\contentsline {section}{\numberline {5.3}Zust\IeC {\"a}ndigkeiten (TiK)}{74}{section.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.1}Fachbereiche}{74}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.1}Fachbereiche}{75}{subsection.5.3.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {5.3.1.1}Seefahrt}{75}{subsubsection.5.3.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.3.1.2}Technik}{75}{subsubsection.5.3.1.2}
+\contentsline {subsubsection}{\numberline {5.3.1.2}Technik}{76}{subsubsection.5.3.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.3.1.3}Wirtschaft}{75}{subsubsection.5.3.1.3}
+\contentsline {subsection}{\numberline {5.3.2}Pr\IeC {\"a}sidium}{76}{subsection.5.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.3.1.4}Soziale Arbeit und Gesundheit}{75}{subsubsection.5.3.1.4}
+\contentsline {subsection}{\numberline {5.3.3}Zentrale Verwaltung}{77}{subsection.5.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.2}Pr\IeC {\"a}sidium}{75}{subsection.5.3.2}
+\contentsline {subsubsection}{\numberline {5.3.3.1}Studentenverwaltung}{77}{subsubsection.5.3.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.3}Zentrale Verwaltung}{76}{subsection.5.3.3}
+\contentsline {subsubsection}{\numberline {5.3.3.2}Mitarbeiterverwaltung}{77}{subsubsection.5.3.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.3.3.1}Studentenverwaltung}{76}{subsubsection.5.3.3.1}
+\contentsline {subsubsection}{\numberline {5.3.3.3}Rechenzentrum}{77}{subsubsection.5.3.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.3.3.2}Mitarbeiterverwaltung}{76}{subsubsection.5.3.3.2}
+\contentsline {subsection}{\numberline {5.3.4}Arbeitsgruppen zum Informationsaustausch und zur Informationsbereitstellung}{77}{subsection.5.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.3.3.3}Rechenzentrum}{76}{subsubsection.5.3.3.3}
+\contentsline {subsubsection}{\numberline {5.3.4.1}Zahlen, Daten und Fakten (ZDF)}{77}{subsubsection.5.3.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.4}Arbeitsgruppen zum Informationsaustausch und zur Informationsbereitstellung}{76}{subsection.5.3.4}
+\contentsline {subsubsection}{\numberline {5.3.4.2}WEB}{78}{subsubsection.5.3.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.3.4.1}Zahlen, Daten und Fakten (ZDF)}{76}{subsubsection.5.3.4.1}
+\contentsline {subsubsection}{\numberline {5.3.4.3}Moodle}{78}{subsubsection.5.3.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.3.4.2}WEB}{77}{subsubsection.5.3.4.2}
+\contentsline {section}{\numberline {5.4}Definierte und bestehende Prozesse (Regelung und Handhabung von vorhandenen Informationen)}{78}{section.5.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.3.4.3}Moodle}{77}{subsubsection.5.3.4.3}
+\contentsline {subsection}{\numberline {5.4.1}Wissensmanagement}{78}{subsection.5.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.4}Definierte und bestehende Prozesse (Regelung und Handhabung von vorhandenen Informationen)}{77}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.2}E-Learning}{78}{subsection.5.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.4.1}Wissensmanagement}{77}{subsection.5.4.1}
+\contentsline {subsubsection}{\numberline {5.4.2.1}E-Learning an der Hochschule Emden/Leer}{79}{subsubsection.5.4.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.4.2}E-Learning}{77}{subsection.5.4.2}
+\contentsline {subsubsection}{\numberline {5.4.2.2}E-Learning in den Pr\IeC {\"a}senzstudieng\IeC {\"a}ngen}{79}{subsubsection.5.4.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.4.2.1}E-Learning an der Hochschule Emden/Leer}{77}{subsubsection.5.4.2.1}
+\contentsline {subsubsection}{\numberline {5.4.2.3}Einsatz von E-Learning-Anwendungen}{79}{subsubsection.5.4.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.4.2.2}E-Learning in den Pr\IeC {\"a}senzstudieng\IeC {\"a}ngen}{78}{subsubsection.5.4.2.2}
+\contentsline {paragraph}{\numberline {5.4.2.3.1}Adobe Connect}{80}{paragraph.5.4.2.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.4.2.3}Einsatz von E-Learning-Anwendungen}{78}{subsubsection.5.4.2.3}
+\contentsline {paragraph}{\numberline {5.4.2.3.2}Moodle}{80}{paragraph.5.4.2.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {5.4.2.3.1}Adobe Connect}{78}{paragraph.5.4.2.3.1}
+\contentsline {subsubsection}{\numberline {5.4.2.4}Zentrale Informationsbereitstellung durch Datenlaufwerke}{80}{subsubsection.5.4.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {5.4.2.3.2}Moodle}{79}{paragraph.5.4.2.3.2}
+\contentsline {paragraph}{\numberline {5.4.2.4.1}Laufwerk Z}{81}{paragraph.5.4.2.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.4.2.4}Zentrale Informationsbereitstellung durch Datenlaufwerke}{79}{subsubsection.5.4.2.4}
+\contentsline {paragraph}{\numberline {5.4.2.4.2}Laufwerk Y}{81}{paragraph.5.4.2.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {5.4.2.4.1}Laufwerk Z}{79}{paragraph.5.4.2.4.1}
+\contentsline {paragraph}{\numberline {5.4.2.4.3}Verzeichnis Lehrende aus Leer}{81}{paragraph.5.4.2.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {5.4.2.4.2}Laufwerk Y}{80}{paragraph.5.4.2.4.2}
+\contentsline {subsubsection}{\numberline {5.4.2.5}Moodle vs. Datenlaufwerke f\IeC {\"u}r Pr\IeC {\"a}senzstudenten}{81}{subsubsection.5.4.2.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {5.4.2.4.3}Verzeichnis Lehrende aus Leer}{80}{paragraph.5.4.2.4.3}
+\contentsline {subsection}{\numberline {5.4.3}Sicherheitsaspekte}{82}{subsection.5.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.4.2.5}Moodle vs. Datenlaufwerke f\IeC {\"u}r Pr\IeC {\"a}senzstudenten}{80}{subsubsection.5.4.2.5}
+\contentsline {subsubsection}{\numberline {5.4.3.1}Sicherheitsrichtlinien an der Hochschule Emden / Leer}{82}{subsubsection.5.4.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.4.3}Sicherheitsaspekte}{80}{subsection.5.4.3}
+\contentsline {subsubsection}{\numberline {5.4.3.2}Einsatz von ITIL}{82}{subsubsection.5.4.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.4.3.1}Sicherheitsrichtlinien an der Hochschule Emden / Leer}{81}{subsubsection.5.4.3.1}
+\contentsline {subsubsection}{\numberline {5.4.3.3}Umsetzung von ISO/IEC 27001}{83}{subsubsection.5.4.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.4.3.2}Einsatz von ITIL}{81}{subsubsection.5.4.3.2}
+\contentsline {subsubsection}{\numberline {5.4.3.4}Single Sign-On}{83}{subsubsection.5.4.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.4.3.3}Umsetzung von ISO/IEC 27001}{81}{subsubsection.5.4.3.3}
+\contentsline {subsubsection}{\numberline {5.4.3.5}Fazit Sicherheitsrichtlinien}{83}{subsubsection.5.4.3.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.4.3.4}Single Sign-On}{82}{subsubsection.5.4.3.4}
+\contentsline {section}{\numberline {5.5}Repr\IeC {\"a}sentation von Informationen (TiK)}{83}{section.5.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.4.3.5}Fazit Sicherheitsrichtlinien}{82}{subsubsection.5.4.3.5}
+\contentsline {subsection}{\numberline {5.5.1}Studentengewinnung}{83}{subsection.5.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.5}Repr\IeC {\"a}sentation von Informationen}{82}{section.5.5}
+\contentsline {subsection}{\numberline {5.5.2}Corporate Identity}{84}{subsection.5.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.5.1}Erscheinungsbild nach au\IeC {\ss }en}{82}{subsection.5.5.1}
+\contentsline {subsection}{\numberline {5.5.3}Handling von Bewerberdaten}{85}{subsection.5.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.5.2}Studentengewinnung}{82}{subsection.5.5.2}
+\contentsline {section}{\numberline {5.6}Kooperations-Situation mit anderen Hochschulen}{85}{section.5.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.5.3}Corporate Identity}{82}{subsection.5.5.3}
+\contentsline {subsection}{\numberline {5.6.1}Regionaler Bezug zu Hochschulen (Mitgliedschaften)}{85}{subsection.5.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.5.4}Handling von Bewerberdaten}{83}{subsection.5.5.4}
+\contentsline {subsection}{\numberline {5.6.2}Kooperation zwischen Unternehmen}{86}{subsection.5.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.6}Kooperations-Situation mit anderen Hochschulen}{83}{section.5.6}
+\contentsline {subsection}{\numberline {5.6.3}Eingesetzte IT-Systeme durch Mitgliedschaft im DFN-Verein}{86}{subsection.5.6.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.6.1}Regionaler Bezug zu Hochschulen (Mitgliedschaften)}{84}{subsection.5.6.1}
+\contentsline {subsubsection}{\numberline {5.6.3.1}DFNRoaming/eduroam}{86}{subsubsection.5.6.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.6.2}Kooperation zwischen Unternehmen}{84}{subsection.5.6.2}
+\contentsline {subsubsection}{\numberline {5.6.3.2}GigaMove der RWTH Aachen}{87}{subsubsection.5.6.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.6.3}Eingesetzte IT-Systeme durch Mitgliedschaft im DFN-Verein}{85}{subsection.5.6.3}
+\contentsline {subsubsection}{\numberline {5.6.3.3}DFNVideoConference (DFNVC)}{88}{subsubsection.5.6.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.6.3.1}DFNRoaming/eduroam}{85}{subsubsection.5.6.3.1}
+\contentsline {subsection}{\numberline {5.6.4}Authentifizierung \IeC {\"u}ber das Shibboleth-Verfahren}{88}{subsection.5.6.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.6.3.2}GigaMove der RWTH Aachen}{85}{subsubsection.5.6.3.2}
+\contentsline {subsubsection}{\numberline {5.6.4.1}Springer Link}{88}{subsubsection.5.6.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.6.3.3}DFNVideoConference (DFNVC)}{86}{subsubsection.5.6.3.3}
+\contentsline {subsubsection}{\numberline {5.6.4.2}WISO}{88}{subsubsection.5.6.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.6.4}Authentifizierung \IeC {\"u}ber das Shibboleth-Verfahren}{86}{subsection.5.6.4}
+\contentsline {subsubsection}{\numberline {5.6.4.3}video2brain}{89}{subsubsection.5.6.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.6.4.1}Springer Link}{87}{subsubsection.5.6.4.1}
+\contentsline {subsection}{\numberline {5.6.5}Support der Dienste}{89}{subsection.5.6.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.6.4.2}WISO}{87}{subsubsection.5.6.4.2}
+\contentsline {section}{\numberline {5.7}Bewertung und Gewichtung (TiK)}{89}{section.5.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.6.4.3}video2brain}{87}{subsubsection.5.6.4.3}
+\contentsline {chapter}{\numberline {6}M\IeC {\"o}gliche Soll-Situation im Hinblick auf die heutigen und zuk\IeC {\"u}nftigen Aufgaben - AE, JL, HS}{91}{chapter.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.6.5}Support der Dienste}{88}{subsection.5.6.5}
+\contentsline {section}{\numberline {6.1}Marketing}{91}{section.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.7}Bewertung und Gewichtung}{88}{section.5.7}
+\contentsline {subsection}{\numberline {6.1.1}Externes Hochschulmarketing}{91}{subsection.6.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}M\IeC {\"o}gliche Soll-Situation im Hinblick auf die heutigen und zuk\IeC {\"u}nftigen Aufgaben - AE, JL, HS}{89}{chapter.6}
+\contentsline {subsubsection}{\numberline {6.1.1.1}Webseite}{91}{subsubsection.6.1.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.1}Marketing}{89}{section.6.1}
+\contentsline {subsubsection}{\numberline {6.1.1.2}Soziale Netzwerke}{92}{subsubsection.6.1.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.1.1}Externes Hochschulmarketing}{89}{subsection.6.1.1}
+\contentsline {subsubsection}{\numberline {6.1.1.3}Verteilte Content-Erzeugung}{92}{subsubsection.6.1.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {6.1.1.1}Webseite}{89}{subsubsection.6.1.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Internes Hochschulmarketing}{93}{subsection.6.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {6.1.1.2}Soziale Netzwerke}{90}{subsubsection.6.1.1.2}
+\contentsline {subsubsection}{\numberline {6.1.2.1}Fokussierter Support}{93}{subsubsection.6.1.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {6.1.1.3}Verteilte Content-Erzeugung}{90}{subsubsection.6.1.1.3}
+\contentsline {subsubsection}{\numberline {6.1.2.2}Schulungen}{93}{subsubsection.6.1.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.1.2}Internes Hochschulmarketing}{91}{subsection.6.1.2}
+\contentsline {subsubsection}{\numberline {6.1.2.3}Integration}{94}{subsubsection.6.1.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {6.1.2.1}Fokussierter Support}{91}{subsubsection.6.1.2.1}
+\contentsline {section}{\numberline {6.2}Support und Fortentwicklung}{94}{section.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {6.1.2.2}Schulungen}{91}{subsubsection.6.1.2.2}
+\contentsline {subsection}{\numberline {6.2.1}Support}{94}{subsection.6.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {6.1.2.3}Integration}{92}{subsubsection.6.1.2.3}
+\contentsline {subsubsection}{\numberline {6.2.1.1}Zentrale Dokumentation}{94}{subsubsection.6.2.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.2}Support und Fortentwicklung}{92}{section.6.2}
+\contentsline {subsubsection}{\numberline {6.2.1.2}Knowledge Base}{95}{subsubsection.6.2.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.2.1}Support}{92}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Fortentwicklung}{95}{subsection.6.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {6.2.1.1}Zentrale Dokumentation}{92}{subsubsection.6.2.1.1}
+\contentsline {subsubsection}{\numberline {6.2.2.1}Feedback}{96}{subsubsection.6.2.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {6.2.1.2}Knowledge Base}{93}{subsubsection.6.2.1.2}
+\contentsline {subsubsection}{\numberline {6.2.2.2}Innovationseingabe}{96}{subsubsection.6.2.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.2.2}Fortentwicklung}{93}{subsection.6.2.2}
+\contentsline {subsubsection}{\numberline {6.2.2.3}Erfahrungsgetriebene Fortentwicklung}{96}{subsubsection.6.2.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {6.2.2.1}Feedback}{94}{subsubsection.6.2.2.1}
+\contentsline {section}{\numberline {6.3}Hard- und Software}{97}{section.6.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {6.2.2.2}Innovationseingabe}{94}{subsubsection.6.2.2.2}
+\contentsline {subsection}{\numberline {6.3.1}Kernanforderungen}{98}{subsection.6.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {6.2.2.3}Erfahrungsgetriebene Fortentwicklung}{94}{subsubsection.6.2.2.3}
+\contentsline {subsection}{\numberline {6.3.2}Bereichs\IeC {\"u}bergreifende Basissystem}{98}{subsection.6.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.3}Hard- und Software}{95}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.3}Identity Management}{98}{subsection.6.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.1}Kernanforderungen}{96}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.4}Gesch\IeC {\"a}ftsprozesse}{99}{subsection.6.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.2}Bereichs\IeC {\"u}bergreifende Basissystem}{96}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {6.3.5}Content Management}{100}{subsection.6.3.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.3}Identity Management}{96}{subsection.6.3.3}
+\contentsline {subsection}{\numberline {6.3.6}Spezialsysteme}{101}{subsection.6.3.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.4}Gesch\IeC {\"a}ftsprozesse}{97}{subsection.6.3.4}
+\contentsline {subsection}{\numberline {6.3.7}Verwaltungssoftware}{101}{subsection.6.3.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.5}Content Management}{98}{subsection.6.3.5}
+\contentsline {subsection}{\numberline {6.3.8}Lernplattform}{101}{subsection.6.3.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.6}Spezialsysteme}{99}{subsection.6.3.6}
+\contentsline {subsection}{\numberline {6.3.9}Publikationen}{102}{subsection.6.3.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.7}Verwaltungssoftware}{99}{subsection.6.3.7}
+\contentsline {subsection}{\numberline {6.3.10}Evaluation}{102}{subsection.6.3.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.8}Lernplattform}{99}{subsection.6.3.8}
+\contentsline {subsection}{\numberline {6.3.11}Campus Portal}{103}{subsection.6.3.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.9}Publikationen}{100}{subsection.6.3.9}
+\contentsline {subsubsection}{\numberline {6.3.11.1}Integrierte Gesamtsuche}{104}{subsubsection.6.3.11.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.10}Evaluation}{100}{subsection.6.3.10}
+\contentsline {subsection}{\numberline {6.3.12}Ausblick bei Integration der Bibliothek}{105}{subsection.6.3.12}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.11}Campus Portal}{101}{subsection.6.3.11}
+\contentsline {section}{\numberline {6.4}Abw\IeC {\"a}gung des Einsatzes eines Informationsmanagements an der Hochschule Emden Leer}{106}{section.6.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {6.3.11.1}Integrierte Gesamtsuche}{102}{subsubsection.6.3.11.1}
+\contentsline {subsection}{\numberline {6.4.1}Analyse des Ist-Zustandes}{106}{subsection.6.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.12}Ausblick bei Integration der Bibliothek}{103}{subsection.6.3.12}
+\contentsline {subsection}{\numberline {6.4.2}Analyse des zu erwartenden Soll-Zustandes}{107}{subsection.6.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.4}Abw\IeC {\"a}gung des Einsatzes eines Informationsmanagements an der Hochschule Emden Leer}{104}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.3}Soll-M\IeC {\"o}glichkeit}{108}{subsection.6.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.4.1}Analyse des Ist-Zustandes}{104}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.4}Zu erwartende Kosten}{108}{subsection.6.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.4.2}Analyse des zu erwartenden Soll-Zustandes}{105}{subsection.6.4.2}
+\contentsline {subsection}{\numberline {6.4.5}Prognose und zu erwartender Verlauf / Fazit}{108}{subsection.6.4.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.4.3}Soll-M\IeC {\"o}glichkeit}{106}{subsection.6.4.3}
+\contentsline {chapter}{\numberline {7}Konzept zur Erreichung der Soll-Situation - MB, CH}{109}{chapter.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.4.4}Zu erwartende Kosten}{106}{subsection.6.4.4}
+\contentsline {section}{\numberline {7.1}Umsetzungsplanung - CH}{109}{section.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.4.5}Prognose und zu erwartender Verlauf / Fazit}{106}{subsection.6.4.5}
+\contentsline {subsection}{\numberline {7.1.1}Positionsbestimmung}{109}{subsection.7.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}Konzept zur Erreichung der Soll-Situation - MB, CH}{107}{chapter.7}
+\contentsline {subsection}{\numberline {7.1.2}Change Management}{110}{subsection.7.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.1}Umsetzungsplanung - CH}{107}{section.7.1}
+\contentsline {subsubsection}{\numberline {7.1.2.1}Grundlagen des Change Managements}{110}{subsubsection.7.1.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.1.1}Positionsbestimmung}{107}{subsection.7.1.1}
+\contentsline {subsubsection}{\numberline {7.1.2.2}Change Management an Hochschulen}{113}{subsubsection.7.1.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.1.2}Change Management}{108}{subsection.7.1.2}
+\contentsline {subsubsection}{\numberline {7.1.2.3}Changeplan}{114}{subsubsection.7.1.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.1.2.1}Grundlagen des Change Managements}{108}{subsubsection.7.1.2.1}
+\contentsline {paragraph}{\numberline {7.1.2.3.1}Responsive Website}{115}{paragraph.7.1.2.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.1.2.2}Change Management an Hochschulen}{111}{subsubsection.7.1.2.2}
+\contentsline {paragraph}{\numberline {7.1.2.3.2}Alfresco}{116}{paragraph.7.1.2.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.1.2.3}Changeplan}{112}{subsubsection.7.1.2.3}
+\contentsline {section}{\numberline {7.2}Migrationskonzepte - MB}{117}{section.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {7.1.2.3.1}Responsive Website}{113}{paragraph.7.1.2.3.1}
+\contentsline {subsection}{\numberline {7.2.1}Kriterien f\IeC {\"u}r eine erfolgreiche Migration}{117}{subsection.7.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {7.1.2.3.2}Alfresco}{114}{paragraph.7.1.2.3.2}
+\contentsline {subsection}{\numberline {7.2.2}Migrationsstrategien}{118}{subsection.7.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.2}Migrationskonzepte - MB}{115}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.3}Migrationsbeispiele}{119}{subsection.7.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.2.1}Kriterien f\IeC {\"u}r eine erfolgreiche Migration}{115}{subsection.7.2.1}
+\contentsline {subsubsection}{\numberline {7.2.3.1}Responsive Website mit TYPO3}{119}{subsubsection.7.2.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.2.2}Migrationsstrategien}{116}{subsection.7.2.2}
+\contentsline {paragraph}{\numberline {7.2.3.1.1}Ist-Zustand}{119}{paragraph.7.2.3.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.2.3}Migrationsbeispiele}{117}{subsection.7.2.3}
+\contentsline {paragraph}{\numberline {7.2.3.1.2}Soll-Zustand}{119}{paragraph.7.2.3.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.2.3.1}Responsive Website mit TYPO3}{117}{subsubsection.7.2.3.1}
+\contentsline {paragraph}{\numberline {7.2.3.1.3}Migrationsplan}{120}{paragraph.7.2.3.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {7.2.3.1.1}Ist-Zustand}{117}{paragraph.7.2.3.1.1}
+\contentsline {subparagraph}{\numberline {7.2.3.1.3.1}Hardwareanforderungen}{120}{subparagraph.7.2.3.1.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {7.2.3.1.2}Soll-Zustand}{117}{paragraph.7.2.3.1.2}
+\contentsline {subparagraph}{\numberline {7.2.3.1.3.2}Entwicklungssystem}{120}{subparagraph.7.2.3.1.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {7.2.3.1.3}Migrationsplan}{118}{paragraph.7.2.3.1.3}
+\contentsline {subparagraph}{\numberline {7.2.3.1.3.3}Migration}{121}{subparagraph.7.2.3.1.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{\numberline {7.2.3.1.3.1}Hardwareanforderungen}{118}{subparagraph.7.2.3.1.3.1}
+\contentsline {subparagraph}{\numberline {7.2.3.1.3.4}Produktivsetzung}{121}{subparagraph.7.2.3.1.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{\numberline {7.2.3.1.3.2}Entwicklungssystem}{118}{subparagraph.7.2.3.1.3.2}
+\contentsline {subsubsection}{\numberline {7.2.3.2}Alfresco}{121}{subsubsection.7.2.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{\numberline {7.2.3.1.3.3}Migration}{119}{subparagraph.7.2.3.1.3.3}
+\contentsline {paragraph}{\numberline {7.2.3.2.1}Ist-Zustand}{122}{paragraph.7.2.3.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{\numberline {7.2.3.1.3.4}Produktivsetzung}{119}{subparagraph.7.2.3.1.3.4}
+\contentsline {paragraph}{\numberline {7.2.3.2.2}Soll-Zustand}{122}{paragraph.7.2.3.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.2.3.2}Alfresco}{119}{subsubsection.7.2.3.2}
+\contentsline {paragraph}{\numberline {7.2.3.2.3}Migrationsplan}{123}{paragraph.7.2.3.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {7.2.3.2.1}Ist-Zustand}{120}{paragraph.7.2.3.2.1}
+\contentsline {subparagraph}{\numberline {7.2.3.2.3.1}Hardwareanforderungen}{123}{subparagraph.7.2.3.2.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {7.2.3.2.2}Soll-Zustand}{120}{paragraph.7.2.3.2.2}
+\contentsline {subparagraph}{\numberline {7.2.3.2.3.2}Entwicklungssystem}{124}{subparagraph.7.2.3.2.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {7.2.3.2.3}Migrationsplan}{121}{paragraph.7.2.3.2.3}
+\contentsline {subparagraph}{\numberline {7.2.3.2.3.3}Migration}{124}{subparagraph.7.2.3.2.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{\numberline {7.2.3.2.3.1}Hardwareanforderungen}{121}{subparagraph.7.2.3.2.3.1}
+\contentsline {subparagraph}{\numberline {7.2.3.2.3.4}Produktivsetzung}{124}{subparagraph.7.2.3.2.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{\numberline {7.2.3.2.3.2}Entwicklungssystem}{122}{subparagraph.7.2.3.2.3.2}
+\contentsline {chapter}{\numberline {8}Kosten und Zeit - BB, SH, KL}{125}{chapter.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{\numberline {7.2.3.2.3.3}Migration}{122}{subparagraph.7.2.3.2.3.3}
+\contentsline {section}{\numberline {8.1}Kostenarten}{125}{section.8.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{\numberline {7.2.3.2.3.4}Produktivsetzung}{122}{subparagraph.7.2.3.2.3.4}
+\contentsline {subsection}{\numberline {8.1.1}Kostenarten in Hochschulen}{127}{subsection.8.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}Kosten und Zeit - BB, SH, KL}{123}{chapter.8}
+\contentsline {subsection}{\numberline {8.1.2}Kostenarten in der IT}{128}{subsection.8.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.1}Kostenarten}{123}{section.8.1}
+\contentsline {section}{\numberline {8.2}Verfahren f\IeC {\"u}r die Kosten- und Zeitsch\IeC {\"a}tzung}{131}{section.8.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.1.1}Kostenarten in Hochschulen}{125}{subsection.8.1.1}
+\contentsline {subsection}{\numberline {8.2.1}Projektmanagement an einer Hochschule}{131}{subsection.8.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.1.2}Kostenarten in der IT}{126}{subsection.8.1.2}
+\contentsline {subsection}{\numberline {8.2.2}Kostensch\IeC {\"a}tzung (Total Cost of Ownership)}{132}{subsection.8.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.2}Verfahren f\IeC {\"u}r die Kosten- und Zeitsch\IeC {\"a}tzung}{129}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.3}Zeitplanung}{134}{subsection.8.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.2.1}Projektmanagement an einer Hochschule}{129}{subsection.8.2.1}
+\contentsline {subsubsection}{\numberline {8.2.3.1}Gantt-Diagramm}{134}{subsubsection.8.2.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.2.2}Kostensch\IeC {\"a}tzung (Total Cost of Ownership)}{130}{subsection.8.2.2}
+\contentsline {subsubsection}{\numberline {8.2.3.2}Meilensteintrendanalyse}{135}{subsubsection.8.2.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.2.3}Zeitplanung}{132}{subsection.8.2.3}
+\contentsline {subsection}{\numberline {8.2.4}Anwendung}{138}{subsection.8.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {8.2.3.1}Gantt-Diagramm}{132}{subsubsection.8.2.3.1}
+\contentsline {subsubsection}{\numberline {8.2.4.1}Dokumentenmanagementsystem Alfresco}{138}{subsubsection.8.2.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {8.2.3.2}Meilensteintrendanalyse}{133}{subsubsection.8.2.3.2}
+\contentsline {subsubsection}{\numberline {8.2.4.2}Redesign / Relaunch Hochschule-Webseite}{142}{subsubsection.8.2.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.2.4}Anwendung}{136}{subsection.8.2.4}
+\contentsline {subsubsection}{\numberline {8.2.4.3}Facebook Seite}{144}{subsubsection.8.2.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {8.2.4.1}Dokumentenmanagementsystem Alfresco}{136}{subsubsection.8.2.4.1}
+\contentsline {section}{\numberline {8.3}Ausgew\IeC {\"a}hlte Projekt-Beispiele}{146}{section.8.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {8.2.4.2}Redesign / Relaunch Hochschule-Webseite}{140}{subsubsection.8.2.4.2}
+\contentsline {subsection}{\numberline {8.3.1}Beispiele des integrierten Informationsmanagements}{146}{subsection.8.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {8.2.4.3}Facebook Seite}{142}{subsubsection.8.2.4.3}
+\contentsline {chapter}{\numberline {9}Zusammenfassung - AW}{151}{chapter.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.3}Ausgew\IeC {\"a}hlte Projekt-Beispiele}{144}{section.8.3}
+\contentsline {chapter}{\nonumberline Literatur- und Quellenverzeichnis}{152}{chapter*.90}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.3.1}Beispiele des integrierten Informationsmanagements}{144}{subsection.8.3.1}
+\contentsline {chapter}{Tabellenverzeichnis}{155}{chapter*.91}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {9}Zusammenfassung - AW}{149}{chapter.9}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Literatur- und Quellenverzeichnis}{150}{chapter*.85}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Tabellenverzeichnis}{153}{chapter*.86}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Abbildungsverzeichnis}{154}{chapter*.87}
+\contentsline {chapter}{Abbildungsverzeichnis}{156}{chapter*.92}
