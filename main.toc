@@ -12,7 +12,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.1.2}Informationsmanagementmodell in der Literatur}{14}{subsection.2.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.3}Informationsmanagement nach Heinrich}{14}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.3}Informationsmanagement nach Heinrich}{15}{subsection.2.1.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.1.4}Informationsmanagement nach Wollnik}{15}{subsection.2.1.4}
 \defcounter {refsection}{0}\relax 
@@ -44,7 +44,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.4.2}Bibliotheken}{33}{subsection.2.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.4.3}Rechnerpools}{34}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {2.4.3}Rechnerpools}{35}{subsection.2.4.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}Trends des Informationsmanagements an Hochschulen - AH, OS}{36}{chapter.3}
 \defcounter {refsection}{0}\relax 
@@ -440,8 +440,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {9}Zusammenfassung - AW}{151}{chapter.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Literatur- und Quellenverzeichnis}{152}{chapter*.90}
+\contentsline {chapter}{\nonumberline Literatur- und Quellenverzeichnis}{152}{chapter*.91}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Tabellenverzeichnis}{155}{chapter*.91}
+\contentsline {chapter}{Tabellenverzeichnis}{155}{chapter*.92}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Abbildungsverzeichnis}{156}{chapter*.92}
+\contentsline {chapter}{Abbildungsverzeichnis}{156}{chapter*.93}
