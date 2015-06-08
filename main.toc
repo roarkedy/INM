@@ -310,33 +310,33 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {6.3.1}Kernanforderungen}{98}{subsection.6.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.2}Bereichs\IeC {\"u}bergreifende Basissystem}{98}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {6.3.2}Bereichs\IeC {\"u}bergreifende Basissysteme}{98}{subsection.6.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.3}Identity Management}{98}{subsection.6.3.3}
+\contentsline {subsubsection}{\numberline {6.3.2.1}Identity Management}{98}{subsubsection.6.3.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.4}Gesch\IeC {\"a}ftsprozesse}{99}{subsection.6.3.4}
+\contentsline {subsubsection}{\numberline {6.3.2.2}Gesch\IeC {\"a}ftsprozesse}{99}{subsubsection.6.3.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.5}Content Management}{100}{subsection.6.3.5}
+\contentsline {subsubsection}{\numberline {6.3.2.3}Content Management}{100}{subsubsection.6.3.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.6}Spezialsysteme}{101}{subsection.6.3.6}
+\contentsline {subsection}{\numberline {6.3.3}Spezialsysteme}{101}{subsection.6.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.7}Verwaltungssoftware}{101}{subsection.6.3.7}
+\contentsline {subsubsection}{\numberline {6.3.3.1}Verwaltungssoftware}{101}{subsubsection.6.3.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.8}Lernplattform}{101}{subsection.6.3.8}
+\contentsline {subsubsection}{\numberline {6.3.3.2}Lernplattform}{101}{subsubsection.6.3.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.9}Publikationen}{102}{subsection.6.3.9}
+\contentsline {subsubsection}{\numberline {6.3.3.3}Publikationen}{102}{subsubsection.6.3.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.10}Evaluation}{102}{subsection.6.3.10}
+\contentsline {subsubsection}{\numberline {6.3.3.4}Evaluation}{103}{subsubsection.6.3.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.11}Campus Portal}{103}{subsection.6.3.11}
+\contentsline {subsubsection}{\numberline {6.3.3.5}Campus Portal}{103}{subsubsection.6.3.3.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {6.3.11.1}Integrierte Gesamtsuche}{104}{subsubsection.6.3.11.1}
+\contentsline {subsubsection}{\numberline {6.3.3.6}Integrierte Gesamtsuche}{104}{subsubsection.6.3.3.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.12}Ausblick bei Integration der Bibliothek}{105}{subsection.6.3.12}
+\contentsline {subsection}{\numberline {6.3.4}Ausblick bei Integration der Bibliothek}{105}{subsection.6.3.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.4}Abw\IeC {\"a}gung des Einsatzes eines Informationsmanagements an der Hochschule Emden Leer}{106}{section.6.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.4.1}Analyse des Ist-Zustandes}{106}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.1}Analyse des Ist-Zustandes}{107}{subsection.6.4.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {6.4.2}Analyse des zu erwartenden Soll-Zustandes}{107}{subsection.6.4.2}
 \defcounter {refsection}{0}\relax 
