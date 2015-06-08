@@ -28,21 +28,21 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.2.1}Management der Schnittstellen zu den Informationsempf\IeC {\"a}ngern}{26}{subsection.2.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Qualit\IeC {\"a}tsmanagement der Informationsprozesse - MB}{27}{section.2.3}
+\contentsline {section}{\numberline {2.3}Qualit\IeC {\"a}tsmanagement der Informationsprozesse - MB}{28}{section.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.1}Aufgaben des Qualit\IeC {\"a}tsmanagements}{27}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.1}Aufgaben des Qualit\IeC {\"a}tsmanagements}{28}{subsection.2.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.2}Prozessoptimierung durch Minimierung der Durchlaufzeiten}{28}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.2}Prozessoptimierung durch Minimierung der Durchlaufzeiten}{29}{subsection.2.3.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.3.3}Anwendung des Qualit\IeC {\"a}tsmanagements am Beispiel der IT Balanced Scorecard}{30}{subsection.2.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.4}Besonderheiten an Hochschulen}{31}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.4}Besonderheiten an Hochschulen}{32}{subsection.2.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.4}Anwendung des Informationsmanagements am Beispiel von Hochschulen - MB}{32}{section.2.4}
+\contentsline {section}{\numberline {2.4}Anwendung des Informationsmanagements am Beispiel von Hochschulen - MB}{33}{section.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.4.1}Immatrikulations- und Pr\IeC {\"u}fungsamt}{32}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.1}Immatrikulations- und Pr\IeC {\"u}fungsamt}{33}{subsection.2.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.4.2}Bibliotheken}{33}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.2}Bibliotheken}{34}{subsection.2.4.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.4.3}Rechnerpools}{35}{subsection.2.4.3}
 \defcounter {refsection}{0}\relax 
@@ -200,7 +200,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {5.3.4.3}Moodle}{78}{subsubsection.5.3.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.4}Definierte und bestehende Prozesse (Regelung und Handhabung von vorhandenen Informationen)}{78}{section.5.4}
+\contentsline {section}{\numberline {5.4}Definierte und bestehende Prozesse (Regelung und Handhabung von vorhandenen Informationen)(MaE)}{78}{section.5.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.4.1}Wissensmanagement}{78}{subsection.5.4.1}
 \defcounter {refsection}{0}\relax 
@@ -212,7 +212,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {5.4.2.3}Einsatz von E-Learning-Anwendungen}{79}{subsubsection.5.4.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {5.4.2.3.1}Adobe Connect}{80}{paragraph.5.4.2.3.1}
+\contentsline {paragraph}{\numberline {5.4.2.3.1}Adobe Connect}{79}{paragraph.5.4.2.3.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{\numberline {5.4.2.3.2}Moodle}{80}{paragraph.5.4.2.3.2}
 \defcounter {refsection}{0}\relax 
@@ -234,9 +234,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {5.4.3.3}Umsetzung von ISO/IEC 27001}{83}{subsubsection.5.4.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.4.3.4}Single Sign-On}{83}{subsubsection.5.4.3.4}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.4.3.5}Fazit Sicherheitsrichtlinien}{83}{subsubsection.5.4.3.5}
+\contentsline {subsubsection}{\numberline {5.4.3.4}Fazit Sicherheitsrichtlinien}{83}{subsubsection.5.4.3.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.5}Repr\IeC {\"a}sentation von Informationen (TiK)}{83}{section.5.5}
 \defcounter {refsection}{0}\relax 
@@ -244,9 +242,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.5.2}Corporate Identity}{84}{subsection.5.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.5.3}Handling von Bewerberdaten}{85}{subsection.5.5.3}
+\contentsline {subsection}{\numberline {5.5.3}Handling von Bewerberdaten}{84}{subsection.5.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.6}Kooperations-Situation mit anderen Hochschulen}{85}{section.5.6}
+\contentsline {section}{\numberline {5.6}Kooperations-Situation mit anderen Hochschulen (MaE)}{85}{section.5.6}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.6.1}Regionaler Bezug zu Hochschulen (Mitgliedschaften)}{85}{subsection.5.6.1}
 \defcounter {refsection}{0}\relax 
@@ -270,7 +268,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.6.5}Support der Dienste}{89}{subsection.5.6.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.7}Bewertung und Gewichtung (TiK)}{89}{section.5.7}
+\contentsline {section}{\numberline {5.7}Bewertung und Gewichtung (TiK)}{90}{section.5.7}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {6}M\IeC {\"o}gliche Soll-Situation im Hinblick auf die heutigen und zuk\IeC {\"u}nftigen Aufgaben - AE, JL, HS}{91}{chapter.6}
 \defcounter {refsection}{0}\relax 
@@ -440,8 +438,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {9}Zusammenfassung - AW}{151}{chapter.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Literatur- und Quellenverzeichnis}{152}{chapter*.91}
+\contentsline {chapter}{\nonumberline Literatur- und Quellenverzeichnis}{152}{chapter*.92}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Tabellenverzeichnis}{155}{chapter*.92}
+\contentsline {chapter}{Tabellenverzeichnis}{155}{chapter*.93}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Abbildungsverzeichnis}{156}{chapter*.93}
+\contentsline {chapter}{Abbildungsverzeichnis}{156}{chapter*.94}
