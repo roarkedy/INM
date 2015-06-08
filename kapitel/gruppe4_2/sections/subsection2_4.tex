@@ -18,26 +18,26 @@ Um eine möglichst realitätsnahe Planung zu ermöglichen wurde hierzu Herr Step
 
 Da dies eine beispielhafte Betrachtung ist, geht die Berechnung davon aus, dass alle aufgeführten Ressourcen angeschafft oder eingerichtet werden müssen. Sollte die Hochschule Teile dieser Ressourcen aus eigenem Bestand zur Verfügung stellen, müssen die Werte in der TCO Berechnung entsprechend angepasst werden.
 
-\todo{Tabelle umformatieren}
+\todo[inline]{Tabelle umformatieren}
 \begin{table}[h!]
 	\begin{tabularx}{\textwidth}{|X|X|X|}
 		% Überschriften
 		\hline \textbf{TCO-Kategorie} & \textbf{Ressource / Tätigkeit} & \textbf{Verbrauch}\\
 		% Zeile 1
-		\hline Hardware Anwender & Benötigte Hardware (Produktivsystem) & 4 Server, \euro 4.000 / Server \\ 
+		\hline Hardware Anwender & Benötigte Hardware (Produktivsystem) & 4 Server, je EUR 4.000\\ 
 		% Zeile 2
-		\hline Hardware Betreuer & Benötigte Hardware (Testsystem) & 2 Server, \euro 4.000 / Server\\
+		\hline Hardware Betreuer & Benötigte Hardware (Testsystem) & 2 Server, je EUR 4.000\\
 		% Zeile 3
-		\hline Software & Lizenzkosten & \euro 46.000
-		(2 x \euro 15.000
+		\hline Software & Lizenzkosten & EUR 46.000
+		(2 x EUR 15.000
 		Produktivsystem,
-		2 x \euro 3.500
+		2 x EUR 3.500
 		Testsystem,
-		\euro 9.000 Clustering)\\
+		EUR 9.000 Clustering)\\
 		% Zeile 4
 		\hline Software Help-Desk / Incidentmanagement & Anschaffungs-/Lizenzkosten
 		für Help-Desksoftware
-		 & \euro 0 (Open Source) \\
+		 & EUR 0 (Open Source) \\
 		% Zeile 5
 		\hline Prozessmanagement & Benutzer-/Systemverwaltung & 1 MT / Woche\\
 		% Zeile 6
@@ -45,7 +45,7 @@ Da dies eine beispielhafte Betrachtung ist, geht die Berechnung davon aus, dass 
 		 & 1 MT / Woche \\
 		% Zeile 7
 		\hline Schulung der Administratoren & Schulung durch Berater
-		(Alfresco) & \euro 10.000 (10 Tage, \euro 1.000 / Tag) \\
+		(Alfresco) & EUR 10.000 (10 Tage, EUR 1.000 / Tag) \\
 		% Zeile 8
 		\hline Schulung der Mitarbeiter & Schulung durch Rechenzentrum & 2 MT\\
 		% Zeile 9
@@ -58,40 +58,58 @@ Da dies eine beispielhafte Betrachtung ist, geht die Berechnung davon aus, dass 
 	\label{tab_ubersicht_kosten_TCO}
 \end{table}
 
-Die in Tabelle \ref{tab_ubersicht_kosten_TCO} erfassten Kosten werden in das, in Kapitel \ref{subsection_kostenschatzung_TCO} erwähnte, TCO-Tool übertragen. Anhand der verfügbaren Analysefunktionen werden anschließend die Gesamtkosten nach den TCO-Kostenkategorien ausgegeben und aufgeschlüsselt. Das Ergebnis der Kalkulation anhand des TCO-Tools zeigt Tabelle \ref{tab_ergebnis_TCO_Methode}. Die Betrachtung erfolgt dabei, entsprechend der Abschreibungsdauer nach der DFG-Nutzungstabelle\footnote{\url{https://www.physik.uni-muenchen.de/fakultaet/organisation/geschaeftsstelle/merkblaetter/dfg-tabelle.pdf}}, über einen Zeitraum von 48 Monaten.
+Die in Tabelle \ref{tab_ubersicht_kosten_TCO} erfassten Kosten werden in das, in Kapitel
+\ref{subsection_kostenschatzung_TCO} erwähnte, TCO-Tool übertragen. 
+Anhand der verfügbaren Analysefunktionen werden anschließend die Gesamtkosten nach den 
+TCO-Kostenkategorien ausgegeben und aufgeschlüsselt. Das Ergebnis der Kalkulation anhand 
+des TCO-Tools zeigt Tabelle \ref{tab_ergebnis_TCO_Methode}. Die Betrachtung erfolgt dabei, 
+entsprechend der Abschreibungsdauer nach der DFG-Nutzungstabelle\footnote{\url{https://www.physik.uni-muenchen.de/fakultaet/organisation/geschaeftsstelle/merkblaetter/dfg-tabelle.pdf}}, über einen Zeitraum von 48 Monaten.
 
-\todo{Tabelle umformatieren}
+\todo[inline]{Tabelle umformatieren}
 \begin{table}[h!]
 	\small
 %	\begin{tabularx}{\textwidth}{|X|X|X|X|X|X|}
 	\begin{tabularx}{\textwidth}{@{}l *5{>{\raggedleft\arraybackslash}X}@{}}	
 		\hline \textbf{Kostenart} & \textbf{TCO 1. Jahr} & \textbf{TCO 2. Jahr} & \textbf{TCO 3. Jahr} & \textbf{TCO 4. Jahr} & \textbf{TCO-Kosten über die gesamte Nutzungsdauer} \\
-		\hline Datenbank- management & 2361,33 & 2576 & 2576 & 2576 & 10089,33 \\
-		\hline Hardware der IT-Abteilung & 2000 & 2000 & 2000 & 2000 & 8000 \\
-		\hline Hardware für Anwenderprozesse & 6250 & 6250 & 6250 & 6250 & 25000 \\
-		\hline Help Desk & 13135 & 13135 & 13135 & 13135 & 52542 \\
-		\hline Planungs- und Prozessmanagement & 9016 & 9016 & 9016 & 9016 & 36064 \\
-		\hline Schulung Endanwender & 3882,27 & 0 & 0 & 0 & 3882,27 \\
-		\hline Schulung Mitarbeiter IT-Abteilung & 2500 & 2500 & 2500 & 2500 & 10000 \\
-		\hline Software der IT-Abteilung & 1750 & 1750 & 1750 & 1750 & 7000 \\
-		\hline Software für Anwenderprozesse & 7500 & 7500 & 7500 & 7500 & 30000 \\
-		\hline technischer Support & 6440 & 6440 & 6440 & 6440 & 25760 \\
-		\hline \textbf{Total} & \textbf{54835,10} & \textbf{51167,50} & \textbf{51167,50} & \textbf{51167,50} & \textbf{208337,60} \\
+		\hline Datenbank- management & 2.361 & 2.576 & 2.576 & 2.576 & 10.089 \\
+		\hline Hardware der IT-Abteilung & 2.000 & 2.000 & 2.000 & 2.000 & 8.000 \\
+		\hline Hardware für Anwenderprozesse & 6.250 & 6.250 & 6.250 & 6.250 & 25.000 \\
+		\hline Help Desk & 13.135 & 13.135 & 13.135 & 13.135 & 52.542 \\
+		\hline Planungs- und Prozessmanagement & 9.016 & 9.016 & 9.016 & 9.016 & 36.064 \\
+		\hline Schulung Endanwender & 3.882 & 0 & 0 & 0 & 3.882 \\
+		\hline Schulung Mitarbeiter IT-Abteilung & 2.500 & 2.500 & 2.500 & 2.500 & 10.000 \\
+		\hline Software der IT-Abteilung & 1.750 & 1.750 & 1.750 & 1.750 & 7.000 \\
+		\hline Software für Anwenderprozesse & 7.500 & 7.500 & 7.500 & 7.500 & 30.000 \\
+		\hline technischer Support & 6.440 & 6.440 & 6.440 & 6.440 & 25.760 \\
+		\hline \textbf{Total} & \textbf{54.835} & \textbf{51.167} & \textbf{51.167} & \textbf{51.167} & \textbf{208.337} \\
 		\hline
 	\end{tabularx}
 	\caption{Ergebnis der TCO-Methode}
 	\label{tab_ergebnis_TCO_Methode}
 \end{table}
 
-Tabelle \ref{tab_ergebnis_TCO_Methode} zeigt den finanziellen, beziehungsweise zeitlichen, Aufwand der nach Einschätzung des befragten Experten nötig ist, um das Dokumentenmanagementsystem (DMS) Alfresco an der Hochschule einzuführen und zu betreiben. Da in dem Interview mit dem Leiter des Rechenzentrums der Hochschule nicht geklärt werden konnte, in welchem Rahmen dem Gesamtprojekt vorhandene Hardware zur Verfügung gestellt werden kann, wird in dieser TCO-Analyse davon ausgegangen, dass Hardware angeschafft werden muss.
+Tabelle \ref{tab_ergebnis_TCO_Methode} zeigt den finanziellen, beziehungsweise zeitlichen, 
+Aufwand der nach Ein-schätzung des befragten Experten nötig ist, um das 
+Dokumentenmanagementsystem (DMS) Alfresco an der Hochschule einzuführen und zu betreiben. 
+Da in dem Interview mit dem Leiter des Rechenzentrums der Hochschule nicht geklärt werden 
+konnte, in welchem Rahmen dem Gesamtprojekt vorhandene Hardware zur Verfügung gestellt 
+werden kann, wird in dieser TCO-Analyse davon ausgegangen, dass Hardware angeschafft 
+werden muss.
 
-Aus Gründen der Hochverfügbarkeit wird Alfresco in einem Cluster betrieben. Dazu werden auf jeweils zwei Servern Alfresco und eine dazugehörige Datenbank eingerichtet. Die Server mit einer entsprechend performanteren Hardware liegen bei \euro 4.000 das Stück. Des Weiteren ist es ratsam, ein Testsystem zu installieren auf dem Updates oder zusätzliche Eigenimplementierungen getestet werden können. Da ein solches Testsystem nicht der gleichen Last wie das Produktivsystem ausgesetzt ist, ist es ausreichend zwei echte Server, auf denen jeweils zwei Server virtualisiert werden, zu verwenden. Auch diese Server werden mit je \euro 4.000 veranschlagt.
+Aus Gründen der Hochverfügbarkeit wird Alfresco in einem Cluster betrieben. Dazu werden auf 
+jeweils zwei Servern Alfresco und eine dazugehörige Datenbank eingerichtet. Die Server mit 
+einer entsprechend performanteren Hardware liegen bei EUR 4.000 das Stück. Des Weiteren ist 
+es ratsam, ein Testsystem zu installieren auf dem Updates oder zusätzliche 
+Eigenimplementierungen getestet werden können. Da ein solches Testsystem nicht der gleichen 
+Last wie das Produktivsystem ausgesetzt ist, ist es ausreichend zwei echte Server, auf denen jeweils 
+zwei Server virtualisiert werden, zu verwenden. Auch diese Server werden mit je EUR 4.000 
+veranschlagt.
 
 Alfresco bietet von ihrer DMS-Software eine kostenfreie Community-Version und eine lizenzpflichtige Kauf-Version an. Das größte Manko der Community-Version sind die nicht verfügbaren Aktualisierungen. Soll also eine bereits installierte Community-Version auf eine neue Softwareversion aktualisiert werden, muss das gesamte System neu aufgesetzt werden. Der Vorteil der regelmäßigen Aktualisierungen der kostenpflichtigen Version überwiegt also den Kostenvorteil der kostenfreie Softwarelösung.
 
-Die Lizenzgebühren für die Software liegen jeweils bei ca. \euro 15.000 für die Produktivsysteme und \euro 3.500 für die Testsysteme. Dazu kommen Kosten in Höhe von ca. \euro 9.000 für Softwarekomponenten die den Betrieb im Cluster ermöglichen. Da es zahlreiche Open-Source Lösungen für den Betrieb eines Help-Desks, beziehungsweise eines Ticketsystems, gibt, fallen hierfür keine zusätzlichen Kosten an.
+Die Lizenzgebühren für die Software liegen jeweils bei ca. EUR 15.000 für die Produktivsysteme und EUR 3.500 für die Testsysteme. Dazu kommen Kosten in Höhe von ca. EUR 9.000 für Softwarekomponenten die den Betrieb im Cluster ermöglichen. Da es zahlreiche Open-Source Lösungen für den Betrieb eines Help-Desks, beziehungsweise eines Ticketsystems, gibt, fallen hierfür keine zusätzlichen Kosten an.
 
-Nach der Installation läuft Alfresco zu einem großen Teil alleine und benötigt keine weitere Interaktion von außen. Es fallen ledigliche kleinere Wartungsarbeiten, wie das Einspielen von Aktualisierungen oder das Anfertigen einer Datenbanksicherung, an. Diese werden mit einem Aufwand von ca. 1 MT pro Woche veranschlagt. Dazu kommt die Verwaltung der Benutzer des Systems mit einem weiteren MT pro Woche. Da die Mitarbeiter des Rechenzentrums hauptsächlich für den Reibungslosen Betrieb der Plattform verantwortlich sein sollen, werden diese von Beratern der Alfresco Software AG geschult. Die Schulung ist mit 10 Tagen geplant und verursacht Kosten in Höhe von \euro 1.000 je Tag. Anwender des Systems können sich anschließend von den Mitarbeitern des Rechenzentrums schulen lassen. Für eine Anwenderschulung werden ca. 2 MT geplant. Zusätzlich wird ein Anwenderhandbuch erstellt. Die Erstellung dauert ca. 15 MT. Nach der Einführung des System wird sich ein Mitarbeiter des Help-Desks erfahrungsgemäß etwa 2 Stunden täglich mit Anliegen rund um Alfresco beschäftigen.
+Nach der Installation läuft Alfresco zu einem großen Teil alleine und benötigt keine weitere Interaktion von außen. Es fallen ledigliche kleinere Wartungsarbeiten, wie das Einspielen von Aktualisierungen oder das Anfertigen einer Datenbanksicherung, an. Diese werden mit einem Aufwand von ca. 1 MT pro Woche veranschlagt. Dazu kommt die Verwaltung der Benutzer des Systems mit einem weiteren MT pro Woche. Da die Mitarbeiter des Rechenzentrums hauptsächlich für den Reibungslosen Betrieb der Plattform verantwortlich sein sollen, werden diese von Beratern der Alfresco Software AG geschult. Die Schulung ist mit 10 Tagen geplant und verursacht Kosten in Höhe von EUR 1.000 je Tag. Anwender des Systems können sich anschließend von den Mitarbeitern des Rechenzentrums schulen lassen. Für eine Anwenderschulung werden ca. 2 MT geplant. Zusätzlich wird ein Anwenderhandbuch erstellt. Die Erstellung dauert ca. 15 MT. Nach der Einführung des System wird sich ein Mitarbeiter des Help-Desks erfahrungsgemäß etwa 2 Stunden täglich mit Anliegen rund um Alfresco beschäftigen.
 
 Die angenommenen Personalkosten entsprechen den Personalmittelsätzen für 2015 der DFG und beruhen auf “Bruttoarbeitgeberkosten”. Die Grundlage der Berechnung der Stundensätze bildet die Anzahl der Arbeitstage des Jahres 2016 unter Berücksichtigung von, entsprechend den Tarifen des öffentlichen Dienstes\footnote{\url{http://oeffentlicher-dienst.info}}, 30 Urlaubstagen und 39 Wochenstunden (insgesamt 224 Arbeitstage). Die angenommenen Stundensätze sind zur Wahrung der Transparenz nachfolgend in Tabelle \ref{tab_ubersicht_lohne} dargestellt.
 
@@ -156,7 +174,7 @@ Die Ergebnisse dieser Gespräche finden sich zusammengefasst in Tabelle \ref{tab
 
 Der Initiale Schritt des gesamten Prozesses sollte, sofern im Voraus kein ausgearbeitetes Konzept vorliegt, in der Durchführung von Workshops mit Entscheidungsträgern aus allen beteiligten Bereichen (Verwaltung, Fachbereiche, Rechenzentrum, etc.) liegen. Um das Ziel des Workshops, nämlich eine gemeinsame Grundlage zu schaffen, die von allen gleichermaßen getragen wird, zu erreichen, werden, bedingt durch das vorhandene Konfliktpotential, 5 Manntage zur Durchführung angesetzt.
 
-Die Ergebnisse des Workshops werden anschließend durch Konzeptioner, die an dem Workshop als “Zuhörer” teilgenommen haben, verarbeitet, um daraus ein Website-Konzept zu entwickeln. Für die Ausarbeitung des Konzepts mit entsprechender Präsentation vor den Projektverantwortlichen der Hochschule werden 12 Manntage veranschlagt.
+Die Ergebnisse des Workshops werden anschließend durch Konzeptioner, die an dem Workshop als “Zuhörer” teilgenommen haben, verarbeitet, um daraus ein Website-Konzept zu entwickeln. Für die Ausarbeitung des Konzepts mit entsprechender Präsen-tation vor den Projektverantwortlichen der Hochschule werden 12 Manntage veranschlagt.
 
 Nachdem das Konzept freigegeben wurde, können User-Experience-Experten und (User Interface-)Designer mit der Ausarbeitung der Gestaltungsvorlage beginnen. Dabei ist es üblich, dem Kunden mehrere, möglichst unterschiedliche, Designvorschläge zu unterbreiten. Inklusive Präsentation und Ausarbeitung des finalen Vorschlags kann dieser Posten mit 22 Manntagen berechnet werden.
 
@@ -201,7 +219,7 @@ Im Gegensatz zum Konzept sollte die Gestaltung der Page-Tabs an den jeweiligen F
 
 Nach der Präsentation aller vier Designs, wofür 1 Manntag veranschlagt wird, folgt die Realisierung. Da die Gestaltung an die Fachbereiche angepasst wurde, können die Vorlagen voraussichtlich nicht alle nach dem gleichen Schema umgesetzt werden, weshalb für jeden Page-Tab 2 Manntage kalkuliert werden.
 
-Die finalen Schritte bestehen in der Facebook-Integration mit abschließender Qualitätssicherung. Pro Fachbereich kann diesbezüglich ein halber Manntag vorgesehen werden, sodass die letzten Punkte mit insgesamt 2 Manntagen zu Buche schlagen. Die Gesamtsumme beträgt bei dem beschriebenen Vorgehen 22 Manntage.
+Die finalen Schritte bestehen in der Facebook-Integration mit abschließender Qualitäts-sicherung. Pro Fachbereich kann diesbezüglich ein halber Manntag vorgesehen werden, sodass die letzten Punkte mit insgesamt 2 Manntagen zu Buche schlagen. Die Gesamtsumme beträgt bei dem beschriebenen Vorgehen 22 Manntage.
 
 Da es sich bei dem Facebook-Auftritt nicht um ein “kritisches System” im Sinne der Verfügbarkeit der Anwendung handelt, bietet es sich an, die Webanwendungen im Rahmen einer Projekt- oder Bachelorarbeit umsetzen zu lassen. Neben der Tatsache, dass so die Gestaltung und Umsetzung “direkt durch die Zielgruppe” des Auftritts geschieht, können dadurch Kosten eingespart werden. Alternativ sollte auf studentische Hilfskräfte zurückgegriffen werden.
 
