@@ -31,3 +31,4 @@
 *.tdo
 main.lot
 .idea
+*.gz(busy)
