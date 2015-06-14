@@ -190,7 +190,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.3.4}Arbeitsgruppen zum Informationsaustausch und zur Informationsbereitstellung}{77}{subsection.5.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.3.4.1}Zahlen, Daten und Fakten (ZDF)}{78}{subsubsection.5.3.4.1}
+\contentsline {subsubsection}{\numberline {5.3.4.1}Zahlen, Daten und Fakten (ZDF)}{77}{subsubsection.5.3.4.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {5.3.4.2}WEB}{78}{subsubsection.5.3.4.2}
 \defcounter {refsection}{0}\relax 
@@ -206,7 +206,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {5.4.2.2}E-Learning in den Pr\IeC {\"a}senzstudieng\IeC {\"a}ngen}{79}{subsubsection.5.4.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.4.2.3}Einsatz von E-Learning-Anwendungen}{80}{subsubsection.5.4.2.3}
+\contentsline {subsubsection}{\numberline {5.4.2.3}Einsatz von E-Learning-Anwendungen}{79}{subsubsection.5.4.2.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{\numberline {5.4.2.3.1}Adobe Connect}{80}{paragraph.5.4.2.3.1}
 \defcounter {refsection}{0}\relax 
@@ -220,7 +220,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{\numberline {5.4.2.4.3}Verzeichnis Lehrende aus Leer}{81}{paragraph.5.4.2.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.4.2.5}Moodle vs. Datenlaufwerke f\IeC {\"u}r Pr\IeC {\"a}senzstudenten}{82}{subsubsection.5.4.2.5}
+\contentsline {subsubsection}{\numberline {5.4.2.5}Moodle vs. Datenlaufwerke f\IeC {\"u}r Pr\IeC {\"a}senzstudenten}{81}{subsubsection.5.4.2.5}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.4.3}Sicherheitsaspekte}{82}{subsection.5.4.3}
 \defcounter {refsection}{0}\relax 
@@ -232,13 +232,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {5.4.3.4}Fazit Sicherheitsrichtlinien}{83}{subsubsection.5.4.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.5}Repr\IeC {\"a}sentation von Informationen (TiK)}{84}{section.5.5}
+\contentsline {section}{\numberline {5.5}Repr\IeC {\"a}sentation von Informationen (TiK)}{83}{section.5.5}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.5.1}Studentengewinnung}{84}{subsection.5.5.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.5.2}Corporate Identity}{84}{subsection.5.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.5.3}Handling von Bewerberdaten}{84}{subsection.5.5.3}
+\contentsline {subsection}{\numberline {5.5.3}Handling von Bewerberdaten}{85}{subsection.5.5.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.6}Kooperations-Situation mit anderen Hochschulen (MaE)}{85}{section.5.6}
 \defcounter {refsection}{0}\relax 
@@ -248,11 +248,11 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.6.3}Eingesetzte IT-Systeme durch Mitgliedschaft im DFN-Verein}{86}{subsection.5.6.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.6.3.1}DFNRoaming/eduroam}{87}{subsubsection.5.6.3.1}
+\contentsline {subsubsection}{\numberline {5.6.3.1}DFNRoaming/eduroam}{86}{subsubsection.5.6.3.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {5.6.3.2}GigaMove der RWTH Aachen}{87}{subsubsection.5.6.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.6.3.3}DFNVideoConference (DFNVC)}{88}{subsubsection.5.6.3.3}
+\contentsline {subsubsection}{\numberline {5.6.3.3}DFNVideoConference (DFNVC)}{87}{subsubsection.5.6.3.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.6.4}Authentifizierung \IeC {\"u}ber das Shibboleth-Verfahren}{88}{subsection.5.6.4}
 \defcounter {refsection}{0}\relax 
@@ -262,7 +262,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {5.6.4.3}video2brain}{89}{subsubsection.5.6.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.6.5}Support der Dienste}{89}{subsection.5.6.5}
+\contentsline {subsection}{\numberline {5.6.5}Support der Dienste}{90}{subsection.5.6.5}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.7}Bewertung und Gewichtung (TiK)}{90}{section.5.7}
 \defcounter {refsection}{0}\relax 
