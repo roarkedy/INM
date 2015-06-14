@@ -1,0 +1,187 @@
+<<<<<<< HEAD
+\section{Definierte und bestehende Prozesse (Regelung und Handhabung von vorhandenen Informationen)(MaE)}
+
+\subsection{Wissensmanagement}
+Wissensmanagement ist für die Hochschule Emden/Leer ein sehr wichtiger Aspekt, da sie täglich mit dem Erwerb, der Entwicklung, dem Transfer sowie der Nutzung von Wissen konfrontiert wird. Für den Betrieb eines erfolgreichen Wissensmanagements ist ein klares Regelwerk die Voraussetzung.
+
+\subsection{E-Learning}
+E-Learning ist das Lehren und Lernen, welches durch elektronische Medien unterstützt wird. 
+Zum Einsatz kommen digitale Medien, wie zum Beispiel Computer, Smartphones, aber auch 
+das Internet dient als Konsummedium.\footnote{\url{http://team025.jimdo.com/unsere-vision/e-learning-eine-lernmethode-des-21-jahrhunderts/was-bedeutet-e-learning-eigentlich/}}
+=======
+\section{Regelung und Handhabung von vorhandenen Informationen(MaE)}
+
+\subsection{Wissensmanagement}
+Wissensmanagement ist eine Erweiterung der Informationsmanagementmaßnahmen. Dies bedeutet, dass nicht klar strukturierte Aufgaben, wie zum Beispiel Lernprozesse oder die Speicherung von Informationen besser bewältigt werden können. 
+
+Wissensmanagement ist auch für die Hochschule Emden/Leer ein sehr wichtiger Aspekt, da sie täglich mit dem Erwerb, der Entwicklung, dem Transfer sowie der Nutzung von Wissen konfrontiert wird. Für den Betrieb eines erfolgreichen Wissensmanagementsystems ist ein klares Regelwerk die Voraussetzung. 
+
+\subsection{E-Learning}
+E-Learning ist das Lehren und Lernen, welches durch elektronische Medien unterstützt wird. Zum Einsatz kommen digitale Medien, wie zum Beispiel Computer oder Smartphone. Die Übermittlung von Lerninhalten erfolgt über verschiedenste Kanäle wie zum Beispiel das Internet, Computersoftware, Chatsysteme oder durch den Einsatz eines LMS (Learning Management System). Ein sehr bekanntes LMS ist die Plattform Moodle. \footnote{\url{http://team025.jimdo.com/unsere-vision/e-learning-eine-lernmethode-des-21-jahrhunderts/was-bedeutet-e-learning-eigentlich/}}
+>>>>>>> c3e99cfb14eef74500d6567a8cc8fc7e95201fc9
+
+\subsubsection{E-Learning an der Hochschule Emden/Leer}
+E-Learning ist an der Hochschule Emden/Leer ein sehr wichtiges Thema, da die Studiengänge Medieninformatik (Online) und seit 2015 Wirtschaftsinformatik (Online) akkreditiert  wurden. Nun soll dargelegt werden, ob in den Präsenzstudiengängen ebenfalls das Thema E-Learning Einzug gehalten hat.
+
+\subsubsection{E-Learning in den Präsenzstudiengängen}
+<<<<<<< HEAD
+Es soll betrachtet werden, in welchen Präsenzstudiengängen E-Learning eingesetzt wird.
+
+Der Fachbereich SAG (Soziale Arbeit und Gesundheit) ist der Vorreiter aller Fachbereiche mit der Einführung eines E-Learning Systems. SAG setzt mehr als 200 Onlinekurse im Präsenzstudium ein. Auch für die Anmeldung an verschiedenen Kursen kommt ein Online-System zum Einsatz.
+
+=======
+Es soll nun betrachtet werden, in welchen Präsenzstudiengängen E-Learning eingesetzt wird.
+
+Der Fachbereich SAG (Soziale Arbeit und Gesundheit) ist der Vorreiter aller Fachbereiche mit der Einführung eines E-Learning Systems gewesen. SAG setzt mehr als 200 Onlinekurse im Präsenzstudium ein. Für die Anmeldung an verschiedenen Kursen oder auch für die Klausuranmeldung kommt ein Online-System zum Einsatz.
+
+>>>>>>> c3e99cfb14eef74500d6567a8cc8fc7e95201fc9
+Es folgt dann der Fachbereich Technik, in dem E-Learning ebenfalls sehr stark verbreitet ist, da die Studiengänge Medieninformatik und Wirtschaftsinformatik als reine Onlinestudiengänge in diesem integriert sind.
+
+Weniger stark wird E-Learning vom Fachbereich Wirtschaft betrieben. Das geringste Nutzungsverhalten ist im Fachbereich Seefahrt zu verzeichnen.
+
+Trotz des unterschiedlichen Nutzungsverhaltens hat E-Learning in allen Fachbereich Einzug gehalten.
+
+\subsubsection[Einsatz von E-Learning-Anwendungen]{Einsatz von E-Learning-Anwendungen in den Präsenzstudiengängen}
+In diesem Abschnitt wird erläutert, ob die Anwendungen Adobe Connect und Moodle im Präsenzstudiengang eingesetzt werden.
+
+\paragraph{Adobe Connect}\mbox{} \\
+
+<<<<<<< HEAD
+Adobe Connect ist eine Kommunikationsplattform zur Bereitstellung von Webmeetings -und E-Learning-Inhalten.
+
+Ausschließlich der Fachbereich Technik (E+I) nutzt durch seine Onlinestudiengänge die Plattform Adobe Connect als Medium des visuellen Austausches von Bild und Sprache. In den Präsenzstudiengängen kommt die Plattform nicht zum Einsatz, da der persönliche Austausch von Studierenden und Dozenten in den täglichen Präsenzen stattfindet.
+
+\paragraph{Moodle}\mbox{} \\
+
+\label{paragraph_moodle}
+Die Hochschule Emden/Leer setzt Moodle als Lernplattform ein (siehe Abbildung \ref{fig_moodle}). Moodle ist ein freies objektorientiertes Kursmanagementsystem, welches prädestiniert ist für den Einsatz von E-Learning Inhalten.\footnote{\url{https://moodle.hs-emden-leer.de/moodle/}}
+=======
+Adobe Connect ist eine Kommunikationsplattform zur Bereitstellung von Webmeeting- und E-Learning-Inhalten.
+
+Ausschließlich der Fachbereich Technik (E+I) nutzt durch seine Onlinestudiengänge die Plattform Adobe Connect als Medium des visuellen Austausches von Bild und Sprache. In den Präsenzstudiengängen kommt die Plattform nicht zum Einsatz, da der persönliche Austausch von Studierenden und Dozenten in den täglichen Präsenzen stattfindet.
+
+\paragraph{Moodle}\mbox{}\\\\
+\label{paragraph_moodle}
+
+Die Hochschule setzt Moodle als Lernplattform ein (siehe Abbildung \ref{fig_moodle}). Moodle ist ein freies objektorientiertes Kursmanagementsystem, welches den Fokus auf E-Learning Inhalte setzt.\footnote{\url{https://moodle.hs-emden-leer.de/moodle/}}
+>>>>>>> c3e99cfb14eef74500d6567a8cc8fc7e95201fc9
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=8cm]{kapitel/gruppe2/bilder/moodle}
+	\caption{Übersicht Moodle für alle}
+	\label{fig_moodle}
+\end{figure}
+
+Durch den Einsatz von Moodle in allen Fachbereichen, wird das volle Leistungsspektrum des Systems ausgenutzt. Folgende Funktionalitäten werden angeboten:
+\begin{itemize}
+	\item Lernvideos
+	\item Vorlesungsskripte
+	\item Forum
+	\item Kalender
+	\item Mail-Connect
+\end{itemize}
+
+Für jeden Fachbereich wird der volle Funktionsumfang der Plattform zur Verfügung gestellt, auch wenn nicht jeder Fachbereich jeden Service nutzt. 
+
+\subsubsection{Zentrale Informationsbereitstellung durch Datenlaufwerke}
+<<<<<<< HEAD
+Für alle beteiligten der Hochschule Emden/Leer werden drei Datenlaufwerke (siehe Abbildung 5.7) auf den Fileservern der Hochschule zur Verfügung gestellt.\footnote{\url{https://connect.hs-emden-leer.de/cgi-bin/portal}}
+=======
+Für alle Beteiligten der Hochschule werden drei Datenlaufwerke (siehe Abbildung \ref{fig_zugriff_datenlaufwerke_extern}) auf den Fileservern des internen eigenen Rechenzentrums zur Verfügung gestellt.\footnote{\url{https://connect.hs-emden-leer.de/cgi-bin/portal}}
+>>>>>>> c3e99cfb14eef74500d6567a8cc8fc7e95201fc9
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=8cm]{kapitel/gruppe2/bilder/zugriff_auf_laufwerke_extern}
+	\caption{Zugriff auf die Datenlaufwerke von extern}
+	\label{fig_zugriff_datenlaufwerke_extern}
+\end{figure}
+
+
+\paragraph{Laufwerk Z}\mbox{} \\
+
+<<<<<<< HEAD
+Auf dem Laufwerk Z befinden sich die Daten des Home-Verzeichnisses jedes einzelnen Benutzers. Meldet sich dieser an beliebigen Rechnern des Rechnerpools an, werden die Inhalte Ihres Home-Verzeichnisses automatisch eingebunden. Der interne Zugriff auf die eigenen Dateien ist von jedem Rechner des Pools möglich, da servergespeicherte Profile zum Einsatz kommen. Auch von extern können die Studierenden problemlos auf die Ressourcen der Datenlaufwerke zugreifen.
+=======
+Auf dem Laufwerk Z befinden sich die Daten des Home-Verzeichnisses jedes einzelnen Benutzers. Meldet sich dieser an beliebigen Rechnern des internen Rechnerpools an, werden die Inhalte Ihres Home-Verzeichnisses automatisch eingebunden. Der interne Zugriff auf die eigenen Dateien ist von jedem Rechner des Pools möglich, da servergespeicherte Profile zum Einsatz kommen. Auch von extern können die Studierenden problemlos auf die Ressourcen der Datenlaufwerke zugreifen.
+>>>>>>> c3e99cfb14eef74500d6567a8cc8fc7e95201fc9
+
+\paragraph{Laufwerk Y}\mbox{} \\
+
+Für den gemeinsamen Austausch der Daten wurde das Transferlaufwerk Y eingerichtet. Hier werden zentral Ressourcen für alle Studierenden und Lehrenden aus Emden zum Austausch zur Verfügung gestellt.
+
+\paragraph{Verzeichnis Lehrende aus Leer}\mbox{} \\
+
+<<<<<<< HEAD
+Zusätzlich zum Transferlaufwerk steht das Verzeichnis der Lehrenden aus Leer  zur Verfügung. Dieses Laufwerk wird zur Bereitstellung von Inhalten, wie zum Beispiel Vorlesungsmaterialien, verwendet.
+=======
+Zusätzlich zum Transferlaufwerk wird das Laufwerk "Verzeichnis Lehrende aus Leer" zur Verfügung gestellt. Dieses Laufwerk wird zur Bereitstellung von Inhalten (Vorlesungsmaterialien) verwendet.
+>>>>>>> c3e99cfb14eef74500d6567a8cc8fc7e95201fc9
+
+\subsubsection{Moodle vs. Datenlaufwerke für Präsenzstudenten}
+An der Moodle-Lernplattform melden sich die Nutzer über eine webbasierte Oberfläche am System an. Um Dateien zur Verfügung zu stellen, muss auf der Weboberfläche zu den gewünschten Reitern navigiert werden.
+
+<<<<<<< HEAD
+Stellt man die Datenlaufwerke (Y Laufwerk und Transferlaufwerk der Lehrenden aus Leer) der Moodle-Plattform gegenüber und betrachtet nur den Aspekt des Datenaustausches, so wird deutlich, dass der Dateiaustausch über   Datenlaufwerke in Bezug auf Komfort und Aufwand deutlich besser für die Präsenzstudierenden geeignet ist, als die Dateiablage über die Moodle-Plattform. Die über die Datenlaufwerke zur Verfügung gestellten Inhalte können von den Studierenden mit wenig Aufwand intuitiv erreicht werden.
+=======
+Stellt man die Datenlaufwerke (Laufwerk Y und das Transferlaufwerk "Verzeichnis Lehrende aus Leer") der Moodle-Plattform gegenüber und betrachtet nur den Aspekt des Datenaustausches, so wird deutlich, dass der Dateiaustausch über Datenlaufwerke in Bezug auf Komfort und Aufwand deutlich besser für die Präsenzstudierenden geeignet ist, als die Dateiablage über die Moodle-Plattform. Die über die Datenlaufwerke zur Verfügung gestellten Inhalte können von den Studierenden mit wenig Aufwand intuitiv erreicht werden.
+>>>>>>> c3e99cfb14eef74500d6567a8cc8fc7e95201fc9
+
+Aus dem Interview mit dem Rechenzentrumsleiter Herrn Günter Müller kristallisierte sich heraus, dass der Fachbereich Wirtschaft die Datenlaufwerke am stärksten und der Fachbereich Technik und andere Fachbereiche diese weniger stark nutzen.
+
+\subsection{Sicherheitsaspekte}
+<<<<<<< HEAD
+In diesem Kapitel wird auf die bereits verwendeten Sicherheitsrichtlinien und dem IT-Service-Management (ITSM)  Prozess an der Hochschule Emden/Leer detaillierter eingegangen.
+=======
+In diesem Kapitel wird auf die bereits verwendeten Sicherheitsrichtlinien an der Hochschule detaillierter eingegangen. Weiterhin wird geprüft ob ein ITSM (IT-Service-Management) Prozess etabliert ist.
+>>>>>>> c3e99cfb14eef74500d6567a8cc8fc7e95201fc9
+
+\subsubsection{Sicherheitsrichtlinien an der Hochschule}
+Der Einsatz von Sicherheitsrichtlinien ist ein wichtiges Thema an Hochschulen. Sicherheitsrichtlinien beschreiben die Sicherstellung von Verfügbarkeit, Integrität, Vertraulichkeit und Authentizität von Informationen.
+<<<<<<< HEAD
+An der Hochschule Emden/Leer werden als Basis für die Informationssicherheit Teile des IT-Grundschutz-Kataloges umgesetzt. Nicht alle Empfehlungen des BSI sind an einer kleinen Hochschule, wie die Hochschule Emden/Leer es ist,  umsetzbar.
+
+An den Serverräumen der Hochschule ist die Umsetzung der IT-Grundschutzmaßnahmen deutlich zu erkennen.
+Folgende physikalische Schutzmaßnahmen wurden an der Hochschule Emden/Leer in den Serverräumen umgesetzt:
+=======
+
+An der Hochschule werden als Basis für die Informationssicherheit Teile des IT-Grundschutz-Kataloges umgesetzt. Nicht alle Empfehlungen des BSI (Bundesamt für Sicherheit in der Informationstechnik) sind an einer kleinen Hochschule, wie die Hochschule Emden/Leer es ist,  umsetzbar. Das BSI ist eine nationale Sicherheitsbehörde deren Ziel es ist die IT-Sicherheit in Deutschland voran zu bringen. Somit ist das BSI ein zentraler IT-Sicherheitsdienstleister des Bundes.\footnote{\url{https://www.bsi.bund.de/DE/DasBSI/dasbsi_node.html}}
+
+An den Serverräumen der Hochschule ist die Umsetzung der IT-Grundschutzmaßnahmen deutlich zu erkennen.
+Folgende physikalische Schutzmaßnahmen wurden in den Serverräumen umgesetzt:
+>>>>>>> c3e99cfb14eef74500d6567a8cc8fc7e95201fc9
+
+\begin{itemize}
+	\item einbruchssicher
+	\item feuergemeldet
+	\item videoüberwacht
+	\item Lage der Serverräume im 1. OG (Wasserschutz)
+\end{itemize}
+
+\subsubsection{Einsatz von ITIL}
+<<<<<<< HEAD
+Die IT Infrastructure Libary (ITIL) ist eine Sammlung von Best Practises zur Umsetzung eines IT-Service-Managements (ITSM). In diesem Regelwerk werden die für den Betrieb einer IT-Infrastruktur notwendigen Prozesse und Werkzeuge beschrieben.\footnote{\url{http://wirtschaftslexikon.gabler.de/Definition/itil.html}}
+
+Der ITIL-Prozess ist an der Hochschule Emden/Leer nicht etabliert, da die Personaldecke für die Umsetzung eines 1st- und 2nd-Level Supports nicht gegeben ist.
+=======
+Die IT Infrastructure Libary (ITIL) ist eine Sammlung von Best Practises zur Umsetzung eines ITSM (IT-Service-Management) Prozesses. In diesem Regelwerk werden die für den Betrieb einer IT-Infrastruktur notwendigen Prozesse und Werkzeuge beschrieben. ITIL gilt gilt als De-Facto-Standard. Eine Zertifizierung ist nicht für Unternehmen sondern nur für Personen möglich. Unternehmen können sich nach ISO 20000 zertifizieren lassen. \footnote{\url{http://wirtschaftslexikon.gabler.de/Definition/itil.html}}
+
+Der ITIL-Prozess ist an der Hochschule Emden/Leer nicht umgesetzt, da die Personaldecke für die Umsetzung eines 1st- und 2nd-Level Supports nicht gegeben ist.
+>>>>>>> c3e99cfb14eef74500d6567a8cc8fc7e95201fc9
+
+\subsubsection{Umsetzung von ISO/IEC 27001}
+Die ISO/IEC 27001 Zertifizierung wird auf Basis des IT-Grundschutzes vergeben. Durch die Zertifizierung des ISO/IEC 27001 Standards haben Unternehmen, Behörden und Organisationen die Möglichkeit, ihre Bemühungen um Informationssicherheit nach innen und außen zu dokumentieren.\footnote{\url{https://www.bsi.bund.de/DE/Themen/ZertifizierungundAnerkennung/Zertifizierung27001/GS_Zertifizierung_node.html}}
+
+<<<<<<< HEAD
+Das Einsatzszenario ist an der Hochschule Emden/Leer nicht gegeben, da für Umsetzung die Personaldichte zu gering ist. Für die Erfüllung der Zertifizierung würde ein riesiger Personaloverhead entstehen.
+
+\subsubsection{Fazit Sicherheitsrichtlinien}
+Abschließend ist zu sagen, dass an der Hochschule Emden/Leer der IT-Sicherheitsaspekt ein sehr wichtiges Thema ist. Als kleine Hochschule ist es auf Grund der Personaldichte nicht möglich, alle Empfehlungen des BSI-Grundschutzes, ITIL und ISO/IEC 27001 umzusetzen. Jedoch sucht sich die Hochschule aus den Regelwerken die Empfehlungen heraus, die auf Grund der Personaldichte umsetzbar sind.  Dies bildet eine sehr gute Basis im Hinblick auf das sehr anspruchsvolle Thema IT-Sicherheit.
+=======
+Das Einsatzszenario ist an der Hochschule nicht gegeben, da für Umsetzung die Personaldichte zu gering ist. Für die Erfüllung der Zertifizierung würde ein riesiger Personaloverhead entstehen.
+
+\subsubsection{Fazit Sicherheitsrichtlinien}
+Abschließend ist zu sagen, dass an der Hochschule Emden/Leer der IT-Sicherheitsaspekt ein sehr wichtiges Thema ist. Als kleine Hochschule ist es auf Grund der Personaldichte nicht möglich, alle Empfehlungen des BSI-Grundschutzes, ITIL und ISO/IEC 27001 umzusetzen. Jedoch sucht sich die Hochschule aus den Regelwerken die Empfehlungen heraus, die auf Grund der Personaldichte umsetzbar sind. Dies bildet eine sehr gute Basis im Hinblick auf das sehr anspruchsvolle Thema IT-Sicherheit.
+>>>>>>> c3e99cfb14eef74500d6567a8cc8fc7e95201fc9
+
