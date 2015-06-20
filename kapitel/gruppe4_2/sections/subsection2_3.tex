@@ -29,53 +29,14 @@ Die Aktivitäten werden, wie das Beispiel zeigt, vertikal erfasst. Die horizonta
 Es gilt zu beachten, dass für jede Komponente die innerhalb des Projekts umgesetzt werden soll, ein solches Diagramm erstellt wird. Damit wird der hohen Modularität des Projekts Rechnung getragen und eine entsprechend agile Priorisierung der umzusetzenden Komponenten ist möglich. Die Reihenfolge der Umsetzung ist somit frei wählbar, ohne dabei die Möglichkeit einer zeitlichen Planung bei der Umsetzung innerhalb Komponente zu verlieren.
 
 \subsubsection{Meilensteintrendanalyse}
-Die Meilensteintrendanalyse (MTA) ist ein wichtiges und dabei einfach anzuwendendes Werkzeug zur Überwachung essentieller Projekttermine. In diesem Zusammenhang werden Projekttermine auch Meileinsteine genannt. Die MTA liefert dabei zwei grundlegende Informationen: Einerseits liefert sie einen Überblick über die Entwicklung zukünftiger Termine, andererseits lässt sich anhand dieser Entwicklung die Stabilität der Terminprognosen erkennen.\footnote{\cite{gadatsch_masterkurs_2014}}
+Die Meilensteintrendanalyse (MTA) ist ein wichtiges und dabei einfach anzuwendendes Werkzeug zur Überwachung essentieller Projekttermine. In diesem Zusammenhang werden Projekttermine auch Meilensteine genannt. Die MTA liefert dabei zwei grundlegende Informationen: Einerseits liefert sie einen Überblick über die Entwicklung zukünftiger Termine, andererseits lässt sich anhand dieser Entwicklung die Stabilität der Terminprognosen erkennen.\footnote{\cite{gadatsch_masterkurs_2014}}
 
-Abbildung \ref{fig_MTA_aufteilung_achsen} zeigt exemplarisch den Aufbau eines MTA-Diagramms:
+Abbildung \ref{fig_MTA_diagramme} zeigt exemplarisch den Aufbau eines MTA-Diagramms:
 \begin{figure}[h!]
 	\centering
-	\includegraphics[width=10cm]{kapitel/gruppe4_2/bilder/MTA_aufteilung_achsen}
-	\caption{Aufteilung der Achsen der MTA}
-	\label{fig_MTA_aufteilung_achsen}
+	\includegraphics{kapitel/gruppe4_2/bilder/mta_diagramme}
+	\caption{Mögliche Ausprägungen der MTA Diagramme}
+	\label{fig_MTA_diagramme}
 \end{figure}
 
-Wie in der Abbildung zu erkennen ist, besitzt ein MTA-Diagramm, wie auch das Gantt-Diagramm, zwei Dimensionen. Auf der horizontalen Achse werden die Berichtstermine in vorher vereinbarten und regelmäßigen Abständen aufgetragen. Die horizontale Achse ist mit den geplanten Projekterminen (Meilensteinen) beschriftet. Die Schnittstellen der Achsen geben das aktuelle, möglicherweise korrigierte Fälligkeitsdatum des Meilensteins zum Zeitpunkt des Berichts an. In jedem Bericht müssen die Meilensteintermine neu bewertet werden. Dabei ist es irrelevant ob der Temrin sich nach hinten verschiebt, der Termin dem der letzten Beurteilung entspricht oder das geplante Datum unterschritten werden kann. Die Ergebnisse dieser Beurteilungen werden in dem Diagramm eingetragen, woraus sich im Laufe des Projekts Kurven ergeben. Diese Kurven entsprechen in der Regel einem der drei typischen Verläufe:
-
-\begin{itemize}
-	\item Flache Kurve, entspricht dem Idealverlauf
-	\item Fallende Kurve, entspricht der Pessimistenschätzung
-	\item Steigende Kurve, entspricht der Optimistenschätzung
-\end{itemize}
-
-Eine fallende Kurve bedeutet, dass die ursprünglich geplanten Termine schneller erreicht wurden, während eine steigende Kurve zeigt, dass die Termine entsprechend überschritten wurden.
-
-Je kleiner der Intervall zwischen den Berichtsterminen gewählt wird, desto feiner ist die Granularität der resultierenden Kurven, wodurch die Genauigkeit des Vergleichs zwischen ursprünglich geplanten Meilensteinterminen und den während Projektausführung prognostizierten Terminen steigt.\footnote{\cite{gadatsch_masterkurs_2014}}
-
-Die höhere Genauigkeit ermöglicht es, kleinste Änderungen in dem ursprünglich geplanten Enddatum des Projekts zu registrieren, um entsprechend darauf reagieren zu können. Nachfolgende Abbildungen \ref{fig_MTA_idealverlauf}, \ref{fig_MTA_pessimistenkurve} und \ref{fig_MTA_optimistenkurve} stellen die gängigsten Kurvenverläufe einer MTA dar.
-
-\begin{figure}[h!]
-	\centering
-	\includegraphics[width=10cm]{kapitel/gruppe4_2/bilder/MTA_idealverlauf}
-	\caption{Idealverlauf der MTA-Kurven}
-	\label{fig_MTA_idealverlauf}
-\end{figure}
-
-Abbildung \ref{fig_MTA_idealverlauf} zeigt die Kurve des Idealverlaufs. Es ist zu erkennen, dass nur eine geringe Anzahl an Korrekturen der Meilensteintermine nötig war. Die meisten Termine sind während der Projektausführung gleich geblieben.
-
-\begin{figure}[h!]
-	\centering
-	\includegraphics[width=10cm]{kapitel/gruppe4_2/bilder/MTA_pessimistenkurve}
-	\caption{Kurvenverlauf der Pessimistenschätzung}
-	\label{fig_MTA_pessimistenkurve}
-\end{figure}
-
-Die fallenden Kurven in Abbildung \ref{fig_MTA_pessimistenkurve} zeigen, dass die Termine initial zu pessimistisch geschätzt wurden und häufig nach unten korrigiert werden mussten. Eine Ursache hierfür können zu großzügig geplante Puffer sein.
-
-\begin{figure}[h!]
-	\centering
-	\includegraphics[width=10cm]{kapitel/gruppe4_2/bilder/MTA_optimistenkurve}
-	\caption{Kurvenverlauf der Optimistenschätzung}
-	\label{fig_MTA_optimistenkurve}
-\end{figure}
-
-Die in Abbildung \ref{fig_MTA_optimistenkurve} gezeigte Kurve entspricht dem am häufigsten auftretenden Verlauf einer Meileinsteinkurven. Die Termine werden nach hinten korrigiert wodurch der typische treppenartige Verlauf zustande kommt. Ursachen hierfür können Fehleinschätzungen oder unerwartete Störungen sein.\footnote{\cite{gadatsch_masterkurs_2014}}
+In der Abbildung ist zu erkennen, dass ein MTA-Diagramm zwei Dimensionen besitzt. Auf der horizontalen Achse werden die Berichtstermine in vorher vereinbarten und regelmäßigen Abständen aufgetragen. Die horizontale Achse ist mit den geplanten Projekterminen (Meilensteinen) beschriftet. Die Schnittstellen der Achsen geben das aktuelle, möglicherweise korrigierte Fälligkeitsdatum des Meilensteins zum Zeitpunkt des Berichts an. In jedem Bericht müssen die Meilensteintermine neu bewertet werden. Dabei ist es irrelevant ob der Termin sich nach hinten verschiebt, der Termin dem der letzten Beurteilung entspricht oder das geplante Datum unterschritten werden kann. Die Ergebnisse dieser Beurteilungen werden in dem Diagramm eingetragen, woraus sich im Laufe des Projekts Kurven ergeben. Diese Kurven entsprechen in der Regel einem der drei typischen Verläufe. Die fallenden Kurven in Abbildung 8.9 zeigen, dass die Termine initial zu pessimistisch geschätzt wurden und häufig nach unten korrigiert werden mussten, eine steigende Kurve bedeutet das Termine zu optimistisch geschätzt wurden und die weitestgehend gerade verlaufende Kurve stellt den Idealverlauf dar.\footnote{\cite{gadatsch_masterkurs_2014}}
