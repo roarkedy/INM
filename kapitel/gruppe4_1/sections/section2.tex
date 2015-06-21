@@ -13,12 +13,12 @@ Im Rahmen der Migrationsplanung werden die verschiedenen Phasen der Migration ge
 	\label{fig_vorgehensmodell_softwaremigration}	
 \end{figure}
 
-Das in Abbildung \ref{fig_vorgehensmodell_softwaremigration} ersichtliche Vorgehensmodell beschreibt die verschiedenen, notwendigen Phasen, die einer Migration vorausgehen. Die Genauigkeit dieser Planung ist hierbei maßgeblich für den späteren Erfolg der Migration. Im Rahmen dieser Ausarbeitung wurde beispielsweise die in der Abbildung ersichtliche Methodik des Experteninterviews angewandt, um Grundlagen für die Ist-Analyse zu erhalten.
+Das in Abbildung \ref{fig_vorgehensmodell_softwaremigration} ersichtliche Vorgehensmodell beschreibt die verschiedenen, notwendigen Phasen, die einer Migration vorausgehen. Die Genauigkeit dieser Planung ist hierbei maßgeblich für den späteren Erfolg der Migration. Im Rahmen dieser Ausarbeitung wurde beispielsweise die in der Abbildung ersichtliche Methodik des Experteninterviews (vgl. Kapitel 5.2) angewandt, um Grundlagen für die Ist-Analyse zu erhalten.
 
-In der Auswahlphase sind hierbei strategische, rechtliche und wirtschaftliche Aspekte zu berücksichtigen, ebenso wie der spätere Systembetrieb, die notwendigen organisatorischen Aspekte und Anforderungen an die Sicherheit der Systeme. Nach der Entscheidungsempfehlung werden dann eine oder mehrere Migrationsstrategien für die Einführung der neuen und die Ablösung der alten Software festgelegt.
+In der Auswahlphase sind hierbei strategische, rechtliche und wirtschaftliche Aspekte zu berücksichtigen, ebenso wie der spätere Systembetrieb, die notwendigen organisatorischen Aspekte und Anforderungen an die Sicherheit der Systeme (vgl. Kapitel 5.4.3). Nach der Entscheidungsempfehlung in Kapitel 6.4 werden dann eine oder mehrere Migrationsstrategien für die Einführung der neuen und die Ablösung der alten Software festgelegt.
 
 \subsection{Migrationsstrategien}
-Die Wahl der Migrationsstrategie ist jeweils fallbezogen zu prüfen. Es ist auch denkbar, für verschiedene Systeme verschiedene Strategien zu nutzen. Nachfolgend werden auszugweise durch Prof. Dr. Markus Nüttgens\footnote{\url{http://www.enzyklopaedie-der-wirtschaftsinformatik.de/wi-enzyklopaedie/lexikon/is-management/Integration-und-Migration-von-IT-Systemen/Ablosung-von-Altsystemen}} beschriebene Migrationsstrategien aufgeführt, welche in Abschnitt \ref{subsection_migrationsbeispiele} hinsichtlich der Verwendung durch die Migrationsbeispiele der Hochschule beleuchtet werden.
+Die Wahl der Migrationsstrategie ist jeweils fallbezogen zu prüfen. Es ist auch denkbar, für verschiedene Systeme verschiedene Strategien zu nutzen. Nachfolgend werden auszugweise durch Prof. Dr. Markus Nüttgens\footnote{\url{http://www.enzyklopaedie-der-wirtschaftsinformatik.de/wi-enzyklopaedie/lexikon/is-management/Integration-und-Migration-von-IT-Systemen/Ablosung-von-Altsystemen}, abgerufen am 28.05.2015} beschriebene Migrationsstrategien aufgeführt, welche in Abschnitt \ref{subsection_migrationsbeispiele} hinsichtlich der Verwendung durch die Migrationsbeispiele der Hochschule beleuchtet werden.
 
 \begin{itemize}
 	\item \textbf{Big Bang Approach (Cold Turkey Strategy):} Hierbei wird das Altsystem von Grund auf neu entwickelt und zu einem bestimmten Zeitpunkt zur Verfügung gestellt.	
@@ -38,30 +38,31 @@ Die Wahl der Migrationsstrategie ist jeweils fallbezogen zu prüfen. Es ist auch
 
 Die Hochschule Emden/Leer nutzt derzeit für Ihren Internetauftritt das Enterprise Content Management System TYPO3 in der Version 4.5. Die Dokumentenverwaltungssoftware Alfresco wird derzeit noch nicht genutzt. 
 
-Die folgenden Beispiele behandeln eine mögliche Migration von TYPO3 auf eine aktuelle Version inkl. Erstellung eines responsive Designs, sowie die Neueinführung von Alfresco. Da die aktuelle Version von Alfresco auch die Möglichkeit bietet Web Content zu verwalten, wäre theoretisch auch eine Migration des derzeitigen Internetauftritts in ein neu eingeführtes Alfresco-System denkbar.
+Nachfolgend wird exemplarisch eine mögliche Migration von TYPO3 auf eine aktuelle Version inkl. Erstellung eines responsive Designs beleuchtet. Im Rahmen der Kostenersparnis wird nicht von einer kompletten Neuentwicklung ausgegangen, sondern von einer schrittweisen Migration des derzeitigen Systems in eine aktuelle Version. Dies bietet den Vorteil, dass eine aufwändige Datenübernahme hinfällig wird. Ferner wird die Neueinführung von Alfresco als zentraler Bestandteil für ein Dokumentenmanagement untersucht. Da die aktuelle Version von Alfresco auch die Möglichkeit bietet Web Content zu verwalten, wäre theoretisch auch eine Migration des derzeitigen Internetauftritts in ein neu eingeführtes Alfresco-System denkbar.
 
 \subsubsection{Responsive Website mit TYPO3}
-TYPO3\footnote{\url{http://typo3.org/typo3-cms/overview/}, abgerufen am 28.05.2015} ist ein Open Source Enterprise Content Management System zur Verwaltung webbasierter Inhalte. Es ist multilingual, hoch skalierbar und bietet ein aktives Sicherheitsmanagement.
+TYPO3\footnote{\url{http://typo3.org/typo3-cms/overview/}, abgerufen am 28.05.2015} ist ein Open Source Enterprise Content Management System (ECMS oder kurz CMS) zur Verwaltung webbasierter Inhalte. Es ist multilingual, hoch skalierbar und bietet ein aktives Sicherheitsmanagement.
 
 \paragraph{Ist-Zustand}
 Die Hochschule Emden/Leer nutzt derzeit ein TYPO3-Sytem in der Version 4.5 LTS (Long Term Support). Das System ist derzeit noch nicht für die Anforderungen mobiler Endgeräte (responsive Design) gerüstet. Es werden verschiedene Extensions von TYPO3 genutzt, möglicherweise auch eigens für die Hochschule entwickelte Extensions. Mitarbeiter und Studenten sind als Benutzer innerhalb des CMS angelegt und können sich in einen geschützten Bereich über die Extension FE-Login anmelden.
 
-Für die derzeit eingesetzte Version von TYPO3 gibt es keinen Support mehr, so dass – weder für den TYPO3-Kern, noch für die Extensions – neue Sicherheitspatches zur Verfügung gestellt werden. Dies stellt ein Sicherheitsrisiko für die Hochschule dar. Allein aus diesem Grund sollte eine Migration auf ein aktuelles System erwogen werden. Ferner nutzt ein Großteil der Besucher mobile Endgeräte, die aktuell nicht unterstützt werden.
+Für die derzeit eingesetzte Version von TYPO3 gibt es keinen Support mehr, so dass – weder für den TYPO3-Kern, noch für die Extensions – neue Sicherheitspatches zur Verfügung gestellt werden. Dies stellt ein potentielles Sicherheitsrisiko für die Hochschule dar. Allein aus diesem Grund sollte eine Migration auf ein aktuelles System erwogen werden. Ferner nutzt ein Großteil der Besucher mobile Endgeräte, die aktuell nicht unterstützt werden.
 
 \paragraph{Soll-Zustand}\mbox{}\\
-Das neue System soll über folgende Merkmale verfügen:
-\begin{itemize}
-\item lange Support-Zeit, damit Sicherheitspatches eingespielt werden können
-\item Unterstützung von mobilen Endgeräten
-\item Übernahme bestehender Extensions oder Vorhandensein von Alternativen hierzu
-\item Barrierefreiheit, damit auch Benutzer mit Handicap den Internetauftritt besuchen können
-\item Suchmaschinenoptimierung (SEO)
-\item Anbindung an die Benutzerverwaltung (Single-Sign-On) der Hochschule (bereits realisiert)
-\end{itemize}
-Hierzu wird zunächst ein strategisch günstiger Migrationsplan erstellt.
+Ein neues System sollte über Merkmale verfügen, die sowohl dem aktuellen Stand der Technik, als auch den Anforderungen an das Informationsmanagement genügen. Hierbei ist es notwendig, darauf zu achten, dass das neue System möglichst langen Support seitens der TYPO3 Association aufweist. Dadurch ist es möglich im Rahmen der Supportzeit Sicherheitsupdates zu erhalten. 
+
+Um den die vermehrte Nutzung von mobilen Endgeräten seitens der Benutzer abzudecken soll das neue System eine Auslieferung des Contents für mobile Endgeräte unterstützen. 
+
+Bisher genutzte Extensions sollten – falls technisch realisierbar – erhalten bleiben, ansonsten ist das Vorhandensein von Alternativen zu prüfen. 
+
+Um auch Benutzern mit Handicap die Nutzung des Internetauftritts zu ermöglichen ist es sinnvoll Barrierefreiheit zu implementieren. 
+
+Im Rahmen des Informationsmanagements stellt der Internetauftritt die Außenwirkung der Hochschule dar und transportiert Information zu Benutzern und Interessenten. Eine Auffindung dieser Information bereits über Suchmaschinenanfragen kann einen wirtschaftlichen Vorteil durch Gewinnung neuer Interessenten nach sich ziehen. Die Optimierung des neuen Internetauftritts für Suchmaschinen (SEO - Search Engine Optimization) ist deshalb von Vorteil. Ferner ist eine Anbindung an die Benutzerverwaltung (Single Sign On) für einen einfachen Informationsaustausch aus Benutzersicht hilfreich. Im Interview mit dem Rechenzentrumsleiter der Hochschule Emden/Leer, Herrn Günter Müller (vgl. Kapitel 5.2), bestätigte dieser, dass Single Sign On bereits für den derzeitigen Internetauftritt realisiert ist. 
+
+Um eine Migration durchführen zu können, wird zunächst ein Migrationsplan erstellt.
 
 \paragraph{Migrationsplan}\mbox{}\\
-Um einen möglichst langen Supportzeitraum zu gewährleisten ist die Verwendung einer LTS-Version (Long Term Support) anzuraten. Die derzeit aktuelle Version ist 6.2.12 LTS (Stand 27.05.2015), welche noch bis Ende März 2017 supportet wird.
+Um einen möglichst langen Supportzeitraum zu gewährleisten ist die Verwendung einer LTS-Version (Long Term Support) anzuraten. Die derzeit aktuelle Version ist 6.2.13 LTS (Stand 10.06.2015), welche noch bis Ende März 2017 supportet wird.
 
 Derzeit ist bereits die Version 7.2.0 verfügbar, allerdings noch nicht als LTS-Version. Diese ist für Herbst 2015 avisiert. 
 
@@ -70,7 +71,7 @@ Da die Migration einige Zeit in Anspruch nehmen wird, ist es sinnvoll, direkt au
 Vor der Migration ist eine Überprüfung aller derzeit genutzten Extensions erforderlich. Dabei muss geprüft werden, ob diese in der neuen Version noch gültig und lauffähig sind. Ist dies nicht der Fall, müssen Alternativen gesucht werden und deren Realisierung in die Planung einfließen. Insbesondere selbst geschriebene Extensions müssen hinsichtlich der Lauffähigkeit überprüft und ggf. ein Konzept zur Anpassung erstellt werden.
 
 \subparagraph{Hardwareanforderungen}\mbox{}\\
-Für eine erfolgreiche Migration sind bestimmte Hardwareanforderungen Voraussetzung. Unter anderem muss mindestens PHP 5.5, MySQL 5.5 und mehr als 200 MB freier Plattenplatz zur Verfügung stehen. Die genauen Konfigurationseinstellungen inkl. allen benötigten Module sind den Installationsvorgaben der TYPO3 Association zu entnehmen.
+Für eine erfolgreiche Migration sind bestimmte Hardwareanforderungen Voraussetzung. Unter anderem muss mindestens PHP 5.5, MySQL 5.5 und mehr als 200 MB freier Plattenplatz zur Verfügung stehen. Die genauen Konfigurationseinstellungen inkl. allen benötigten Module sind den Installationsvorgaben\footnote{\url{https://github.com/TYPO3/TYPO3.CMS/blob/master/INSTALL.md}, abgerufen am 28.05.2015} der TYPO3 Association zu entnehmen.
 
 \subparagraph{Entwicklungssystem}\mbox{}\\
 Zur Realisierung des neuen Systems wird ein Entwicklungssystem mit den oben beschriebenen Hardwareanforderungen aufgesetzt. Über einen Dump der Datenbank werden die Daten des Produkivsystems in die Datenbank des Entwicklungssystems übertragen. Das gesamte Dateisystem des TYPO3-Produktivsystems wird ebenfalls auf das Entwicklungssystem übertragen. Dort werden dann die Konfigurationseinstellungen von TYPO3 angepasst, damit ein identisches, lauffähiges System entsteht.
@@ -91,8 +92,10 @@ Im Rahmen der Migration müssen Softwaretechnisch folgende Punkte berücksichtig
 \item Programmierung eigener Extensions, falls notwendig
 \end{itemize}
 
+Der Datenbestand wird nach der Migration noch einmal mit dem Datenbestand des derzeitigen Systems abgeglichen. Alternativ ist auch eine Übernahme neuer Daten während der Migrationsphase, beispielsweise durch Gateways denkbar. 
+
 \subparagraph{Produktivsetzung}\mbox{}\\
-Die Ablösung des derzeitigen Systems erfolgt anhand der Migrationsstrategie Big Bang Approach, da mit dem Entwicklungssystem ein fertig entwickeltes und hinsichtlich des Datenbestandes aktuelles System zur Verfügung steht. Die Produktivsetzung erfolgt in umgekehrter Reihenfolge wie die Einrichtung des Entwicklungssystems, also mit Datenbank-Dump, Datei-Migration und ggf. TYPO3-Konfigurations-anpassungen. Hierdurch ist die Downtime für den Internetauftritt der Hochschule Emden minimal.
+Die Ablösung des derzeitigen Systems erfolgt anhand der Migrationsstrategie Big Bang Approach (oder der Chicken-Little Strategy, falls die im vorigen Kapitel angesprochene Alternative mit Gateways genutzt wird), da mit dem Entwicklungssystem ein fertig entwickeltes und hinsichtlich des Datenbestandes aktuelles System zur Verfügung steht. Die Produktivsetzung erfolgt in umgekehrter Reihenfolge wie die Einrichtung des Entwicklungssystems, also mit Datenbank-Dump, Datei-Migration und ggf. TYPO3-Konfigurations-anpassungen. Hierdurch ist die Downtime für den Internetauftritt der Hochschule Emden minimal.
 
 \subsubsection{Alfresco}
 \label{subsubsection_migration_alfresco}
@@ -118,22 +121,14 @@ Alfresco wird derzeit von der Hochschule Emden/Leer noch nicht eingesetzt. Derze
 	\item Webseiten mit offenen und geschlossenen Bereichen (Kennzahlen, Daten, Fakten für Mitarbeiter und Dekane)
 	\item Eigene Software Vorlesungsverzeichnis im Fachbereich Seefahrt
 	\item Software EvaSys für die Evaluierung
-	\item Gigamove zum Austausch große Datenmengen
+	\item Gigamove zum Austausch große Datenmengen (vgl. Kapitel 5.6.3.2)
 	\item Eigene Systeme in den Fachbereichen (Labor)	
 \end{itemize}
 
 Derzeit gibt es also viele gewachsene Systeme und Strukturen.
 
 \paragraph{Soll-Zustand}
-Das neue System soll über folgende Merkmale verfügen:
-\begin{itemize}
-	\item Migration aller vorhandener Dokumente auf das neue System für eine zentrale Verwaltung
-	\item Versionsmanagement
-	\item Schneller Zugriff
-	\item Ortsunabhängiger Zugriff
-	\item Verwaltung verschiedenster Dokumenttypen
-	\item Keine Client-Installation notwendig
-\end{itemize}
+Ein neues System soll Information bündeln und zentral verwalten. Hierfür werden alle vorhandenen Dokumente in das neue System migriert, unabhängig vom Datentyp. Ein Versionsmanagement sorgt für die Versionierung der Dokumente, mit dem Vorteil, dass auch auf ältere Versionen zugegriffen werden kann. Ein schneller und ortsunabhängiger Zugriff auf die Information ist für die Usability des Systems wichtig und bedingt unter anderem, dass keine Client-Installation notwendig wird.
 
 Die Software Alfresco bietet alle diese Merkmale. In der aktuellen Version wird auch die Auslieferung von Web-Content unterstützt, so dass für die Zukunft auch eine Migration des Internetauftritts in das Alfresco-System denkbar wäre. Alternativ könnte Alfresco auch im Rahmen des Single Source Publishing Konzeptes als Content-Quelle für das TYPO3-System genutzt werden. Die Berliner Philharmoniker nutzen bereits dieses Konzept, wie aus einer Case Study der Firma form4 GmbH hervorgeht.\footnote{\url{http://www.form4.de/artikel/alfresco-meets-typo3/}, abgerufen am 28.05.2015}
 
@@ -143,6 +138,10 @@ Hinsichtlich des Dokumenten-Managements wird zunächst ein strategisch günstige
 Da nach der Migration alle Dokumente zentral verwaltet werden, erscheint es sinnvoll, Alfresco als hochverfügbaren Cluster auszulegen. Gegebenenfalls ist auch der Einsatz eines SAN (Storage Area Networks) mit räumlich getrennten Speichereinheiten und entsprechend angepasstem Backup- und Restore-Konzept in Erwägung zu ziehen.
 
 Grundsätzlich stehen von Alfresco die kostenlose Community Edition und die kostenpflichtige Enterprise Edition zur Verfügung. Ein Vergleich der beiden Editionen findet sich auf der Website\footnote{\url{https://www.alfresco.com/de/alfresco-community-edition}, abgerufen am 28.05.2015} von Alfresco.
+
+Folgt die IT-Leitung der Hochschule Emden/Leer dem Vorschlag einer hochverfügbaren Realisierung, muss die Enterprise Edition eingesetzt werden, da nur sie die Möglichkeit des Clusterings bietet. Hierbei ergibt sich der Vorteil, dass für diese Edition Support seitens des Herstellers geboten wird und die wichtige Frage nach Service Level Agreements (SLA) damit gelöst werden kann. Zusätzlich gibt es Zertifizierungsschulungen für Entwickler und Administratoren, welche im Rahmen des Change Managements sinnvoll sind.
+
+Das Alfresco-System wird komplett neu aufgesetzt und die (derzeit) auf verschiedenen Systemen verteilten Dokumente werden nach und nach in das Alfresco-System migriert.
 
 \subparagraph{Hardwareanforderungen}
 Die Hardwareanforderungen richten sich stark nach den in Alfresco genutzten Modulen, bzw. ob die Community oder Enterprise-Edition genutzt wird. Detailliert Hardwareanforderungen können nach Festlegung der Edition in der Alfresco-Dokumentation\footnote{\url{http://docs.alfresco.com/5.0/concepts/ha-intro.html}, abgerufen am 28.05.2015} eingesehen werden. 
@@ -177,5 +176,5 @@ Das Entwicklungssystem wird nach den benötigten Hardwareanforderungen aufgesetz
 Für die Migration bietet sich in diesem Fall die Migrationsstrategie Butterfly Methodology an, da hierbei nach und nach die verschiedenen Altsysteme in das neue System überführt werden können. Da es sich beim Entwicklungssystem um ein "leeres" System handelt, wird es nach Fertigstellung als Produktivsystem genutzt. Hierin erfolgt dann nach und nach die Migration der Dokumente aus den unterschiedlichen Altsystemen.
 
 \subparagraph{Produktivsetzung}
-Wie bereits oben beschrieben, erfolgt die Produktivsetzung direkt nach Abnahme des Entwicklungssystem und erfolgt durch dessen Übernahme.
+Wie bereits oben beschrieben, erfolgt die Produktivsetzung direkt nach Abnahme des Entwicklungssystems und erfolgt durch dessen Übernahme.
 
