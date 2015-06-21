@@ -33,3 +33,4 @@ main.lot
 .idea
 *.gz(busy)
 *.toc
+*.bak
