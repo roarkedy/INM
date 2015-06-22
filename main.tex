@@ -20,6 +20,7 @@
 %\usepackage[tocflat]{tocstyle}
 %\usepackage[tocgraduated]{tocstyle}
 \setcounter{tocdepth}{5}
+
 \setcounter{secnumdepth}{5}
 \usepackage{listings}
 \usepackage{caption}
@@ -27,7 +28,6 @@
 \usepackage{hyperref}
 \usepackage{url}
 \urlstyle{rm}
-
 \hypersetup{
 	colorlinks,
 	citecolor=black,
@@ -38,7 +38,9 @@
 
 \usepackage[
 backend=biber,
-style=authoryear]{biblatex}
+style=authoryear,
+isbn=false,
+doi=false]{biblatex}
 
 \addbibresource{struktur/literatur.bib}
 
