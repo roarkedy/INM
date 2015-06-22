@@ -1,99 +1,161 @@
-\section{Qualitätsmanagement der Informationsprozesse - MB}
+\section{Grundlegende Aufgaben des Informationsmanagements - MiB}
 \textit{Autor: Miriam Börger}
 
+Zu den grundlegenden Aufgaben bei Einführung eines Informationsmanagements zählen die 
+vorausschauende Planung, welche Hard- und Software-Ressourcen von Nöten sind und die 
+gezielte Implementierung dieser im Unternehmen. Weiterhin wird die Beurteilung der Qualität 
+der zu vermittelnden Informationen und deren Kommunikationswege von 
+Informationssender zu -empfänger genauer beleuchtet, um thematische Ansatzpunkte zu 
+liefern, an welchen Stellen es Handlungsbedarf in unternehmensspezifischen Prozessen 
+geben könnte. Eine praxisnahe Anwendungsmöglichkeit der beschriebenen theoretischen 
+Vorgehensweisen rundet das nachfolgende Kapitel ab. 
 
-Im Folgenden wird der Qualitätsmanagement-Prozess in seinen Grundzügen definiert, am konkreten Beispiel der Minimierung von Durchlaufzeiten genauer betrachtet und praktisch mit Hilfe der IT Balanced Scorecard durchexerziert. 
-Abschließend wird erörtert, welche Besonderheiten hierbei an Hochschulen bestehen und Möglichkeiten aufgezeigt, diese Schwierigkeiten zu umgehen.
+\subsection{Modellierung der Informationslogistik}
+In Anlehnung an das Kapitel \ref{subsection_koordination_informationslogistik} wird im Folgenden die Koordination der 
+Informationslogistik um praxisnahe Anwendungsbeispiele bei der Einführung von Hard- und 
+Softwarekomponenten erweitert. Des Weiteren werden besondere Anforderungen an 
+Hochschulen aufgezeigt, die bei der Wahl von neuen Computersystemen entstehen können, 
+um vor eventuell auftretende Problematiken bereits im Vorfeld zu warnen.
 
-\subsection{Aufgaben des Qualitätsmanagements}
-In einem Informationsmanagement bildet das Qualitätsmanagement der Informationsprozesse einen zentralen Aufgabenbereich. Es übernimmt die Planung, Koordination und Steuerung der Informationsflüsse und prüft fortwährend, inwieweit eine Nutzbarkeit und Effizienz der Prozesse in der Realität gewährleistet ist, um deren Qualität gegebenenfalls mit gezielten Maßnahmen zu optimieren.\footnote{\cite{schroder_wertorientiertes_2005}}
+\subsubsection{Hardware}
+Um eine stetige Verfügbarkeit und Sicherheit von zentral gelagerten Daten zu gewährleisten, 
+sollte ein Unternehmen gewisse Mindestanforderungen an eingesetzte Hardwarekomponenten 
+und ihre Leistung erfüllen. 
 
-Hierzu fungiert ein Team von Qualitätsmanagern als Vermittler zwischen den verschiedenen Parteien im Unternehmen und überbrückt potentiell auftretende Kommunikations- oder Kulturbarrieren, um eine zielorientierte und effiziente Informationsversorgung der beteiligten Parteien zu ermöglichen.
+Krcmar unterscheidet im Bereich der Hardware zwei grundlegende Faktoren, die in ausreichender 
+Menge und Qualität vorhanden sein müssen: Speicher- und Kommunikationskapazität. Unter der 
+Speicherkapazität wird die maximal zur Verfügung stehende Menge an Datenspeicher verstanden. 
+Ab einer bestimmten Unternehmensgröße sollte in der Firma ein Raum existieren, der genug Platz 
+für mehrere Server bietet. Bei der Anschaffung von Datenträgern sollte der zu erwartende 
+Datenzuwachs im Unternehmen und auch die Vergrößerung einzelner Dateien im Laufe weniger Jahre 
+bedacht werden und eine ausreichend große Menge an Speicherplatz als Puffer eingeplant werden. 
+Die Kommunikationskapazität beschreibt die Leistungsfähigkeit eines Hardwaresystems in Bezug auf 
+die Nutzbarkeit des Netzwerks von einer Vielzahl an Menschen, die im Extremfall alle zum gleichen 
+Zeitpunkt Zugriff auf den Datenbestand haben müssen, ohne die Netzwerkleistung zu 
+beeinträchtigen.\footcite{krcmar_einfuhrung_2015}
 
-Zu Beginn des Qualitätsmanagement-Prozesses gilt es, eine Leitstrategie aufzustellen. Hierfür wird der aktuelle Ist-Zustand des Unternehmens in Bezug auf seine Organisation von Informationsflüssen analysiert. Dabei zum Vorschein kommende Schwachstellen werden erfasst und durch mögliche optimierende Handlungsoptionen ergänzt.\footnote{\cite{helmke_management_2013}}
+In vielen Unternehmen sollte zudem vor Anschaffung entsprechender Hardware überlegt werden, ob 
+es nötig ist, von außerhalb des Unternehmens auf den Server zugreifen zu können. Dies bewirkt 
+zwar in der Regel keine Vermehrung der Nutzer, stellt jedoch technisch andere Herausforderungen 
+an die Hardware, deren Lösung in einem solchen Fall bereits im Voraus implementiert werden sollte.
 
-Während der Durchführung der neu erschaffenen Maßnahmen ist das Qualitätsmanagement-Team mit der stetigen Überwachung dieser betraut. 
-Bereits bei kleinen Abweichungen vom Plan kann mit gegensteuernden Maßnahmen eingegriffen werden. 
-Eine im Voraus aufgestellte Zeitplanung ist hierbei ebenso wichtig wie eine klare Definition der Zuständigkeiten im Qualitätsmanagement-Team, um eine termingerechte Erreichung der gesetzten Ziele noch zu garantieren.
+Die Besonderheit im Bereich von Hochschulen stellt eindeutig die maximale Kapazität des Netzwerks 
+da. Während des Semesters kommt es immer wieder zu Stoßzeiten, in denen Lehrende, 
+Verwaltungsangestellte und auch anwesende Studierende zeitgleich über mindestens ein Endgerät 
+auf das Netzwerk zugreifen wollen. Für diese besondere Herausforderung muss das Netzwerk 
+ausgerichtet sein und mit Stabilität überzeugen.
 
-Nach Ablauf des gesetzten Zeitrahmens oder nach Beendigung der Maßnahmen ist es erforderlich, mittels einer sogenannten Feedback-Analyse festzustellen, inwieweit das gesteckte Ziel erreicht wurde und aus welchen Gründen es nicht zu 100\% zufriedenstellenden Ergebnissen kommen konnte. 
-Die hieraus resultierenden Erkenntnisse bilden daraufhin die Grundlage für eine anschließende Feedforward-Analyse, die die weitergehend erforderlichen Maßnahmen feststeckt, um in einer weiteren Phase die Zielerreichung durch verbesserte Maßnahmen zu garantieren.\footnote{\cite{gadatsch_it-controlling_2012}}
+Die Sicherheit der Daten ist ein wichtiger Aspekt, der nicht in Vergessenheit geraten darf. 
+Beispielsweise ist die Wahl der Positionierung des Serverraums nicht ganz unerheblich, je nördlicher 
+der Standort des Unternehmens innerhalb Deutschlands liegt. Überschwemmungen bilden eine große 
+Gefahr für im Keller gelagerte Serverräume und könnten binnen weniger Stunden den kompletten 
+Datenbestand vernichten.
 
-\subsection{Prozessoptimierung durch Minimierung der Durchlaufzeiten}
-Essenzielles Ziel des Qualitätsmanagement-Teams ist es, anhand bewährter Vorgehensweisen die Durchlaufzeiten von Informationen zu minimieren. 
-Hierdurch wird der Informationsfluss quantitativ und qualitativ verbessert, da bestehende Abhängigkeiten der Parteien in Bezug auf die Informationen schneller bedient werden können und somit durch minimierte Wartezeiten eine beträchtliche Budgetersparnis resultiert.
+Zudem sollte ein Backup-System eingeführt werden, welches in regelmäßigen Abständen mehrfach 
+Kopien des gesamten Datensatzes erstellt. Dieses Backup sollte optimalerweise nicht an gleichem 
+Standort wie der Original-Datensatz aufbewahrt werden.
 
-\begin{figure}[h!]
-	\centering
-	\includegraphics[width=10cm]{kapitel/gruppe1_1/bilder/minimierung_durchlaufzeiten}
-	\caption{Minimierung von Durchlaufzeiten, nach Bleicher 1991, 196}
-	\label{fig_minimierung_durchlaufzeiten}
-\end{figure}
+\subsubsection{Software}
+Für die Realisierung eines funktionierenden Informationsmanagements in einem Unternehmen ist es 
+nach Anschaffung und Installation benötigter Hardware wichtig, eine gelungene und gezielte Auswahl 
+der in Zukunft zu nutzenden Software zu treffen. Im Gegensatz zum im Kapitel 
+\ref{subsection_management_schnittstellen_infoempfangern} beschriebenen 
+Software-Entwicklungsprozess für die eigenständige Programmierung benötigter Software werden im 
+Folgenden die Besonderheiten im Prozess der Auswahl und Bewertung von Drittanbieter-Software für 
+ein Informationsmanagement erörtert.
 
-Wie in Abbildung \ref{fig_minimierung_durchlaufzeiten} erkennbar, existieren elementare Methoden zur Reduktion von Durchlaufzeiten nach Bleicher aus dem Jahre 1991, die noch heute ihre Gültigkeit in der Anwendung haben.\footnote{\cite{bleicher_organisation_1991}}
+Ohne genaue Analyse im Voraus, für die sich das Unternehmen unbedingt etwas Zeit nehmen sollte, 
+besteht die Gefahr, dass die neue Software nicht in vollem Umfang den Bedarf an Funktionalitäten 
+abdeckt, um im Unternehmen ganzheitlich mit einem ausgereiften Informationsmanagement zu arbeiten. 
+Eine Abänderung der gewählten Software im Nachhinein ist nicht nur kosten- und zeitintensiv, sondern 
+im schlimmsten Fall gar unmöglich, was den kompletten Analyse-Prozess, welche Software die 
+richtige für das Unternehmen ist, von vorn beginnen lässt.
 
-Insbesondere das Zusammenfassen von Aktivitäten hat den entscheidenden Vorteil, dass Abstimmungsprozesse und Abhängigkeiten zwischen mehreren Parteien entfallen und somit die Umsetzungsdauer auf ein Minimum reduziert wird. 
+Zur Auswahl einer geeigneten Standardsoftware für das Management der Informationen sollten konkret 
+mehrere Phasen durchlaufen werden:\footcite{gronau_auswahl_2001}
 
-Auch die Methode des Parallelisierens sollte in den Fokus gerückt werden. Wie in Abbildung 1 ersichtlich, werden hierbei mehrere Parteien, die für eine darauffolgende Partei relevant sind, zeitgleich geschaltet, um Wartezeiten zu verhindern. 
+Zu Beginn des Entscheidungsprozesses werden die Ziele, die mit der Benutzung der Software verfolgt werden, 
+definiert. Die Zieldefinition sollte hierbei unter anderem die Ausgangssituation, angestrebte Verbesserungen 
+in organisatorischer und technischer Hinsicht, Zieltermin sowie das einzusetzende Budget enthalten.
 
-Zu guter Letzt sei das Ergänzen von Prozessschritten betont. Auf den ersten Blick scheint diese Methode paradox, da durch Ergänzung weiterer Parteien der Zeit- und Arbeitsaufwand vorerst erhöht wird. Durch einen globaleren Blick wird schnell deutlich, dass ohne diese Parteien zu einem späteren Zeitpunkt Problematiken entstehen können, die in ihrer Lösung viel zeit- und arbeitsintensiver sind und das Unternehmen in seiner Prozessqualität deutlich zurückwerfen könnte.
+In einem weiteren Schritt werden die Anforderungen an die einzusetzende Software in Themenbereiche 
+gegliedert und nach Prioritäten sortiert. Gerade die Sortierung nach Notwendigkeit an dieser Stelle ist 
+von enormer Wichtigkeit, um eine geeignete Software zu finden.
 
-Die in Abbildung \ref{fig_minimierung_durchlaufzeiten} gezeigten Methoden zur Durchlaufzeit-Minimierung sollten also vom Qualitätsmanagement-Team von Beginn an in die Planung mit einbezogen werden, da mit minimalem Aufwand eine weitreichende, inhaltlich und finanziell positive Auswirkung auf die Qualität des Gesamtprozesses erzeugt wird. 
+Sind die Anforderungen an die Software zusammengestellt, gilt es nun in einem nächsten Schritt, 
+den Markt nach potentiellen Softwareangeboten zu durchsuchen und in Frage kommende Angebote 
+zu selektieren. Die Softwarehersteller der engeren Auswahl sollten in jedem Fall mit einer 
+Software-Präsentation im Unternehmen vorstellig werden, um Rückfragen beantworten zu können 
+und die Eignung der Software für das Unternehmen überprüfbar zu machen.
 
-\subsection{Anwendung des Qualitätsmanagements am Beispiel der IT Balanced Scorecard}
-Das strategisch-operative Konzept für eine qualitative Unternehmenssteuerung aus den 90er Jahren von R. S. Kaplan und D. P. Norton hat sich im Laufe der Zeit zum Standardinstrument entwickelt.\footnote{\cite{friedag_scorecard_2004}}
+Zu guter Letzt werden nach Auswahl einer geeigneten Software die Vertragsverhandlung mit dem 
+Anbieter in Bezug auf Leistungsbeschreibungen, Vergütung, Organisations- und Abnahmeregelungen 
+und auch Service- und Wartungsverträge aufgesetzt. 
 
-Grundlegend für die IT Balanced Scorecard ist das Schema Eingabe $\to$ Verarbeitung $\to$ Ausgabe $\to$ Resultat. Die Kombination von Qualität der Mitarbeiter, Kundenorientierung und finanzielle Ziele ermöglicht die Generierung und Sicherung eines gelungenen Informationsmanagements.\footnote{\cite{gabriel_inm_2003}}
+\subsubsection{Besondere Anforderungen an Hochschulen}
+Die besondere Schwierigkeit an Hochschulen besteht in der fachbereichsspezifischen Steuerung der 
+Informationslogistik. Nicht jeder Fachbereich möchte sich evtl. mit der von der Hochschulleitung 
+angeschafften Hard- und Software zufrieden geben und anfreunden. Gerade technisch orientierte 
+Studiengänge möchten verständlicherweise ihr eigenes Know-how nutzen, um den Fachbereich 
+in ihrem Sinne mit einer gut funktionierenden Informationslogistik zu steuern.
 
-\begin{figure}[h!]
-	\centering
-	\includegraphics[width=10cm]{kapitel/gruppe1_1/bilder/balanced_scorecard}
-	\caption{Balanced Scorecard Kreislauf, nach Gadatsch}
-	\label{fig_balanced_scorecard_cycle}
-\end{figure}
+Um Konflikte bei solchen \glqq Alleingängen\grqq{} zu vermeiden, sollten in der Planungsphase vor 
+Hard- und Softwareanschaffung insbesondere die Meinung der technisch orientierten 
+Fachbereiche hinzugezogen werden. 
 
-Die IT Balanced Scorecard zeichnet sich – wie in Abbildung \ref{fig_balanced_scorecard_cycle} deutlich wird – durch eine stetige Feedback- und Feedforward-Kommunikation aus. 
-Zu Beginn des Managementprozesses werden in der Phase „Planung und Vorgaben“ die grundlegenden Ziele des Unternehmens definiert.
+In einem zum späteren Zeitpunkt ganzheitlich funktionierenden Informationsmanagement 
+können die Prozesse nur reibungslos funktionieren, wenn jeder Fachbereich die Ressourcen 
+der zentralen Hard- und Software für sich zu nutzen weiß.
 
-In einem nächsten Schritt werden in der Phase „Vision und Strategie“ Kernaussagen zur Strategiefindung erarbeitet, insbesondere im Hinblick auf den Zusammenhang von Ursache und Wirkung, sowie Optimierungsmöglichkeiten zusammengestellt. 
+\subsection{Management der Schnittstellen zu den Informationsempfängern}
+\label{subsection_management_schnittstellen_infoempfangern}
+Die Schnittstelle beschreibt in diesem Zusammenhang den „Berührungspunkt“ in dem 
+die Informationen ausgetauscht werden. Die beteiligten Individuen sind in diesem Fall 
+Personen, die über technische Kommunikationsmittel Informationen erhalten oder senden. 
+Beispielsweise bekommen Studenten Informationen von ihrem Tutor, über Tag und Uhrzeit 
+des nächsten stattfindenden Tutoriums. 
 
-Das Handlungskonzept wird in „Feedback und Lernen“ final ausformuliert und in der vierten Phase „Kommunikation und Verbindung“ mit der Strategie und übergeordneten Zielen verknüpft.
+Es handelt sich hier um eine zweiseitige Mensch-Computer-Interaktion (Smartphone, Tablet, 
+Laptop hier synonym verwendet), da die Individuen über eine Benutzerschnittstelle ihres 
+Computers jeweils miteinander über technische Hilfsmittel Informationen austauschen.
+Damit eine Benutzerschnittstelle für den Menschen nutzbar und sinnvoll ist, muss sie auf 
+seine Bedürfnisse und Fähigkeiten angepasst sein. Eine gewisse Grundlagenkenntnis im 
+technischen Umgang, sowie mit Social-Media- oder Forennutzung, wird in diesem Fall, 
+im Rahmen der Digital-Natives-Generation, vorausgesetzt.\footnote{\url{http://de.wikipedia.org/wiki/Digital_Native}, abgerufen am 13.05.2015} \todo[inline]{Gruppe 1.1 : Andere Quelle finden für Digital Native}
 
-Eine detaillierte Dokumentation von Teilzielen erhöht in dieser Phase die Motivation der Mitarbeiter zur Zielerreichung.\footnote{\cite{kaufmann_feinschliff_2002}}
+Somit ist die Voraussetzung des verständlichen Umgangs mit Informationsmedien erfüllt, 
+sodass im nächsten Schritt dafür gesorgt werden muss, dass Informationen vorhanden sind, 
+die übermittelt werden können. Beispielhaft wäre es hier anzunehmen, dass ein Informatikstudent, 
+durch die Zugehörigkeit in seinem Fachbereich und seinem entsprechenden Studiengang durch 
+Hochschulpersonal fachbereichsbezogene Informationen durch den Zugang zum Informationsportal 
+der Hochschule erhält. Dies kann durch einen E-Mailverteiler oder eventuell durch ein 
+Informationssystem mit entsprechenden Zugangsvoraussetzungen (wie Immatrikulation) gewährleistet 
+werden. Das verwendete Informationsmedium stellt hier die Schnittstelle zwischen Mensch und der 
+Ressource Information dar und bietet die Möglichkeit für den Studenten, gewünschte Informationen, 
+die ihn betreffen, zu erhalten.
 
-Die Definition von klaren Zielen, Bedingungen und Kennzahlen generiert ein komplexes Kennzahlensystem, welches durch Herunterbrechen der Strategie auf operatives Handeln einen ganzheitlichen Überblick über die interne Organisation des Unternehmens liefert.
+Auch hier ist das Qualitätsmanagement der zu verwaltenden Informationen ein essentielles Thema. 
+Im Beispiel des Informatikstudenten sind für ihn die Informationen interessant, die ihn betreffen. 
+Die Informationen zum Studiengang \glqq Hispanistik\grqq{} sind für ihn irrelevant. 
+Somit müssen Informationen, im Rahmen der Schnittstellenbetreuung, für die Empfänger vorselektiert 
+werden, um keine Informationsüberflutung zu provozieren oder zu vermeiden, dass die übermittelte 
+Information den Informationsbedarf nicht vollständig deckt und dadurch Rückfragen offen bleiben. 
+Es ist also darauf zu achten, dass eine Information nicht vorzeitig veröffentlicht wird, ohne dass der 
+Inhalt geprüft wurde. Als Beispiel könnte hier die Information \glqq Der Kurs findet heute nicht statt.\grqq{}
+betrachtet werden, die für den Studenten zwar eine Teilinformation enthält, den Informationsbedarf 
+aber nicht abdeckt, sodass eine Rückfrage entsteht, die zusätzlich verwaltet werden muss. 
+Hochschulindividuell kann es auch automatisierte Informationssysteme geben, die von mehreren 
+Plattformen zugreifbar sind, wobei auch hinter dieser Automatisierung Personal steht, das die 
+entsprechende Information generiert. Auf das Qualitätsmanagement wird im folgenden noch 
+detaillierter eingegangen.
 
-Die Einbeziehung von Ursache und Wirkung vereinfacht die vorausschauende Unternehmensführung und ergänzt die Sichtweise auf das Unternehmen zu einem ausgewogenen (balanced) Bild.
-
-Da die Möglichekeiten zur Befüllung der Scorecard sehr vielseitig sind, sollte vermieden werden, sie mit zu vielen komplexen Zahlen zu überladen. 
-
-Im Fokus stehen bei diesem Konzept vorrangig die Maßnahmenfindung unter Berücksichtigung von Ursache und Wirkung, was durch eine einseitige Betrachtung der Kennzahlen zu sehr in den Hintergrund rücken und den Lösungsprozess negativ belasten könnte.
-
-\subsection{Besonderheiten an Hochschulen}
-Ein gut funktionierendes Qualitätsmanagement kann nur effektiv und reibungslos funktionieren, wenn es an zentraler Stelle nahe des Entscheidungsträgers positioniert und gelebt wird.
-
-Die Umsetzungsverantwortung eines ganzheitlichen Qualitätsmanagements liegt bei Hochschulen in der Regel bei der Hochschulleitung, die ihre Aufgaben im Prozess der Informationsflussoptimierung begreifen und verantworten muss.
-
-Eine der grundlegenden Besonderheiten an Hochschulen liegt in der internen Strukturierung von Verantwortlichkeiten. Die Hochschule ist unterteilt in Fachbereiche, welche geschlossen für sich arbeiten können, aber dennoch der Hochschulleitung unterstellt sind. Zusätzlich zu diesen beiden Bereichen ist noch das Präsidium zu nennen, welches insgesamt für eine effiziente Aufgabenerfüllung und Interessenvertretung der Hochschule verantwortlich ist.\footnote{\cite{mintzberg_1992}}
-
-Im Zuge der Einführung eines geordneten Qualitätsmanagements gilt es also, die Positionierung nahe der Hochschulleitung 
-mit einer anwendungsbezogenen Platzierung innerhalb jedes Fachbereiches unter Einbeziehung des Präsidiums zu verknüpfen, 
-um ganzheitliche Lösungen zur Realisierung eines Qualitätsmanagements zu finden und umsetzen zu können.
-
-Ein Außenvorlassen des Fachbereichs, in dem die Lösungen schließlich umgesetzt werden, ist faktisch unmöglich. Durch die 
-Vielzahl an Entscheidungsträgern und Mitredern besteht an Hochschulen ein höherer Bedarf an Kommunkations- und 
-Abstimmungsleistungen zwischen diesen als in anderen Institutionen und Unternehmen. 
-
-Es besteht zudem die Gefahr, dass Zuständigkeiten der verschiedenen Rollen an der entsprechenden Hochschule nicht klar 
-geregelt sind, was die Funktionsweise des Entscheidungsprozesses zwar bestenfalls nicht beeinträchtigt, dessen Ablauf allerdings 
-sehr unsystematisch gestaltet und den Fluss des Prozesses ausbremst.
-
-Neben der strukturellen Schwierigkeiten in der Aufstellung eines Qualitätsmanagements besteht eine weitere Besonderheit in der inhaltlichen Vereinheitlichung der Anforderungen der einzelnen Parteien, die im schlechtesten Fall sehr verschieden sind oder sich gar widersprechen, sodass diese für alle Bereiche zentral gültig ist. 
-
-Mithilfe renommierter Werkzeuge, wie z.B. der IT Balanced Scorecard, liegt es nun in der Hand des Qualitätsmanagement-Teams, 
-die erarbeiteten Prozessstrategien und Maßnamen transparent für jeden Bereich der Hochschule einsehbar zu publizieren und 
-alle betreffenden Personen über Änderungen zu informieren. 
-
-Die Kontrolle in den Fachbereichen, ob und inwieweit die 
-Maßnahmen zur Prozessoptimierung beitragen, darf hierbei nicht vernachlässigt werden.\footnote{\url{https://www.evalag.de/dedievl/projekt01/media/pdf/qm/audit/evalag_eckpunkte_qualitaetsmanagement.pdf}}
-
+Ein weiterer wichtiger Punkt ist, dass die Möglichkeit des Feedbacks seitens des Informationsempfängers 
+gewährleistet sein muss. Ob dies nun in Form von Kontaktformularen oder über eine, zur Verfügung 
+gestellte, E-Mail-Adresse geschieht, ist hochschulintern individuell. 
+Von großer Bedeutung ist dieser Punkt, weil es beispielsweise im Falle einer nicht bedarfsdeckenden 
+Information zu Verwirrungen und Missverständnissen kommen kann. 
+Die Informationsempfänger brauchen also die Möglichkeit zur Rücksprache, um die Motivation nicht zu 
+beeinträchtigen und ggf. Stresssituationen zu umgehen. 
+Das Spektrum der Feedbackmöglichkeit ist mit der Möglichkeit der direkten Rücksprache noch nicht 
+ausgeschöpft. 
+Es gibt viele Möglichkeiten Feedback zu geben bzw. zu erhalten, wie beispielsweise eine Evaluationsdurchführung o.ä..
