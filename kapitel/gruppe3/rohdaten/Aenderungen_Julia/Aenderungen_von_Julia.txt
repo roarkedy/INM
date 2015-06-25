@@ -1,0 +1,68 @@
+Was ist passiert:
+
+Gruppe3 section 4 komplett überarbeitet 
+Bilder ergänzt/verändert
+
+Labels hinzugefügt (siehe labels)
+
+Literatur.bib ergänzt/aktualisiert
+
+
+
+
+Fehlt noch: Einleitung Gruppe_3
+	    Endgültige Fassung von Gruppe 1_3 zum Beenden von Gruppe 3 section 4 (meine Arbeit)
+
+____________________________
+
+
+Hinzugefügte/benötigte Labels
+
+
+Gruppe 1_2
+
+1_2_section1
+\subsubsection{Chief-Information Officer (CIO)}
+\label{cio_text}
+
+1_2_section2
+\paragraph{Aufgaben und Funktionen des Informationsmanagers}\mbox{}\\
+\label{aufgaben_funktionen_inm}
+
+\paragraph{Anforderungsprofil}\mbox{}\\
+\label{anforderungsprofil_cio}
+
+\paragraph{Informationsmanager in der Hochschulhierachie}\mbox{}\\
+\label{cio_in_hochschulhierarchie}
+____________________________
+Gruppe 1_3
+
+1_3_abschnitt_1
+\section{Betrachtete Hochschulen}
+\label{betr_hochschule}
+
+1_3_abschnitt_2
+\subsection{Zentralisierung / Integration}
+\label{subsection_zentralisierung_integration}
+
+\subsection{Das CIO-Konzept}
+\label{cio_konzept}
+
+\paragraph{Aufgaben und Funktionen des Informationsmanagers}\mbox{}\\
+\label{aufgaben_funktionen_inm}
+
+____________________________
+Gruppe 2
+\section{Bewertung und Gewichtung (TK)}
+\label{bewertung_gewichtung}
+
+___________________________
+Gruppe 3
+
+3_section2
+\subsubsection{Feedback}
+\label{feedback}
+
+
+
+
