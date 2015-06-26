@@ -43,12 +43,12 @@ Nachfolgend wird exemplarisch eine mögliche Migration von TYPO3 auf eine aktuel
 \subsubsection{Responsive Website mit TYPO3}
 TYPO3\footcite{typo3_overview_url} ist ein Open Source Enterprise Content Management System (ECMS oder kurz CMS) zur Verwaltung webbasierter Inhalte. Es ist multilingual, hoch skalierbar und bietet ein aktives Sicherheitsmanagement.
 
-\paragraph{Ist-Zustand}
+\paragraph{Ist-Zustand}\mbox{}\\\\
 Die Hochschule Emden/Leer nutzt derzeit ein TYPO3-Sytem in der Version 4.5 LTS (Long Term Support). Das System ist derzeit noch nicht für die Anforderungen mobiler Endgeräte (responsive Design) gerüstet. Es werden verschiedene Extensions von TYPO3 genutzt, möglicherweise auch eigens für die Hochschule entwickelte Extensions. Mitarbeiter und Studenten sind als Benutzer innerhalb des CMS angelegt und können sich in einen geschützten Bereich über die Extension FE-Login anmelden.
 
 Für die derzeit eingesetzte Version von TYPO3 gibt es keinen Support mehr, so dass – weder für den TYPO3-Kern, noch für die Extensions – neue Sicherheitspatches zur Verfügung gestellt werden. Dies stellt ein potentielles Sicherheitsrisiko für die Hochschule dar. Allein aus diesem Grund sollte eine Migration auf ein aktuelles System erwogen werden. Ferner nutzt ein Großteil der Besucher mobile Endgeräte, die aktuell nicht unterstützt werden.
 
-\paragraph{Soll-Zustand}\mbox{}\\
+\paragraph{Soll-Zustand}\mbox{}\\\\
 Ein neues System sollte über Merkmale verfügen, die sowohl dem aktuellen Stand der Technik, als auch den Anforderungen an das Informationsmanagement genügen. Hierbei ist es notwendig, darauf zu achten, dass das neue System möglichst langen Support seitens der TYPO3 Association aufweist. Dadurch ist es möglich im Rahmen der Supportzeit Sicherheitsupdates zu erhalten. 
 
 Um den die vermehrte Nutzung von mobilen Endgeräten seitens der Benutzer abzudecken soll das neue System eine Auslieferung des Contents für mobile Endgeräte unterstützen. 
@@ -61,7 +61,7 @@ Im Rahmen des Informationsmanagements stellt der Internetauftritt die Außenwirk
 
 Um eine Migration durchführen zu können, wird zunächst ein Migrationsplan erstellt.
 
-\paragraph{Migrationsplan}\mbox{}\\
+\paragraph{Migrationsplan}\mbox{}\\\\
 Um einen möglichst langen Supportzeitraum zu gewährleisten ist die Verwendung einer LTS-Version (Long Term Support) anzuraten. Die derzeit aktuelle Version ist 6.2.13 LTS (Stand 10.06.2015), welche noch bis Ende März 2017 supportet wird.
 
 Derzeit ist bereits die Version 7.2.0 verfügbar, allerdings noch nicht als LTS-Version. Diese ist für Herbst 2015 avisiert. 
@@ -70,15 +70,15 @@ Da die Migration einige Zeit in Anspruch nehmen wird, ist es sinnvoll, direkt au
 
 Vor der Migration ist eine Überprüfung aller derzeit genutzten Extensions erforderlich. Dabei muss geprüft werden, ob diese in der neuen Version noch gültig und lauffähig sind. Ist dies nicht der Fall, müssen Alternativen gesucht werden und deren Realisierung in die Planung einfließen. Insbesondere selbst geschriebene Extensions müssen hinsichtlich der Lauffähigkeit überprüft und ggf. ein Konzept zur Anpassung erstellt werden.
 
-\subparagraph{Hardwareanforderungen}\mbox{}\\
+\subparagraph{Hardwareanforderungen}\mbox{}\\\\
 Für eine erfolgreiche Migration sind bestimmte Hardwareanforderungen Voraussetzung. Unter anderem muss mindestens PHP 5.5, MySQL 5.5 und mehr als 200 MB freier Plattenplatz zur Verfügung stehen. Die genauen Konfigurationseinstellungen inkl. allen benötigten Module sind den Installationsvorgaben\footcite{typo3_installing_url} der TYPO3 Association zu entnehmen.
 
-\subparagraph{Entwicklungssystem}\mbox{}\\
+\subparagraph{Entwicklungssystem}\mbox{}\\\\
 Zur Realisierung des neuen Systems wird ein Entwicklungssystem mit den oben beschriebenen Hardwareanforderungen aufgesetzt. Über einen Dump der Datenbank werden die Daten des Produkivsystems in die Datenbank des Entwicklungssystems übertragen. Das gesamte Dateisystem des TYPO3-Produktivsystems wird ebenfalls auf das Entwicklungssystem übertragen. Dort werden dann die Konfigurationseinstellungen von TYPO3 angepasst, damit ein identisches, lauffähiges System entsteht.
 
 Innerhalb dieses Systems erfolgt die Migration auf die verschiedenen Versionen, die Anpassung der Extensions und die im Rahmen der Migration notwendige Softwareentwicklung.
 
-\subparagraph{Migration}\mbox{}\\
+\subparagraph{Migration}\mbox{}\\\\
 Im Rahmen der Migration müssen Softwaretechnisch folgende Punkte berücksichtigt werden:
 \begin{itemize}
 \item Migration des TYPO3-Kerns
@@ -94,7 +94,7 @@ Im Rahmen der Migration müssen Softwaretechnisch folgende Punkte berücksichtig
 
 Der Datenbestand wird nach der Migration noch einmal mit dem Datenbestand des derzeitigen Systems abgeglichen. Alternativ ist auch eine Übernahme neuer Daten während der Migrationsphase, beispielsweise durch Gateways denkbar. 
 
-\subparagraph{Produktivsetzung}\mbox{}\\
+\subparagraph{Produktivsetzung}\mbox{}\\\\
 Die Ablösung des derzeitigen Systems erfolgt anhand der Migrationsstrategie Big Bang Approach (oder der Chicken-Little Strategy, falls die im vorigen Kapitel angesprochene Alternative mit Gateways genutzt wird), da mit dem Entwicklungssystem ein fertig entwickeltes und hinsichtlich des Datenbestandes aktuelles System zur Verfügung steht. Die Produktivsetzung erfolgt in umgekehrter Reihenfolge wie die Einrichtung des Entwicklungssystems, also mit Datenbank-Dump, Datei-Migration und ggf. TYPO3-Konfigurations-anpassungen. Hierdurch ist die Downtime für den Internetauftritt der Hochschule Emden minimal.
 
 \subsubsection{Alfresco}
@@ -113,7 +113,7 @@ Luis Cabaceira\footnote{\url{http://de.slideshare.net/LuisCabaceira/sizing-your-
 
 Peter Franke – Leiter des Rechenzentrums der Hochschule Braunschweig/Wolfenbüttel – berichtet von positiven Erfahrungen seit der Einführung von Alfresco.\footnote{\url{http://www.ostfalia.de/export/sites/default/de/rz/documents/it-konzept-2011.pdf}, abgerufen am 27.05.2015}
 
-\paragraph{Ist-Zustand}
+\paragraph{Ist-Zustand}\mbox{}\\\\
 Alfresco wird derzeit von der Hochschule Emden/Leer noch nicht eingesetzt. Derzeit werden Dokumente in verschiedensten Systemen verwaltet und zugänglich gemacht. Auszugsweise sind hier zu nennen:
 
 \begin{itemize}
@@ -127,14 +127,14 @@ Alfresco wird derzeit von der Hochschule Emden/Leer noch nicht eingesetzt. Derze
 
 Derzeit gibt es also viele gewachsene Systeme und Strukturen.
 
-\paragraph{Soll-Zustand}
+\paragraph{Soll-Zustand}\mbox{}\\\\
 Ein neues System soll Information bündeln und zentral verwalten. Hierfür werden alle vorhandenen Dokumente in das neue System migriert, unabhängig vom Datentyp. Ein Versionsmanagement sorgt für die Versionierung der Dokumente, mit dem Vorteil, dass auch auf ältere Versionen zugegriffen werden kann. Ein schneller und ortsunabhängiger Zugriff auf die Information ist für die Usability des Systems wichtig und bedingt unter anderem, dass keine Client-Installation notwendig wird.
 
 Die Software Alfresco bietet alle diese Merkmale. In der aktuellen Version wird auch die Auslieferung von Web-Content unterstützt, so dass für die Zukunft auch eine Migration des Internetauftritts in das Alfresco-System denkbar wäre. Alternativ könnte Alfresco auch im Rahmen des Single Source Publishing Konzeptes als Content-Quelle für das TYPO3-System genutzt werden. Die Berliner Philharmoniker nutzen bereits dieses Konzept, wie aus einer Case Study der Firma form4 GmbH hervorgeht.\footnote{\url{http://www.form4.de/artikel/alfresco-meets-typo3/}, abgerufen am 28.05.2015}
 
 Hinsichtlich des Dokumenten-Managements wird zunächst ein strategisch günstiger Migrationsplan zur Einführung von Alfresco erstellt. Dabei muss auch die Entscheidung getroffen werden, welche Edition von Alfresco sinnvoll für die Hochschule ist.
 
-\paragraph{Migrationsplan}
+\paragraph{Migrationsplan}\mbox{}\\\\
 Da nach der Migration alle Dokumente zentral verwaltet werden, erscheint es sinnvoll, Alfresco als hochverfügbaren Cluster auszulegen. Gegebenenfalls ist auch der Einsatz eines SAN (Storage Area Networks) mit räumlich getrennten Speichereinheiten und entsprechend angepasstem Backup- und Restore-Konzept in Erwägung zu ziehen.
 
 Grundsätzlich stehen von Alfresco die kostenlose Community Edition und die kostenpflichtige Enterprise Edition zur Verfügung. Ein Vergleich der beiden Editionen findet sich auf der Website\footnote{\url{https://www.alfresco.com/de/alfresco-community-edition}, abgerufen am 28.05.2015} von Alfresco.
@@ -143,7 +143,7 @@ Folgt die IT-Leitung der Hochschule Emden/Leer dem Vorschlag einer hochverfügba
 
 Das Alfresco-System wird komplett neu aufgesetzt und die (derzeit) auf verschiedenen Systemen verteilten Dokumente werden nach und nach in das Alfresco-System migriert.
 
-\subparagraph{Hardwareanforderungen}
+\subparagraph{Hardwareanforderungen}\mbox{}\\\\
 Die Hardwareanforderungen richten sich stark nach den in Alfresco genutzten Modulen, bzw. ob die Community oder Enterprise-Edition genutzt wird. Detailliert Hardwareanforderungen können nach Festlegung der Edition in der Alfresco-Dokumentation\footnote{\url{http://docs.alfresco.com/5.0/concepts/ha-intro.html}, abgerufen am 28.05.2015} eingesehen werden. 
 
 Die Hardwareanforderungen sind unter anderem abhängig von:
@@ -169,12 +169,12 @@ Die Hardwareanforderungen sind unter anderem abhängig von:
 
 Die Abbildung \ref{fig_deployment_alfresco} zeigt eine mögliche Hardwarestruktur für ein Alfresco-System nach Cabaceira.\footnote{\url{http://de.slideshare.net/LuisCabaceira/sizing-your-alfrescoplatform}, abgerufen am 27.05.2015}
 
-\subparagraph{Entwicklungssystem}
+\subparagraph{Entwicklungssystem}\mbox{}\\\\
 Das Entwicklungssystem wird nach den benötigten Hardwareanforderungen aufgesetzt. Hierauf erfolgt die Implementierung von Alfresco inkl. den bei Bedarf benötigten Schnittstellen. Nach Fertigstellung kann das Entwicklungssystems direkt als Produktivsystem genutzt werden, da die Datenmigration anschließend erfolgt, wie im folgenden Abschnitt beschrieben.
 
-\subparagraph{Migration}
+\subparagraph{Migration}\mbox{}\\\\
 Für die Migration bietet sich in diesem Fall die Migrationsstrategie Butterfly Methodology an, da hierbei nach und nach die verschiedenen Altsysteme in das neue System überführt werden können. Da es sich beim Entwicklungssystem um ein "leeres" System handelt, wird es nach Fertigstellung als Produktivsystem genutzt. Hierin erfolgt dann nach und nach die Migration der Dokumente aus den unterschiedlichen Altsystemen.
 
-\subparagraph{Produktivsetzung}
+\subparagraph{Produktivsetzung}\mbox{}\\\\
 Wie bereits oben beschrieben, erfolgt die Produktivsetzung direkt nach Abnahme des Entwicklungssystems und erfolgt durch dessen Übernahme.
 

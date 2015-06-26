@@ -172,51 +172,50 @@
 \BOOKMARK [3][-]{subsubsection.6.4.2.1}{Empfehlungen der ZKI bez\374glich des Informationsmanagers}{subsection.6.4.2}% 172
 \BOOKMARK [3][-]{subsubsection.6.4.2.2}{Informationsmanager oder Gremium als zentrale Informationsschnittstelle}{subsection.6.4.2}% 173
 \BOOKMARK [2][-]{subsection.6.4.3}{Empfehlung f\374r die Hochschule Emden/Leer}{section.6.4}% 174
-\BOOKMARK [0][-]{chapter.7}{Konzept zur Erreichung der Soll-Situation - MB, CH}{}% 175
-\BOOKMARK [1][-]{section.7.1}{Umsetzungsplanung - CH}{chapter.7}% 176
-\BOOKMARK [2][-]{subsection.7.1.1}{Positionsbestimmung}{section.7.1}% 177
-\BOOKMARK [2][-]{subsection.7.1.2}{Change Management}{section.7.1}% 178
-\BOOKMARK [3][-]{subsubsection.7.1.2.1}{Grundlagen des Change Managements}{subsection.7.1.2}% 179
-\BOOKMARK [3][-]{subsubsection.7.1.2.2}{Change Management an Hochschulen}{subsection.7.1.2}% 180
-\BOOKMARK [3][-]{subsubsection.7.1.2.3}{Changeplan}{subsection.7.1.2}% 181
-\BOOKMARK [4][-]{paragraph.7.1.2.3.1}{Responsive Website}{subsubsection.7.1.2.3}% 182
-\BOOKMARK [4][-]{paragraph.7.1.2.3.2}{Alfresco}{subsubsection.7.1.2.3}% 183
-\BOOKMARK [1][-]{section.7.2}{Migrationskonzepte - MB}{chapter.7}% 184
-\BOOKMARK [2][-]{subsection.7.2.1}{Kriterien f\374r eine erfolgreiche Migration}{section.7.2}% 185
-\BOOKMARK [2][-]{subsection.7.2.2}{Migrationsstrategien}{section.7.2}% 186
-\BOOKMARK [2][-]{subsection.7.2.3}{Migrationsbeispiele}{section.7.2}% 187
-\BOOKMARK [3][-]{subsubsection.7.2.3.1}{Responsive Website mit TYPO3}{subsection.7.2.3}% 188
-\BOOKMARK [4][-]{paragraph.7.2.3.1.1}{Ist-Zustand}{subsubsection.7.2.3.1}% 189
-\BOOKMARK [4][-]{paragraph.7.2.3.1.2}{Soll-Zustand}{subsubsection.7.2.3.1}% 190
-\BOOKMARK [4][-]{paragraph.7.2.3.1.3}{Migrationsplan}{subsubsection.7.2.3.1}% 191
-\BOOKMARK [5][-]{subparagraph.7.2.3.1.3.1}{Hardwareanforderungen}{paragraph.7.2.3.1.3}% 192
-\BOOKMARK [5][-]{subparagraph.7.2.3.1.3.2}{Entwicklungssystem}{paragraph.7.2.3.1.3}% 193
-\BOOKMARK [5][-]{subparagraph.7.2.3.1.3.3}{Migration}{paragraph.7.2.3.1.3}% 194
-\BOOKMARK [5][-]{subparagraph.7.2.3.1.3.4}{Produktivsetzung}{paragraph.7.2.3.1.3}% 195
-\BOOKMARK [3][-]{subsubsection.7.2.3.2}{Alfresco}{subsection.7.2.3}% 196
-\BOOKMARK [4][-]{paragraph.7.2.3.2.1}{Ist-Zustand}{subsubsection.7.2.3.2}% 197
-\BOOKMARK [4][-]{paragraph.7.2.3.2.2}{Soll-Zustand}{subsubsection.7.2.3.2}% 198
-\BOOKMARK [4][-]{paragraph.7.2.3.2.3}{Migrationsplan}{subsubsection.7.2.3.2}% 199
-\BOOKMARK [5][-]{subparagraph.7.2.3.2.3.1}{Hardwareanforderungen}{paragraph.7.2.3.2.3}% 200
-\BOOKMARK [5][-]{subparagraph.7.2.3.2.3.2}{Entwicklungssystem}{paragraph.7.2.3.2.3}% 201
-\BOOKMARK [5][-]{subparagraph.7.2.3.2.3.3}{Migration}{paragraph.7.2.3.2.3}% 202
-\BOOKMARK [5][-]{subparagraph.7.2.3.2.3.4}{Produktivsetzung}{paragraph.7.2.3.2.3}% 203
-\BOOKMARK [0][-]{chapter.8}{Kosten und Zeit - BB, SH, KL}{}% 204
-\BOOKMARK [1][-]{section.8.1}{Kostenarten - KL}{chapter.8}% 205
-\BOOKMARK [2][-]{subsection.8.1.1}{Kostenarten in Hochschulen}{section.8.1}% 206
-\BOOKMARK [2][-]{subsection.8.1.2}{Kostenarten in der IT}{section.8.1}% 207
-\BOOKMARK [1][-]{section.8.2}{Verfahren f\374r die Kosten- und Zeitsch\344tzung - BB, SH}{chapter.8}% 208
-\BOOKMARK [2][-]{subsection.8.2.1}{Projektmanagement an einer Hochschule}{section.8.2}% 209
-\BOOKMARK [2][-]{subsection.8.2.2}{Kostensch\344tzung \(Total Cost of Ownership\) - SH}{section.8.2}% 210
-\BOOKMARK [2][-]{subsection.8.2.3}{Zeitplanung - BB}{section.8.2}% 211
-\BOOKMARK [3][-]{subsubsection.8.2.3.1}{Gantt-Diagramm}{subsection.8.2.3}% 212
-\BOOKMARK [3][-]{subsubsection.8.2.3.2}{Meilensteintrendanalyse}{subsection.8.2.3}% 213
-\BOOKMARK [2][-]{subsection.8.2.4}{Anwendung - BB, SH}{section.8.2}% 214
-\BOOKMARK [3][-]{subsubsection.8.2.4.1}{Dokumentenmanagementsystem Alfresco}{subsection.8.2.4}% 215
-\BOOKMARK [3][-]{subsubsection.8.2.4.2}{Redesign / Relaunch Hochschule-Webseite}{subsection.8.2.4}% 216
-\BOOKMARK [3][-]{subsubsection.8.2.4.3}{Facebook Seite}{subsection.8.2.4}% 217
-\BOOKMARK [1][-]{section.8.3}{Ausgew\344hlte Projekt-Beispiele - KL}{chapter.8}% 218
-\BOOKMARK [0][-]{chapter.9}{Zusammenfassung - AW}{}% 219
-\BOOKMARK [0][-]{chapter*.95}{Literatur- und Quellenverzeichnis}{}% 220
-\BOOKMARK [0][-]{chapter*.96}{Tabellenverzeichnis}{}% 221
-\BOOKMARK [0][-]{chapter*.97}{Abbildungsverzeichnis}{}% 222
+\BOOKMARK [0][-]{chapter.7}{Umsetzungsplanung: Change Management und Migration - MB, CH}{}% 175
+\BOOKMARK [1][-]{section.7.1}{Positionsbestimmung - CH}{chapter.7}% 176
+\BOOKMARK [1][-]{section.7.2}{Change Management - CH}{chapter.7}% 177
+\BOOKMARK [2][-]{subsection.7.2.1}{Grundlagen des Change Managements}{section.7.2}% 178
+\BOOKMARK [2][-]{subsection.7.2.2}{Change Management an Hochschulen}{section.7.2}% 179
+\BOOKMARK [2][-]{subsection.7.2.3}{Changeplan}{section.7.2}% 180
+\BOOKMARK [3][-]{subsubsection.7.2.3.1}{Responsive Website}{subsection.7.2.3}% 181
+\BOOKMARK [3][-]{subsubsection.7.2.3.2}{Alfresco}{subsection.7.2.3}% 182
+\BOOKMARK [1][-]{section.7.3}{Migrationskonzepte - MB}{chapter.7}% 183
+\BOOKMARK [2][-]{subsection.7.3.1}{Kriterien f\374r eine erfolgreiche Migration}{section.7.3}% 184
+\BOOKMARK [2][-]{subsection.7.3.2}{Migrationsstrategien}{section.7.3}% 185
+\BOOKMARK [2][-]{subsection.7.3.3}{Migrationsbeispiele}{section.7.3}% 186
+\BOOKMARK [3][-]{subsubsection.7.3.3.1}{Responsive Website mit TYPO3}{subsection.7.3.3}% 187
+\BOOKMARK [4][-]{paragraph.7.3.3.1.1}{Ist-Zustand}{subsubsection.7.3.3.1}% 188
+\BOOKMARK [4][-]{paragraph.7.3.3.1.2}{Soll-Zustand}{subsubsection.7.3.3.1}% 189
+\BOOKMARK [4][-]{paragraph.7.3.3.1.3}{Migrationsplan}{subsubsection.7.3.3.1}% 190
+\BOOKMARK [5][-]{subparagraph.7.3.3.1.3.1}{Hardwareanforderungen}{paragraph.7.3.3.1.3}% 191
+\BOOKMARK [5][-]{subparagraph.7.3.3.1.3.2}{Entwicklungssystem}{paragraph.7.3.3.1.3}% 192
+\BOOKMARK [5][-]{subparagraph.7.3.3.1.3.3}{Migration}{paragraph.7.3.3.1.3}% 193
+\BOOKMARK [5][-]{subparagraph.7.3.3.1.3.4}{Produktivsetzung}{paragraph.7.3.3.1.3}% 194
+\BOOKMARK [3][-]{subsubsection.7.3.3.2}{Alfresco}{subsection.7.3.3}% 195
+\BOOKMARK [4][-]{paragraph.7.3.3.2.1}{Ist-Zustand}{subsubsection.7.3.3.2}% 196
+\BOOKMARK [4][-]{paragraph.7.3.3.2.2}{Soll-Zustand}{subsubsection.7.3.3.2}% 197
+\BOOKMARK [4][-]{paragraph.7.3.3.2.3}{Migrationsplan}{subsubsection.7.3.3.2}% 198
+\BOOKMARK [5][-]{subparagraph.7.3.3.2.3.1}{Hardwareanforderungen}{paragraph.7.3.3.2.3}% 199
+\BOOKMARK [5][-]{subparagraph.7.3.3.2.3.2}{Entwicklungssystem}{paragraph.7.3.3.2.3}% 200
+\BOOKMARK [5][-]{subparagraph.7.3.3.2.3.3}{Migration}{paragraph.7.3.3.2.3}% 201
+\BOOKMARK [5][-]{subparagraph.7.3.3.2.3.4}{Produktivsetzung}{paragraph.7.3.3.2.3}% 202
+\BOOKMARK [0][-]{chapter.8}{Kosten und Zeit - BB, SH, KL}{}% 203
+\BOOKMARK [1][-]{section.8.1}{Kostenarten - KL}{chapter.8}% 204
+\BOOKMARK [2][-]{subsection.8.1.1}{Kostenarten in Hochschulen}{section.8.1}% 205
+\BOOKMARK [2][-]{subsection.8.1.2}{Kostenarten in der IT}{section.8.1}% 206
+\BOOKMARK [1][-]{section.8.2}{Verfahren f\374r die Kosten- und Zeitsch\344tzung - BB, SH}{chapter.8}% 207
+\BOOKMARK [2][-]{subsection.8.2.1}{Projektmanagement an einer Hochschule}{section.8.2}% 208
+\BOOKMARK [2][-]{subsection.8.2.2}{Kostensch\344tzung \(Total Cost of Ownership\) - SH}{section.8.2}% 209
+\BOOKMARK [2][-]{subsection.8.2.3}{Zeitplanung - BB}{section.8.2}% 210
+\BOOKMARK [3][-]{subsubsection.8.2.3.1}{Gantt-Diagramm}{subsection.8.2.3}% 211
+\BOOKMARK [3][-]{subsubsection.8.2.3.2}{Meilensteintrendanalyse}{subsection.8.2.3}% 212
+\BOOKMARK [2][-]{subsection.8.2.4}{Anwendung - BB, SH}{section.8.2}% 213
+\BOOKMARK [3][-]{subsubsection.8.2.4.1}{Dokumentenmanagementsystem Alfresco}{subsection.8.2.4}% 214
+\BOOKMARK [3][-]{subsubsection.8.2.4.2}{Redesign / Relaunch Hochschule-Webseite}{subsection.8.2.4}% 215
+\BOOKMARK [3][-]{subsubsection.8.2.4.3}{Facebook Seite}{subsection.8.2.4}% 216
+\BOOKMARK [1][-]{section.8.3}{Ausgew\344hlte Projekt-Beispiele - KL}{chapter.8}% 217
+\BOOKMARK [0][-]{chapter.9}{Zusammenfassung - AW}{}% 218
+\BOOKMARK [0][-]{chapter*.92}{Literatur- und Quellenverzeichnis}{}% 219
+\BOOKMARK [0][-]{chapter*.93}{Tabellenverzeichnis}{}% 220
+\BOOKMARK [0][-]{chapter*.94}{Abbildungsverzeichnis}{}% 221
