@@ -1,5 +1,6 @@
 \section{Hard- und Software - HS}
 \textit{Autor: Hannes Sprafke}
+
 Das folgende Kapitel bezieht sich auf den Teil des Informationsmanagements, den 
 Wollnik und Krzmar als Ebene der Informations- und Kommunikationsinfrastruktur 
 bezeichnen (vgl. Kapitel \ref{chapter_grundlagen_INM}) Zur Integration eines hochschulweiten 
@@ -104,9 +105,9 @@ Hier empfiehlt sich der Einsatz von Business Process Management (BPM). BPM dient
 
 Die Modellierung der Prozesse im ersten Schritt sollte auf abstraktem Niveau stattfinden. Dies erleichtert den Einstieg und macht Verbesserungspotenziale sichtbarer. In der WWU Münster wurde dafür die PICTURE Methode verwendet.\footcite[Vgl.][16]{becker_prozesse_2010} Wichtig ist die Einbeziehung der Prozessbeteiligten. Abschnitt \ref{section_changemanagement} setzt sich mit den Besonderheiten des Change Managements an Hochschulen detaillierter auseinander.
 
-Im zweiten Schritt kann der ggf. angepasste Prozess konkretisiert und in Form des Industriestandards Business Process Model Notation (BPMN) digital notiert werden. Ein Client-Tool zur Erstellung von BPMN ist das Activiti BPMN 2.0 Eclipse Plugin.\footnote{\url{http://docs.codehaus.org/display/ACT/Activiti+BPMN+2.0+Eclipse+Plugin}}
+Im zweiten Schritt kann der ggf. angepasste Prozess konkretisiert und in Form des Industriestandards Business Process Model Notation (BPMN) digital notiert werden. Ein Client-Tool zur Erstellung von BPMN ist das Activiti BPMN 2.0 Eclipse Plugin.\footcite{eclipse_bpmn2_modeler}
 
-Mit Hilfe der zentralen Business Process Management (BPM) Platform activiti können die Prozesse aktiv den Workflow verbessern, Konsistenz wahren und zeitliche Ressourcen sparen.  Die Plattform ermöglicht REST Anfragen, wodurch die Prozessinformationen auch in andere Applikation integriert werden können. Der Activiti Explorer ermöglicht den voll funktionalen Zugriff via Weboberfläche. Somit wird der Kernanforderung SaaS Rechnung getragen. Weiterhin ist Activiti Open Source und somit ausbau- und anpassungsfähig.\footnote{\url{http://activiti.org/index.html}}
+Mit Hilfe der zentralen Business Process Management (BPM) Platform activiti können die Prozesse aktiv den Workflow verbessern, Konsistenz wahren und zeitliche Ressourcen sparen.  Die Plattform ermöglicht REST Anfragen, wodurch die Prozessinformationen auch in andere Applikation integriert werden können. Der Activiti Explorer ermöglicht den voll funktionalen Zugriff via Weboberfläche. Somit wird der Kernanforderung SaaS Rechnung getragen. Weiterhin ist Activiti Open Source und somit ausbau- und anpassungsfähig.\footcite{activiti_website}
 
 Durch activiti wird es möglich sein die Automatisierung von einzelnen Prozessen Stück für Stück voranzutreiben indem manuelle Aufgaben gegen Automatismen ersetzt werden. Einzelne Teile des Workflows können dann automatisiert Scripte starten, E-Mails verschicken und ähnliches und somit stückweise die manuelle Bearbeitung reduzieren. Durch Definition von Pflichtfeldern für einzelne Prozessschritte können vorab benötigte Informationen festgelegt werden, sodass Nachfragen vermieden werden.
 
@@ -142,7 +143,7 @@ Solange moodle die Anforderungen der Hochschule an eine Lernplattform erfüllt, 
 
 Neben den bereits genutzten Standardfunktionen ist moodle ausbaufähig.
 
-Beim Aufruf von moodle soll die Authentifizierung durch einen SSO Mechanismus geschehen. Für das Lernraumsystem moodle gibt es bereits ein SSO Plugin.\footnote{\url{http://sourceforge.net/projects/moodleldapsso}} Integriert werden sollte, wie in Kapitel 6.3.2.1 erläutert, dann auch ein Single-Sign-Off Mechanismus.
+Beim Aufruf von moodle soll die Authentifizierung durch einen SSO Mechanismus geschehen. Für das Lernraumsystem moodle gibt es bereits ein SSO Plugin.\footcite{macklin_moodle_sso_plugin} Integriert werden sollte, wie in Kapitel 6.3.2.1 erläutert, dann auch ein Single-Sign-Off Mechanismus.
 
 Statt der Stammdatenänderung via moodle wird der entsprechende Menüpunkt ausgeblendet werden bzw. die Benutzenden auf ein zentrales Formular weiterleiten, um persönliche Informationen zentral und damit konsistent zu halten.
 
@@ -158,11 +159,12 @@ Um Wissenschaftler bei der Publikation von Zeitschriften zu unterstützen, kann 
 
 Zusätzlich sollte auch ein Workflow in activiti implementiert werden, der bei der Publikation unterstützt. So können wichtige Metadaten aufgenommen und an relevante Systeme weitergegeben werden. Ändern sich Systeme oder kommen neue hinzu, müssen sich Wissenschaftler nicht umgewöhnen, sondern nutzen weiterhin den in activiti hinterlegten, für die neuen Systeme jedoch angepassten, Prozess. Dadurch besteht auch die Möglichkeit ein publiziertes Dokument zusätzlich in Alfresco abzulegen, wenn ein Anwendungsfall dies benötigt.
 
-OJS bietet die Möglichkeit der Authentifizierung via Single Sign On. Dies geschieht via Shibboleth.\footnote{\url{https://pkp.sfu.ca/wiki/index.php?title=Setting_up_authentication}} Neben der Konfiguration von SSO sollte auch hier wieder den Benutzenden die Möglichkeit des Single-Sign-Offs gegeben werden.
+OJS bietet die Möglichkeit der Authentifizierung via Single Sign On. Dies geschieht via Shibboleth.\footcite{ojs_setup_sso} 
+Neben der Konfiguration von SSO sollte auch hier wieder den Benutzenden die Möglichkeit des Single-Sign-Offs gegeben werden.
 
 \subsubsection{Evaluation}
-Wie auch die Universität Münster\footnote{\url{https://www.wiwi.uni-muenster.de/fakultaet/de/studium/lehrevaluation}} und die TU Dortmund\footnote{\url{https://www.itmc.uni-dortmund.de/dienste/e-learning/umfragewerkzeuge.html}} setzt die Hochschule Emden/Leer bereits die Software EvaSys zu Evaluationszwecken ein.\footcite{gunter_muller_interview} Sie ist webbasiert und entspricht damit dem SaaS Prinzip.
-Seit Version 5 unterstützt EvaSys auch die SSO Authentifizierung\footnote{\url{http://www.ku.de/fileadmin/190304/Feature_Function_Benefit_EvaSys_V5.0_DE.pdf}}, welche auch an der Hochschule Emden/Leer eingesetzt werden soll.
+Wie auch die Universität Münster\footcite{evasys_muenster} und die TU Dortmund\footcite{evasys_dortmund} setzt die Hochschule Emden/Leer bereits die Software EvaSys zu Evaluationszwecken ein.\footcite{gunter_muller_interview} Sie ist webbasiert und entspricht damit dem SaaS Prinzip.
+Seit Version 5 unterstützt EvaSys auch die SSO Authentifizierung\footcite{evasys_sso}, welche auch an der Hochschule Emden/Leer eingesetzt werden soll.
 
 \subsubsection{Campus Portal}
 \label{subsubsection_campus_portal}
