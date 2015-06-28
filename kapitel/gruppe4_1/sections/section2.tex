@@ -101,7 +101,7 @@ Die Ablösung des derzeitigen Systems erfolgt anhand der Migrationsstrategie Big
 \label{subsubsection_migration_alfresco}
 Alfresco\footcite{alfresco_dm_url} ist ein Dokumenten-Management-System welches als Open-Source-Plattform offene Standards unterstützt. Hiermit lässt sich der gesamte Content auf einer einzelnen Plattform konsolidieren und damit die Benutzerfreundlichkeit erhöhen und die Kosten senken.
 
-Luis Cabaceira\footnote{\url{http://de.slideshare.net/LuisCabaceira/sizing-your-alfrescoplatform}, abgerufen am 27.05.2015} hat die nachfolgende Grafik erstellt, die eine Übersicht über die Funktionen von Alfresco gibt:
+Luis Cabaceira\footcite{cabaceira_alfresco_2015} hat die nachfolgende Grafik erstellt, die eine Übersicht über die Funktionen von Alfresco gibt:
 
 \begin{figure}[h!]
 	\centering
@@ -111,7 +111,7 @@ Luis Cabaceira\footnote{\url{http://de.slideshare.net/LuisCabaceira/sizing-your-
 	\label{fig_uebersicht_alfresco}
 \end{figure}
 
-Peter Franke – Leiter des Rechenzentrums der Hochschule Braunschweig/Wolfenbüttel – berichtet von positiven Erfahrungen seit der Einführung von Alfresco.\footnote{\url{http://www.ostfalia.de/export/sites/default/de/rz/documents/it-konzept-2011.pdf}, abgerufen am 27.05.2015}
+Peter Franke – Leiter des Rechenzentrums der Hochschule Braunschweig/Wolfenbüttel – berichtet von positiven Erfahrungen seit der Einführung von Alfresco.\footcite{franke_alfresco_2011}
 
 \paragraph{Ist-Zustand}\mbox{}\\\\
 Alfresco wird derzeit von der Hochschule Emden/Leer noch nicht eingesetzt. Derzeit werden Dokumente in verschiedensten Systemen verwaltet und zugänglich gemacht. Auszugsweise sind hier zu nennen:
@@ -130,21 +130,21 @@ Derzeit gibt es also viele gewachsene Systeme und Strukturen.
 \paragraph{Soll-Zustand}\mbox{}\\\\
 Ein neues System soll Information bündeln und zentral verwalten. Hierfür werden alle vorhandenen Dokumente in das neue System migriert, unabhängig vom Datentyp. Ein Versionsmanagement sorgt für die Versionierung der Dokumente, mit dem Vorteil, dass auch auf ältere Versionen zugegriffen werden kann. Ein schneller und ortsunabhängiger Zugriff auf die Information ist für die Usability des Systems wichtig und bedingt unter anderem, dass keine Client-Installation notwendig wird.
 
-Die Software Alfresco bietet alle diese Merkmale. In der aktuellen Version wird auch die Auslieferung von Web-Content unterstützt, so dass für die Zukunft auch eine Migration des Internetauftritts in das Alfresco-System denkbar wäre. Alternativ könnte Alfresco auch im Rahmen des Single Source Publishing Konzeptes als Content-Quelle für das TYPO3-System genutzt werden. Die Berliner Philharmoniker nutzen bereits dieses Konzept, wie aus einer Case Study der Firma form4 GmbH hervorgeht.\footnote{\url{http://www.form4.de/artikel/alfresco-meets-typo3/}, abgerufen am 28.05.2015}
+Die Software Alfresco bietet alle diese Merkmale. In der aktuellen Version wird auch die Auslieferung von Web-Content unterstützt, so dass für die Zukunft auch eine Migration des Internetauftritts in das Alfresco-System denkbar wäre. Alternativ könnte Alfresco auch im Rahmen des Single Source Publishing Konzeptes als Content-Quelle für das TYPO3-System genutzt werden. Die Berliner Philharmoniker nutzen bereits dieses Konzept, wie aus einer Case Study der Firma form4 GmbH hervorgeht.\footcite{form4_alfresco_2015}
 
 Hinsichtlich des Dokumenten-Managements wird zunächst ein strategisch günstiger Migrationsplan zur Einführung von Alfresco erstellt. Dabei muss auch die Entscheidung getroffen werden, welche Edition von Alfresco sinnvoll für die Hochschule ist.
 
 \paragraph{Migrationsplan}\mbox{}\\\\
 Da nach der Migration alle Dokumente zentral verwaltet werden, erscheint es sinnvoll, Alfresco als hochverfügbaren Cluster auszulegen. Gegebenenfalls ist auch der Einsatz eines SAN (Storage Area Networks) mit räumlich getrennten Speichereinheiten und entsprechend angepasstem Backup- und Restore-Konzept in Erwägung zu ziehen.
 
-Grundsätzlich stehen von Alfresco die kostenlose Community Edition und die kostenpflichtige Enterprise Edition zur Verfügung. Ein Vergleich der beiden Editionen findet sich auf der Website\footnote{\url{https://www.alfresco.com/de/alfresco-community-edition}, abgerufen am 28.05.2015} von Alfresco.
+Grundsätzlich stehen von Alfresco die kostenlose Community Edition und die kostenpflichtige Enterprise Edition zur Verfügung. Ein Vergleich der beiden Editionen findet sich auf der Website\footcite{alfresco_community_edition_2015} von Alfresco.
 
 Folgt die IT-Leitung der Hochschule Emden/Leer dem Vorschlag einer hochverfügbaren Realisierung, muss die Enterprise Edition eingesetzt werden, da nur sie die Möglichkeit des Clusterings bietet. Hierbei ergibt sich der Vorteil, dass für diese Edition Support seitens des Herstellers geboten wird und die wichtige Frage nach Service Level Agreements (SLA) damit gelöst werden kann. Zusätzlich gibt es Zertifizierungsschulungen für Entwickler und Administratoren, welche im Rahmen des Change Managements sinnvoll sind.
 
 Das Alfresco-System wird komplett neu aufgesetzt und die (derzeit) auf verschiedenen Systemen verteilten Dokumente werden nach und nach in das Alfresco-System migriert.
 
 \subparagraph{Hardwareanforderungen}\mbox{}\\\\
-Die Hardwareanforderungen richten sich stark nach den in Alfresco genutzten Modulen, bzw. ob die Community oder Enterprise-Edition genutzt wird. Detailliert Hardwareanforderungen können nach Festlegung der Edition in der Alfresco-Dokumentation\footnote{\url{http://docs.alfresco.com/5.0/concepts/ha-intro.html}, abgerufen am 28.05.2015} eingesehen werden. 
+Die Hardwareanforderungen richten sich stark nach den in Alfresco genutzten Modulen, bzw. ob die Community oder Enterprise-Edition genutzt wird. Detailliert Hardwareanforderungen können nach Festlegung der Edition in der Alfresco-Dokumentation\footcite{alfresco_documentation_2015} eingesehen werden. 
 
 Die Hardwareanforderungen sind unter anderem abhängig von:
 
@@ -167,7 +167,7 @@ Die Hardwareanforderungen sind unter anderem abhängig von:
 	\label{fig_deployment_alfresco}
 \end{figure}
 
-Die Abbildung \ref{fig_deployment_alfresco} zeigt eine mögliche Hardwarestruktur für ein Alfresco-System nach Cabaceira.\footnote{\url{http://de.slideshare.net/LuisCabaceira/sizing-your-alfrescoplatform}, abgerufen am 27.05.2015}
+Die Abbildung \ref{fig_deployment_alfresco} zeigt eine mögliche Hardwarestruktur für ein Alfresco-System nach Cabaceira.\footcite{cabaceira_alfresco_2015}
 
 \subparagraph{Entwicklungssystem}\mbox{}\\\\
 Das Entwicklungssystem wird nach den benötigten Hardwareanforderungen aufgesetzt. Hierauf erfolgt die Implementierung von Alfresco inkl. den bei Bedarf benötigten Schnittstellen. Nach Fertigstellung kann das Entwicklungssystems direkt als Produktivsystem genutzt werden, da die Datenmigration anschließend erfolgt, wie im folgenden Abschnitt beschrieben.
