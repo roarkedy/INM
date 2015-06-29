@@ -16,6 +16,7 @@ Im Rahmen der Migrationsplanung werden die verschiedenen Phasen der Migration ge
 Das in Abbildung \ref{fig_vorgehensmodell_softwaremigration} ersichtliche Vorgehensmodell beschreibt die verschiedenen, notwendigen Phasen, die einer Migration vorausgehen. Die Genauigkeit dieser Planung ist hierbei maßgeblich für den späteren Erfolg der Migration. Im Rahmen dieser Ausarbeitung wurde beispielsweise die in der Abbildung ersichtliche Methodik des Experteninterviews (vgl. Kapitel 5.2) angewandt, um Grundlagen für die Ist-Analyse zu erhalten.
 
 In der Auswahlphase sind hierbei strategische, rechtliche und wirtschaftliche Aspekte zu berücksichtigen, ebenso wie der spätere Systembetrieb, die notwendigen organisatorischen Aspekte und Anforderungen an die Sicherheit der Systeme (vgl. Kapitel 5.4.3). Nach der Entscheidungsempfehlung in Kapitel 6.4 werden dann eine oder mehrere Migrationsstrategien für die Einführung der neuen und die Ablösung der alten Software festgelegt.
+\clearpage
 
 \subsection{Migrationsstrategien}
 Die Wahl der Migrationsstrategie ist jeweils fallbezogen zu prüfen. Es ist auch denkbar, für verschiedene Systeme verschiedene Strategien zu nutzen. Nachfolgend werden auszugweise durch Prof. Dr. Markus Nüttgens\footcite{nuettgens_abloesung_2014} beschriebene Migrationsstrategien aufgeführt, welche in Abschnitt \ref{subsection_migrationsbeispiele} hinsichtlich der Verwendung durch die Migrationsbeispiele der Hochschule beleuchtet werden.
@@ -93,6 +94,7 @@ Im Rahmen der Migration müssen Softwaretechnisch folgende Punkte berücksichtig
 \end{itemize}
 
 Der Datenbestand wird nach der Migration noch einmal mit dem Datenbestand des derzeitigen Systems abgeglichen. Alternativ ist auch eine Übernahme neuer Daten während der Migrationsphase, beispielsweise durch Gateways denkbar. 
+\clearpage
 
 \subparagraph{Produktivsetzung}\mbox{}\\\\
 Die Ablösung des derzeitigen Systems erfolgt anhand der Migrationsstrategie Big Bang Approach (oder der Chicken-Little Strategy, falls die im vorigen Kapitel angesprochene Alternative mit Gateways genutzt wird), da mit dem Entwicklungssystem ein fertig entwickeltes und hinsichtlich des Datenbestandes aktuelles System zur Verfügung steht. Die Produktivsetzung erfolgt in umgekehrter Reihenfolge wie die Einrichtung des Entwicklungssystems, also mit Datenbank-Dump, Datei-Migration und ggf. TYPO3-Konfigurations-anpassungen. Hierdurch ist die Downtime für den Internetauftritt der Hochschule Emden minimal.
@@ -101,7 +103,7 @@ Die Ablösung des derzeitigen Systems erfolgt anhand der Migrationsstrategie Big
 \label{subsubsection_migration_alfresco}
 Alfresco\footcite{alfresco_dm_url} ist ein Dokumenten-Management-System welches als Open-Source-Plattform offene Standards unterstützt. Hiermit lässt sich der gesamte Content auf einer einzelnen Plattform konsolidieren und damit die Benutzerfreundlichkeit erhöhen und die Kosten senken.
 
-Luis Cabaceira\footcite{cabaceira_alfresco_2015} hat die nachfolgende Grafik erstellt, die eine Übersicht über die Funktionen von Alfresco gibt:
+Luis Cabaceira\footcite{cabaceira_alfresco_2014} hat die nachfolgende Grafik erstellt, die eine Übersicht über die Funktionen von Alfresco gibt:
 
 \begin{figure}[h!]
 	\centering
@@ -110,7 +112,7 @@ Luis Cabaceira\footcite{cabaceira_alfresco_2015} hat die nachfolgende Grafik ers
 	\caption{Übersicht Alfresco nach Luis Cabaceira}
 	\label{fig_uebersicht_alfresco}
 \end{figure}
-
+\clearpage
 Peter Franke – Leiter des Rechenzentrums der Hochschule Braunschweig/Wolfenbüttel – berichtet von positiven Erfahrungen seit der Einführung von Alfresco.\footcite{franke_alfresco_2011}
 
 \paragraph{Ist-Zustand}\mbox{}\\\\
@@ -167,7 +169,7 @@ Die Hardwareanforderungen sind unter anderem abhängig von:
 	\label{fig_deployment_alfresco}
 \end{figure}
 
-Die Abbildung \ref{fig_deployment_alfresco} zeigt eine mögliche Hardwarestruktur für ein Alfresco-System nach Cabaceira.\footcite{cabaceira_alfresco_2015}
+Die Abbildung \ref{fig_deployment_alfresco} zeigt eine mögliche Hardwarestruktur für ein Alfresco-System nach Cabaceira.\footcite{cabaceira_alfresco_2014}
 
 \subparagraph{Entwicklungssystem}\mbox{}\\\\
 Das Entwicklungssystem wird nach den benötigten Hardwareanforderungen aufgesetzt. Hierauf erfolgt die Implementierung von Alfresco inkl. den bei Bedarf benötigten Schnittstellen. Nach Fertigstellung kann das Entwicklungssystems direkt als Produktivsystem genutzt werden, da die Datenmigration anschließend erfolgt, wie im folgenden Abschnitt beschrieben.
