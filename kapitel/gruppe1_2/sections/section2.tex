@@ -79,29 +79,25 @@ Change-Management ist einer der ITIL-Prozesse und beschreibt wie auf Änderungsa
 	\item Change wird abgeschlossen
 \end{enumerate}
 
-Innerhalb des Prozesses gibt es die Rolle des Change Requestors, der die Anfrage stellt. Diese wird optimaler weise an einer einzigen Stelle wie den Servicedesk aufgegeben, um sicherzustellen, dass alle Anforderungen vollständig erfasst und zentral gebündelt sind. Der Change Manager klassifiziert, plant die Durchführung und gibt den Change frei. Eine Beurteilung der Änderungsanfrage erfolgt anhand einer hochschulweiten vereinbarten Einstufung, die eine Klassifizierung nach Typ, Risiko und Dringlichkeit ermöglicht. Ein Beispiel so einer Tabelle ist in Abbildung \ref{fig_typenvonchange} vorzufinden. Der Change Builder setzt die Veränderung letztendlich um und der Change Approver prüft und testet die Änderung. \footcite[Vgl.][48]{breiter_implementierung_2011}
+Innerhalb dieses Prozesses gibt es die Rolle des Change Requestors, der die Anfrage stellt. Diese wird idealerweise an einer einzigen Stelle wie den Servicedesk aufgegeben, um sicherzustellen, dass alle Anforderungen vollständig erfasst und zentral gebündelt sind. Der Change Manager klassifiziert den Change und plant die Durchführung. Eine Beurteilung der Änderungsanfrage erfolgt anhand einer hochschulweiten vereinbarten Einstufung, die eine Klassifizierung nach Change-Typen vorsieht. In der Tabelle \ref{tab_typen_von_changes} sind hier die Change-Typen \glqq Normal Change\grqq, \glqq Security Change\grqq und \glqq Notfall Change\grqq als Beispiel aufgeführt, wobei nur im Notfall eine Freigabe durch den Change Manager notwendig ist. Der Change Builder setzt die Veränderung letztendlich um und der Change Approver prüft und testet die Änderung. \footcite[Vgl.][48]{breiter_implementierung_2011}
 
-\begin{tabular}{|c|c|c|} 
-\hline 
-\bf Change-Typ & \bf Beschreibung & \bf Genehmigung\\ \hline \hline
-Normal Change & Normalfall & keine Genehmigung durch den Change Manager\\
-\hline 
-Security Change & Erforderlich für Änderungen, 
-die nur einem bestimmten Anwenderkreis zugänglich gemacht werden sollen & keine Genehmigung durch den Change Manager\\
-\hline
-Notfall Change & Sofortige Freigabe und Bearbeitung & Genehmigung durch Change Manager nötig\\
-\hline 
-\end{tabular}
+\begin{table}[h!]
+	\begin{tabularx}{\textwidth}{|X|X|X|}
+		% Überschriften
+		\hline \textbf{Change-Typ} & \textbf{Beschreibung} & \textbf{Genehmigung}\\
+		% Zeile 1
+		\hline Normal Change & Normalfall & keine Genehmigung durch den Change Manager\\ 
+		% Zeile 2
+		\hline Security Change & Änderungen für einen bestimmten Anwenderkreis & keine Genehmigung 			durch den Change Manager\\
+		% Zeile 3
+		\hline Notfall Change & Sofortige Freigabe und Bearbeitung & Genehmigung durch Change 				Manager nötig\\
+		\hline
+	\end{tabularx}
+	\caption{Typen von Changes}\footnotetext{\cite[48]{breiter_implementierung_2011}}
+	\label{tab_typen_von_changes}
+\end{table}
 
-
-\begin{figure}[h!]
-	\centering
-	\includegraphics[width=15cm]{kapitel/gruppe1_2/bilder/typen_von_changes} 
-	\caption{Typen von Changes\protect\footnotemark}
-	\label{fig_typenvonchange}
-\end{figure}\footnotetext{\cite[48]{breiter_implementierung_2011}}
-
-
+\todo[inline]{AW: Quellenangabe für die Tabelle wird nicht ausgegeben}
 
 \paragraph{Service Level Agreements}\mbox{}\\\\
 „Service Level Agreements“ (SLAs) sind verbindliche Vereinbarungen zwischen dem Leistungsempfänger und dem Leistungserbringer. Die SLAs sichern die Bereitstellung von IT-Dienstleistungen, regeln die Dienstleistungsqualität und definieren die Preise für die Erbringung von Leistungen. Weiter werden auch Reaktionszeiten je nach Schweregrad definiert und Konventionalstrafen für den Fall von einer Überschreitung festgelegt. Betriebszeiten und Ausfallsicherheit wichtiger Infrastruktur sind ebenfalls Bestandteile solch einer Vereinbarung.
@@ -109,7 +105,7 @@ Zusammengefasst sind SLAs für Dienstleistungsempfänger ein wichtiges Instrumen
 
 
 \subsubsection{Chief-Information Officer (CIO)}
-\label{cio_text}
+\label{subsubsection_cio}
 Der Chief Information Officer (CIO) ist die Berufsbezeichnung für eine Person/Führungskraft, die verantwortlich für die Informationstechnik und Anwendungen einer Hochschule ist. \footcite[Vgl.][]{beuschel_2009}
 
 \paragraph{Aufgaben und Funktionen des Informationsmanagers}\mbox{}\\\\
@@ -137,7 +133,19 @@ Ein gutes Anforderungsprofil eines CIOs umfasst eine Mischung aus technischem Wi
 \end{figure}\footnotetext{\cite[150]{krcmar_einfuhrung_2015}}
 
 \paragraph{Eingliederung in die Hochschulhierarchie}\mbox{}\\\\
+<<<<<<< HEAD
 Nachdem die grundsätzlichen Aufgaben eines Informationsmanagers erläutert wurden, ist noch die Ansiedlung dieses Postens innerhalb der Hochschulhierarchie zu klären. Das Spektrum reicht hier vom CIO mit Leitungsfunktion repräsentiert durch einen Vizepräsident bis hin zu einer kollektiven Teilung innerhalb des Lenkungsausschusses durch mehrere Personen. Im Detail wird hierauf in Kapitel \ref{subsubsection_zki} eingegangen, insgesamt werden 4 verschiedene Umsetzungstypen unterschieden. \footcite[Vgl.][10]{leitner_itil_2008}
+=======
+\label{anforderungsprofil_informationsmanager}
+Nachdem die grundsätzlichen Aufgaben eines Informationsmanagers erläutert wurden, ist noch die Ansiedlung dieses Postens innerhalb der Hochschulhierarchie zu klären. Das Spektrum reicht hier vom CIO mit Leitungsfunktion repräsentiert durch einen Vizepräsident bis hin zu einer kollektiven Teilung innerhalb des Lenkungsausschusses durch mehrere Personen. Im Detail werden 4 Typen unterschieden: \footcite[Vgl.][10]{leitner_itil_2008}
+
+\begin{enumerate}
+	\item Strategischer CIO mit Leitungsfunktion: Ein Vizepräsident ist ausschließlich für das Informationsmanagement zuständig. Beispielhaft wird dies an der technischen Universität München oder Universität Karlsruhe gelebt. Die Technische Universität Berlin und Universität Osnabrück verstehen den Kanzler als CIO
+	\item Strategischer CIO mit Stabsfunktion: Das Informationsmanagement wird durch einen IT-Manager oder Hochschullehrer im Präsidialstab ausgeübt. Die Universität Hannover und Bielefeld nutzen solch eine Stabsfunktion als CIO.
+	\item Operativer CIO: Als CIO fungiert der Leiter einer zentralen Informationsinfrastruktureinrichtung, wie beispielsweise an der BTU Cottbus.
+	\item Kollektiver CIO: Zwei bis drei Personen eines Lenkungsausschusses nehmen die Aufgabe des CIO wahr. Diese verfügen über unmittelbare Entscheidungsbefugnisse, wie an der Universität Münster.
+\end{enumerate}
+>>>>>>> origin/master
 
 
 \subsection{Prozessorientierung}
@@ -181,16 +189,17 @@ Ein in der Abbildung nicht aufgeführter möglicher Rückweg wäre: Nach Freigab
 
 \paragraph{Prozesskonstruktion und –sichtbarkeit}\mbox{}\\\\
 \label{paragraph_prozesskonstruktion_und_sichtbarkeit}
-Um die im vorherigen Kapitel bei der Prozessanalysendefinition erwähnten Elemente sichtbar zu machen, werden Prozessketten verwendet. Diese eigenen sich, um den Ablauf bestehender Prozesse und die Beziehung der einzelnen Elemente untereinander zu visualisieren. Aber nicht nur der Ist-Prozess, sondern auch der Soll-Prozess kann mittels Prozessketten modelliert werden. Zur Verfügung stehen unterschiedliche Modellierungselemente, beispielsweise ein Rechteck zur Symbolisierung einer Funktion, eine Ellipse als organisatorisches Element (Prozessstart, Prozessende) oder Pfeile, die einen Informationsfluss veranschaulichen. \footcite[Vgl.][64]{krcmar_einfuhrung_2015} Zur Steigerung der Prozesseffizienz wurden in Kapitel \ref{subsubsection_prozessoptimierung_durch_minierung_der_durchlaufzeiten} unterschiedliche Durchlaufoptimierungen aufgeführt: Weglassen, Auslagern, Zusammen fassen, Parallelisieren, Verlagern, Beschleunigen, Keine Schleifen und Ergänzen.
+Um die im vorherigen Kapitel bei der Prozessanalysendefinition erwähnten Elemente sichtbar zu machen, werden Prozessketten verwendet. Diese eigenen sich, um den Ablauf bestehender Prozesse und die Beziehung der einzelnen Elemente untereinander zu visualisieren. Aber nicht nur der Ist-Prozess, sondern auch der Soll-Prozess kann mittels Prozessketten modelliert werden. Zur Verfügung stehen unterschiedliche Modellierungselemente, beispielsweise ein Rechteck zur Symbolisierung einer Funktion, eine Ellipse als organisatorisches Element (Prozessstart, Prozessende) oder Pfeile, die einen Informationsfluss veranschaulichen. \footcite[Vgl.][64]{krcmar_einfuhrung_2015} Zur Steigerung der Prozesseffizienz wurden in Kapitel \ref{subsubsection_prozessoptimierung_durch_minierung_der_durchlaufzeiten} unterschiedliche Durchlaufoptimierungen aufgeführt: \glqq Weglassen\grqq, \glqq Auslagern\grqq, \glqq Zusammen fassen\grqq, \glqq Parallelisieren\grqq, \glqq Verlagern\grqq, \glqq Beschleunigen\grqq, \glqq Keine Schleifen\grqq und \glqq Ergänzen\grqq.
 
-Im Sinne des kontinuierlichen Verbesserungsprozesses und der in diesem Kapitel verwiesenen Prozesskonstruktion wurde im Anhang in der Abbildung XXXX\todo[inline]{OS: Referenz aktualisieren} der im Kapitel \ref{paragraph_prozessidenifizierung} beschriebene Prozess der Fehlerbehandlung einer Fachapplikation mittels Prozesskette abgebildet. In der Zeilenbeschreibung sind die Zuständigen der jeweiligen Aufgaben aufgeführt. Der Prozess startet in der ersten Zeile bei „Start“ und ist der vorgegebenen Pfeilrichtung entsprechend zu lesen bis hin zum Prozessende.
+Im Sinne des kontinuierlichen Verbesserungsprozesses und der in diesem Kapitel verwiesenen Prozesskonstruktion wurde im Anhang in der Abbildung \ref{fig_prozessoptimierung_gesamt} der im Kapitel \ref{paragraph_prozessidenifizierung} beschriebene Prozess der Fehlerbehandlung einer Fachapplikation mittels Prozesskette abgebildet. In der Zeilenbeschreibung sind die Zuständigen der jeweiligen Aufgaben aufgeführt. Der Prozess startet in der ersten Zeile bei „Start“ und ist der vorgegebenen Pfeilrichtung entsprechend zu lesen bis hin zum Prozessende. 
 
 \paragraph{Prozessevaluierung}\mbox{}\\\\
 „Der wesentliche Zweck der Prozessevaluierung besteht darin, zu überprüfen, ob ein Geschäftsprozess gemäß den Vorgaben ausgeführt wird. Relevante Vorgaben können in Prozessentwürfen, Verfahrensanweisungen und Arbeitsanleitungen beschrieben sein“. \footcite[277]{heinrich_stelzer_2011} Es wird sich die Frage gestellt, ob die Prozesse so ausgeführt werden, wie sie in den Prozessmodellen beschrieben wurden und ob der Geschäftsprozess der kontinuierlichen Verbesserung unterliegt. \footcite[Vgl.][277]{heinrich_stelzer_2011} In unserem Beispiel wurde die Prozessmodellierung auf Basis der Prozessbeschreibung erstellt, wodurch die Prozessevaluierung positiv abschließt. Diese Evaluierung muss natürlich in regelmäßigen Abständen wiederholt werden, um zu überprüfen, ob der Gesamtprozess noch nach Plan läuft. Trotz positiver Bewertung kann auch unser Beispielprozess von einer Prozessoptimierung profitieren.
 
 \paragraph{Prozessoptimierung}\mbox{}\\\\
 Die Prozessoptimierung bezeichnet alle Maßnahmen zur Veränderung von Prozessen, um die Kosten zu senken, Durchlaufzeiten zu verkürzen, Innovationsfähigkeit zu erhöhen oder die Qualität zu steigern. \footcite[Vgl.][280]{heinrich_stelzer_2011}
-Die im Kapitel \ref{paragraph_prozesskonstruktion_und_sichtbarkeit} gewonnenen Erkenntnisse zur Steigerung der Prozesseffizienz wurden auf unseren Fall angewandt und mündeten in einer optimierten Prozesskette. Dieses Kapitel konzentriert sich aufgrund der Komplexität auf den ersten Teilprozess, sprich die Meldung des Fehlers bis zur Freigabe des Updates. Der Rückweg in Form der Installation auf dem Produktivsystem und der Erfolgsmeldung an den Kunden ist der Vollständigkeit halber im Anhang in Abbildung XXXX\todo[inline]{OS: Referenz aktualisieren} aufgeführt, ist aber nicht Bestandteil dieser Ausarbeitung. 
+Die im Kapitel \ref{paragraph_prozesskonstruktion_und_sichtbarkeit} gewonnenen Erkenntnisse zur Steigerung der Prozesseffizienz wurden auf unseren Fall angewandt und mündeten in einer optimierten Prozesskette. Dieses Kapitel konzentriert sich aufgrund der Komplexität auf den ersten Teilprozess, sprich die Meldung des Fehlers bis zur Freigabe des Updates. Der Rückweg in Form der Installation auf dem Produktivsystem und der Erfolgsmeldung an den Kunden ist der Vollständigkeit halber im Anhang in Abbildung 
+\ref{fig_prozessoptimierung_gesamt} mit aufgeführt, ist aber nicht Bestandteil dieser Ausarbeitung. 
 Die erste Spalte der Abbildung \ref{fig_prozessoptimierung} zeichnet den aktuellen Ist-Zustand auf. Das Ergebnis einer Prozessoptimierung ist in der zweiten Spalte erkennbar, auf das nachfolgend weiter eingegangen wird. Damit die Innovation Einzug in der Hochschule hält, wäre eine übergreifende Service- und Programmüberwachung denkbar. Sie ermöglicht das entdecken und identifizieren von Fehlern vor der Meldung durch einen Endanwender. Parallel dazu wird ein Automatismus geschaffen, der neue Updates für alle Fachapplikationen sucht und bei Entdeckung an die übergreifende Überwachungssoftware meldet. Wird ein neues Update festgestellt, wird der Server-Administrator informiert, um die Serverkonfiguration zu prüfen. Es ist sinnvoll, seine Kompetenzen um das Einspielen von Updates für Applikationen zu erweitern. Nur spezifische Störungen innerhalb der Anwendung oder konkrete Nachfragen zur Bedienung sollten an das Anwendungsmanagement weitergeleitet werden.  Die Testgruppe prüft anhand vordefinierter Testfälle die Funktionsfähigkeit der Anwendung. Der Betriebsleiter gibt das Update nach positivem Testfeedback frei.
 Um die einzelnen Maßnahmen zur Prozessoptimierung aufzugreifen, sind im Schaubild Kreise mit Zahlen aufgeführt:
 
@@ -226,22 +235,16 @@ Die Zentralisierung von Diensten ermöglicht eine einfach zu koordinierende Besc
 
 
 \paragraph{Standardisierung}\mbox{}\\\\
-Unter der Standardisierung in Hochschulen wird die einheitliche Nutzung von Basisdiensten und Grundfunktionalitäten verstanden. Konkret soll die Vereinheitlichung von Anwendungsprogrammen, Prüfungsordnungen und IT-Infrastrukturen in den Fachbereichen erzielt werden. Über ein Softwareverteilungstool kann eine gleiche Version aller Applikationen sichergestellt werden. Zur Realisierung von einheitlicher IT-Infrastruktur wäre eine Zentralisierung der Serviceleistungen denkbar, wie im vorherigen Kapitel beschrieben. Die Einführung von ITIL-Standardprozessen wäre ein möglicher Weg der Umsetzung und mittels SLAs könnten auch die Reaktionszeiten auf Fehlermeldungen festgelegt werden. Ein Informationsmanager (siehe Kapitel \ref{subsection_cio}) würde für eine kontinuierliche Einführung und Einhaltung der Standards in allen Fachbereichen Sorge tragen. Eine Zertifizierung nach standardisierten Normen (ISO 200000), wird in den kommenden Jahren ebenfalls an Bedeutung gewinnen.\footcite[Vgl.][168]{breiter_implementierung_2011}
+Unter der Standardisierung in Hochschulen wird die einheitliche Nutzung von Basisdiensten und Grundfunktionalitäten verstanden. Konkret soll die Vereinheitlichung von Anwendungsprogrammen, Prüfungsordnungen und IT-Infrastrukturen in den Fachbereichen erzielt werden. Über ein Softwareverteilungstool kann eine gleiche Version aller Applikationen sichergestellt werden. Zur Realisierung von einheitlicher IT-Infrastruktur wäre eine Zentralisierung der Serviceleistungen denkbar, wie im vorherigen Kapitel beschrieben. Die Einführung von ITIL-Standardprozessen wäre ein möglicher Weg der Umsetzung und mittels SLAs könnten auch die Reaktionszeiten auf Fehlermeldungen festgelegt werden. Ein Informationsmanager (siehe Kapitel \ref{subsubsection_cio}) würde für eine kontinuierliche Einführung und Einhaltung der Standards in allen Fachbereichen Sorge tragen. Eine Zertifizierung nach standardisierten Normen (ISO 200000), wird in den kommenden Jahren ebenfalls an Bedeutung gewinnen.\footcite[Vgl.][168]{breiter_implementierung_2011}
 
 
 \paragraph{Outsourcing}\mbox{}\\\\
-Outsourcing besteht aus den Wörtern \glqq Outside\grqq{}, \glqq Ressource\grqq{} und \glqq Using\grqq{}. Gemeint ist damit, dass einzelne Aufgaben der IT, wie bspw. Infrastruktur, Applikationen, Prozesse, Personal oder gesamte 
-IT-Aufgaben, auf Basis einer vertraglichen Vereinbarung, für einen definierten Zeitraum an einen 
-externen Anbieter ausgelagert werden.\footcite[Vgl.][164]{krcmar_einfuhrung_2015} Konkrete 
-Beispiele im Bereich der Informationstechnologie für Hochschulen wären der Betrieb des 
-Rechenzentrums, der Anwendungsentwicklung oder der Telekommunikationsnetzwerke an andere 
-Unternehmen abzugeben. Der Informationsmanager verspricht sich einen besseren Zugriff auf 
-notwendige Ressourcen, Verlagerung möglicher Risiken und transparentere Ausgaben durch eine 
-Kooperation mit Outsourcing-Gebern. Dagegen stehen erhöhter Koordinationsaufwand, komplizierte 
-Vertragsgestaltungen und räumliche / zeitliche Distanz und damit fehlendes Vertrauen in den neuen 
-Kooperationspartner.\footcite[Vgl.][195 ff.]{barthelemy_2001}
+Outsourcing besteht aus den Wörtern \glqq Outside\grqq{}, \glqq Ressource\grqq{} und \glqq Using\grqq{}. Gemeint ist damit, dass einzelne Aufgaben der IT, wie bspw. Infrastruktur, Applikationen, Prozesse, Personal oder gesamte IT-Aufgaben, auf Basis einer vertraglichen Vereinbarung, für einen definierten Zeitraum an einen externen Anbieter ausgelagert werden.\footcite[Vgl.][164]{krcmar_einfuhrung_2015} Konkrete Beispiele im Bereich der Informationstechnologie für Hochschulen wären der Betrieb des Rechenzentrums, der Anwendungsentwicklung oder der Telekommunikationsnetzwerke an andere Unternehmen abzugeben. Der Informationsmanager verspricht sich einen besseren Zugriff auf notwendige Ressourcen, Verlagerung möglicher Risiken und transparentere Ausgaben durch eine Kooperation mit Outsourcing-Gebern. Dagegen stehen erhöhter Koordinationsaufwand, komplizierte Vertragsgestaltungen und räumliche / zeitliche Distanz und damit fehlendes Vertrauen in den neuen Kooperationspartner.\footcite[Vgl.][195 ff.]{barthelemy_2001}
 
 \subsection{Konklusion Serviceorientierung und Prozessorientierung}
 Schlussfolgend aus der Definition der Serviceorientierung und der Prozessorientierung lässt sich ableiten, dass sich beide Orientierungen nicht ausschließen, sondern ergänzen.  Dienstleistungsorientierung bedeutet, dass die Bereitstellung von Informationssystemen als Leistung und Dienst am Kunden selbst verstanden und gesteuert wird. Genau dies ergänzt die Prozessorientierung mit optimierten Prozessen zur Erbringung dieser Leistungen. 
-Die Hochschule Emden/Leer setzt beide Orientierungen ein, möchte sich aber laut dem Hochschulrechenzentrumsleiter Günter Müller in Richtung Prozessorientierung weiterentwickeln. \footcite{gunter_muller_interview} So empfieht es sich auf eine effektive und effiziente Gestaltung der Dienstleistungen zu konzentrieren und durch Standardisierung einheitliche Prozesse zu schaffen.
+Die Hochschule Emden/Leer setzt beide Orientierungen ein, möchte sich aber laut dem Hochschulrechenzentrumsleiter Günter Müller in Richtung Prozessorientierung weiterentwickeln. \footcite{gunter_muller_interview} So empfiehlt es sich auf eine effektive und effiziente Gestaltung der Dienstleistungen zu konzentrieren und durch Standardisierung einheitliche Prozesse zu schaffen.
+
+\todo[inline]{AW: Hinweis Fr. Krüger-Basener: Uneinheitliche Benennung im Gesamtwerk... "Konklusion" und "Zusammenfassung" oder "Fazit"}
+
 
