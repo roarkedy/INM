@@ -26,7 +26,7 @@ In der Abbildung \ref{fig_map_eduroam} ist ein Ausschnitt der weltweiten Lokalit
 \begin{figure}[h!]
 	\centering
 	\includegraphics[width=\textwidth]{kapitel/gruppe2/bilder/eduroam_map}
-	\caption{Standorte der Länder in denen DFNRoaming/eduroam betrieben wird \protect\footnotemark}
+	\caption{Standorte der Länder, in denen DFNRoaming/eduroam betrieben wird\protect\footnotemark}
 	\label{fig_map_eduroam}
 \end{figure}\footnotetext{\cite{weill_cornell_eduroam_2015}}
 
@@ -34,7 +34,7 @@ In der Abbildung \ref{fig_map_eduroam} ist ein Ausschnitt der weltweiten Lokalit
 \label{gigamove_rwth_aachen}
 Die RWTH Aachen (Rheinisch-Westfälische Technische Hochschule Aachen) stellt eine einfach zu nutzende Möglichkeit zum kurzfristigen Austausch großer Dateien zur Verfügung. Der Datenaustausch kann aus zwei Richtungen erfolgen. Zum einen kann die Nutzer eine Datei hochladen und das System erzeugt einen Link zum Download, zum anderen kann eine Datei angefordert werden, bei der das System einen Link generiert, der zu einem Formular zum Upload der Datei führt. Jeder Nutzer darf Dateien in der Gesamtgröße von 10 GB für einen Zeitraum von 14 Tagen auf den Servern abspeichern. Der von der RWTH Aachen gehostete Dienst GigaMove wird den Nutzern der Hochschule zur Verfügung gestellt.\footcite{hsel_servicelinks_2015} In der Abbildung \ref{fig_rwth_gigamove} ist die Plattform GigaMove der RWTH Aachen dargestellt.
 
-\begin{figure}
+\begin{figure}[h]
 	\centering
 	\includegraphics[width=\textwidth]{kapitel/gruppe2/bilder/rwth_gigamove}
 	\caption{Übersicht der Plattform GigaMove der RWTH Aachen \protect\footnotemark}
@@ -42,22 +42,40 @@ Die RWTH Aachen (Rheinisch-Westfälische Technische Hochschule Aachen) stellt ei
 \end{figure}\footnotetext{\cite{rwth_aachen_gigmove_2015}}
 
 \subsubsection{DFNVideoConference (DFNVC)}
-DFNVC (Deutsches Forschungsnetz Video Conference) bietet den Nutzern die Möglichkeit von einem PC, einem Raumsystem oder einem Telefon vom Hochschulstandort, durch die Nutzung des Wissenschaftsnetzes X-WiN, mit einem oder mehreren Nutzern zu kommunizieren. Die Kommunikation findet multimedial statt. Das Wissenschaftsnetz X-WiN ist die technische Plattform des Deutschen Forschungsnetzes. Über das X-WiN sind die Hochschulen und Forschungseinrichtungen in Deutschland untereinander und mit den Wissenschaftsnetzen in Europa und auf anderen Kontinenten vernetzt.\footcite[Vgl.][]{dfn_DFNVideoConference_2014} An der Hochschule wird dieser Dienst ebenfalls genutzt\footcite{hsel_shibboleth_auth_2015} und ist über einen Link auf die Hochschulwebsite erreichbar.\footcite{dfn_DFNVC_Webkonferenzen_2015}
+DFNVC (Deutsches Forschungsnetz Video Conference) bietet den Nutzern die Möglichkeit von einem 
+PC, einem Raumsystem oder einem Telefon vom Hochschulstandort, durch die Nutzung des 
+Wissenschaftsnetzes X-WiN, mit einem oder mehreren Nutzern zu kommunizieren. Die Kommunikation 
+findet multimedial statt. Das Wissenschaftsnetz X-WiN ist die technische Plattform des Deutschen 
+Forschungsnetzes. Über das X-WiN sind die Hochschulen und Forschungseinrichtungen in Deutschland 
+untereinander und mit den Wissenschaftsnetzen in Europa und auf anderen Kontinenten 
+vernetzt.\footcite[Vgl.][]{dfn_DFNVideoConference_2014} An der Hochschule wird dieser Dienst 
+ebenfalls genutzt\footcite{hsel_shibboleth_auth_2015} und ist über einen Link auf die 
+Hochschulwebsite erreichbar.\footcite{dfn_DFNVC_Webkonferenzen_2015}
 
 \subsection{Authentifizierung über Shibboleth-Verfahren und Single-Sign-On}
 \label{shibboleth_sso} 
 
-Das Shibboleth-Verfahren (Verfahren zur Verteilten Authentifizierung und Autorisierung für Webanwendungen) kommt an der Hochschule zum Einsatz.\footcite[Vgl.][]{hsel_shibboleth_auth_2015}  Durch dieses Verfahren können Dienste bestimmter Anbieter mit dem Hochschullogin genutzt werden, ohne dass bei diesem Anbieter ein neuer Account (Benutzerkennung und Passwort) erstellt werden muss. Hierfür existiert an der Hochschule ein Identity Provider Dienst und bei dem entsprechenden Dienstanbieter ein Service Provider Dienst.  Beim Aufruf einer Dienstanbieter-Ressource prüft der Service Provider Dienst, ob eine bestehende Anmeldesession existiert und leitet die Anfrage an die zur Verfügung gestellten Ressourcen weiter, ist dies nicht der Fall, wird der Benutzer an auf Seite weitergeleitet, wo er die Lokalität seiner Hochschule auswählen muss. Nach erfolgter Auswahl wird die Anfrage an den Identity Provider Dienst der ausgewählten Lokation weitergeleitet.\footcite[Vgl.][]{kit_shibboleth_2012} Wie in Abbildung \ref{fig_shibboleth_hs} dargestellt, ist dann für eine erfolgreiche Anmeldung die Hochschulkennung erforderlich.
+Das Shibboleth-Verfahren (Verfahren zur Verteilten Authentifizierung und Autorisierung für 
+Webanwendungen) kommt an der Hochschule zum Einsatz.\footcite[Vgl.][]{hsel_shibboleth_auth_2015}  
+Durch dieses Verfahren können Dienste bestimmter Anbieter mit dem Hochschullogin genutzt werden, 
+ohne dass bei diesem Anbieter ein neuer Account (Benutzerkennung und Passwort) erstellt werden 
+muss. Hierfür existiert an der Hochschule ein Identity Provider Dienst und bei dem entsprechenden 
+Dienstanbieter ein Service Provider Dienst.  Beim Aufruf einer Dienstanbieter-Ressource prüft der 
+Service Provider Dienst, ob eine bestehende Anmeldesession existiert und leitet die Anfrage an die zur 
+Verfügung gestellten Ressourcen weiter, ist dies nicht der Fall, wird der Benutzer an auf Seite 
+weitergeleitet, wo er die Lokalität seiner Hochschule auswählen muss. Nach erfolgter Auswahl wird die 
+Anfrage an den Identity Provider Dienst der ausgewählten Lokation 
+weitergeleitet.\footcite[Vgl.][]{kit_shibboleth_2012} Wie in Abbildung \ref{fig_shibboleth_hs} 
+dargestellt, ist dann für eine erfolgreiche Anmeldung die Hochschulkennung erforderlich. Es wird also 
+ein zentralisierter Account für die Authentifizierung genutzt.  
 
-Es wird also ein zentralisierter Account für die Authentifizierung genutzt.  
-
-\begin{figure}
+\begin{figure}[h]
 	\centering
-	\includegraphics[width=\textwidth]{kapitel/gruppe2/bilder/shibboleth}
+	\fbox{\includegraphics[width=10cm]{kapitel/gruppe2/bilder/shibboleth}}
 	\caption{Shibboleth-Login der Hochschule \protect\footnotemark}
 	\label{fig_shibboleth_hs}
 \end{figure}\footnotetext{\cite{hsel_shibboleth_auth_2015}}
-
+\clearpage
 Das Shibboleth-Verfahren ermöglicht den Studierenden und Mitarbeitern die Nutzung folgender Dienste \footcite{hsel_shibboleth_vpn_2015} :
 
 \begin{itemize}
@@ -71,31 +89,31 @@ Das Shibboleth-Verfahren ermöglicht den Studierenden und Mitarbeitern die Nutzu
 Single-Sign-On, wie in Kapitel \ref{realisierung_der_serviceorientierung} beschrieben, findet in Verbindung mit dem Shibboleth-Verfahren Verwendung. Nach erfolgreicher Authentifizierung ist der Zugriff auf alle Dienstanbieter-Ressourcen, die der Hochschule zur Verfügung stehen, möglich. Es müssen keine weitere Anmeldedaten eingegeben werden.
 
 Für den Zugriff auf die Datenlaufwerke (siehe Kapitel \ref{zentrale_Datenlaufwerke}) wird ebenfalls Single-Sign-On verwendet, da nach der Anmeldung am Client keine weiteren Benutzerdaten zur Authentifizierung eingegeben werden müssen. 
-
+\newpage
 \subsubsection{Springer Link}
 Studierende und Mitarbeiter der Hochschule haben über die Springer Link-Kooperation Zugriff auf über 40.000 Bücher, 5 Millionen Artikel, 2200 Zeitschriften und 165 Nachschlagewerk.\footcite{springer_springerlink_faq_2015} Die Oberfläche der Springer Link Plattform ist in Abbildung \ref{fig_springerlink_startseite} zu sehen. Springer Link bietet die Möglichkeit die Inhalte als *.pdf herunterzuladen. 
 
-\begin{figure}
+\begin{figure}[h]
 	\centering
-	\includegraphics[width=8cm]{kapitel/gruppe2/bilder/springerlink_startseite}
+	\includegraphics[width=\textwidth]{kapitel/gruppe2/bilder/springerlink_startseite}
 	\caption{Springer Link Startseite \protect\footnotemark}
 	\label{fig_springerlink_startseite}
 \end{figure}\footnotetext{\cite{springer_login_athens_2015}}
-
+\clearpage
 \subsubsection{WISO}
 Durch das Kooperationsverhältnis mit der GBI-Genios Deutsche Wirtschaftsdatenbank GmbH können die Mitglieder der Hochschule das komplette Angebot an Fachinformationen zu Wirtschafts- und Sozialwissenschaften, technischen Studiengängen und zur Psychologie  nutzen. WISO bietet über 14 Mio. Literaturnachweise, 2100 elektronische Bücher, 130 Mio. Artikel, 700.000 Marktdaten.\footcite{gbi_genios_uber_wiso_2015} Die WISO-Plattform ist in Abbildung \ref{fig_wiso_plattform} zu sehen.
 
-\begin{figure}
+\begin{figure}[h]
 	\centering
 	\includegraphics[width=\textwidth]{kapitel/gruppe2/bilder/wiso_plattform}
 	\caption{Übersicht der WISO-Plattform \protect\footnotemark}
 	\label{fig_wiso_plattform}
 \end{figure}\footnotetext{\cite{gbi_genios_homepage_2015}}
-
+\newpage
 \subsubsection{video2brain}
 Seit 2015 ist für alle Mitarbeiter und Studierende der Zugang zum Videostreaming-Portal der video2brain GmbH möglich. Schwerpunkt sind IT- und Kreativ-Themen, Lehrvideos für Fotografen, Grafiker, Web- und Screendesigner. Das Verlagsangebot umfasst mehr als 1700 Video-Trainingskurse. \footcite{adsgmbh_video2brain_2013} In der Abbildung \ref{fig_video2brain_suchergebnis} ist die Weboberfläche nach erfolgreicher Shibboleth-Authentifizierung dargestellt.
 
-\begin{figure}
+\begin{figure}[h]
 	\centering
 	\includegraphics[width=\textwidth]{kapitel/gruppe2/bilder/video2brain_suche}
 	\caption{Übersicht der video2brain Plattform \protect\footnotemark}
